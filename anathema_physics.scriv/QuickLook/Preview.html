@@ -1,0 +1,125 @@
+<html>
+
+<head>
+<title>anathema_physics</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<style type="text/css">
+	body {background-color: #bac0c7}
+    p.binderItem {margin: 10.0px 0.0px 0.0px 05.0px; font-family:Cochin, Times, Courier, Arial, serif; font-size:14.0px;}
+    .page {border: 1px solid #727272; background: #fff}
+    hr {
+      border-top: 1px dashed #000;
+      border-bottom: 0px solid #fff;
+      color: #fff;
+      background-color: #fff;
+      height: 0px;
+  </style>
+</head>
+
+<body>
+
+<table border="0" width="100%" cellspacing="3">
+<tr>
+<td>
+
+<table class="page" width="100%" cellspacing="10" cellpadding="2">
+<tr>
+<td valign="top">
+
+<ul>
+<li>
+<p class="binderItem"><strong>Part</strong></p>
+</li>
+<hr/>
+<ul>
+<li>
+<p class="binderItem"><strong>プロローグ</strong></p>
+</li>
+<hr/>
+<ul>
+<li>
+<p class="binderItem"><strong>anathema_scenario1</strong><br/>[loadplugin module="wuvorbis.dll"]<br/>
+;<br/>
+; マクロ定義<br/>
+;<br/>
+[call storage="macro.ks"]<br/>
+[font face="ＭＳ 明朝"]<br/>
+;<br/>
+; 各種パラメータ設定用サブルーチンを呼び出す<br/>
+;<br/>
+[call storage="album_init.ks" target=*album_init]<br/>
+[call storage="scene_init.ks" target=*scene_init]<br/>
+[call storage="sound_init.ks" target=*sound_init]<br/>
+[rclick call=true target="*rclick_menu" storage="rclick.ks" enabled=true]<br/>
+[if exp="sf.title"]<br/>
+;;※sf.titleで、一度タイトルを通ると最初からタイトル画面が出るようにする<br/>
+[jump storage="title.ks"]<br/>
+[endif]<br/>
+□シーンプロローグ／プロローグ<br/>
+;;｛<br/>
+;;♭効果音：se31<br/>
+;;※ウェイトに、吉里吉里特有のものあり<br/>
+[wait ...</p>
+</li>
+</ul>
+<hr/>
+<li>
+<p class="binderItem"><strong>Chapter1</strong></p>
+</li>
+<hr/>
+<ul>
+<li>
+<p class="binderItem"><strong>Scene</strong><br/><br/>
+□シーン１－１／大学へ行く<br/>
+;;｛<br/>
+;;◎イベント絵：chapter01b／フェード1000<br/>
+;;◎イベント絵：chapter01／フェード1000<br/>
+[l]<br/>
+;;◎イベント絵：chapter01b／フェード1000<br/>
+;;◎イベント絵：black／フェード1000<br/>
+;;◎イベント絵消し／フェード1000<br/>
+;;♭効果音：se48／フェード3000<br/>
+;;☆ウェイト：2000<br/>
+;;☆メッセージレイヤ消し<br/>
+;;☆ビジュアルノベルモード<br/>
+;;◇背景：bg80／フェード1000<br/>
+;;｝<br/>
+{bg https://storyblog.s3.amazonaws.com/uploads/picture/image/375/bg80-blur.jpg}<br/>
+{bgm daily-life}<br/>
+　朝の八時。すでに暑い。太陽がまぶしい。<br/>
+　俺は自転車に乗って家をでた。高校の頃と変わらぬ実家からの出発。変化といえば、十字路の曲がる先が右から左になったくらい。<br/>
+　大学に入って一年とちょっと。もう、それだけの時間が過ぎている。<br/>
+　去年のことを思い出すと、不手際に恥ずかしささえ感じる。講...</p>
+</li>
+</ul>
+</ul>
+<hr/>
+<li>
+<p class="binderItem"><strong>Part</strong></p>
+</li>
+<hr/>
+<ul>
+<li>
+<p class="binderItem"><strong>Chapter</strong></p>
+</li>
+<hr/>
+<ul>
+<li>
+<p class="binderItem"><strong>Scene</strong></p>
+</li>
+</ul>
+</ul>
+</ul>
+
+</td>
+<td width="8">
+</td>
+</tr>
+</table>
+
+</td>
+</tr>
+</table>
+
+</body>
+</html>

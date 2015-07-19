@@ -1,0 +1,1580 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<SearchIndexes Version="1.0">
+    <Documents>
+        <Document ID="25">
+            <Title>Part</Title>
+        </Document>
+        <Document ID="18">
+            <Title>Places</Title>
+        </Document>
+        <Document ID="40">
+            <Title>Paperback Novel</Title>
+        </Document>
+        <Document ID="33">
+            <Title>Scene</Title>
+            <Text>
+□シーン１－１／大学へ行く
+;;｛
+;;◎イベント絵：chapter01b／フェード1000
+;;◎イベント絵：chapter01／フェード1000
+[l]
+;;◎イベント絵：chapter01b／フェード1000
+;;◎イベント絵：black／フェード1000
+;;◎イベント絵消し／フェード1000
+;;♭効果音：se48／フェード3000
+;;☆ウェイト：2000
+;;☆メッセージレイヤ消し
+;;☆ビジュアルノベルモード
+;;◇背景：bg80／フェード1000
+;;｝
+{bg https://storyblog.s3.amazonaws.com/uploads/picture/image/375/bg80-blur.jpg}
+{bgm daily-life}
+　朝の八時。すでに暑い。太陽がまぶしい。
+　俺は自転車に乗って家をでた。高校の頃と変わらぬ実家からの出発。変化といえば、十字路の曲がる先が右から左になったくらい。
+　大学に入って一年とちょっと。もう、それだけの時間が過ぎている。
+　去年のことを思い出すと、不手際に恥ずかしささえ感じる。講義選択も、サークル選びも、勝手がよくわからずに気づいた頃には乗り遅れていた。;;@
+
+　——今年は？
+　そして、来年は。再来年は。後悔せずにいられるだろうか。
+　就職活動、それとも院に進学。そういう情報が耳に入ってきても、これまで俺は気づかないふりをしていた。
+　でも、そんなに遠い未来じゃない。言われるまでもなく、考えておいて損はない時期だ。
+　そうだ、未来の俺は、どんな人間になっている？;;＠
+
+　そこまで思いを巡らせて、腹に重たいものを感じる。ああ、いつものだ。;;＠
+
+;;｛
+;;◇背景：bg69／フェード1000
+;;◇背景：bg63／フェード1000
+;;｝
+{bg house}
+　大学への道の途中には、洲原奈美の家がある。
+　俺が高校を卒業してからもけっこう頻繁に顔をあわせる。
+　あいつは高三だから今年で受験生だ。
+　そして、奈美はたま～に言ってくるんだ。「勉強を教えてほしい」って。;;＠
+
+　なにかと断るのが苦手な俺は家庭教師みたいなことをやらされてる。
+　無給で。
+　……どうしてこうなった。;;＠
+
+　あああああ、ダメダメ！　暗いのはダメだ！
+　そうだ。奈美に教えるだけじゃないんだ。あいつから学ぶ部分もなきにしもあらず。そんな悪いことでもない。
+　……そう自分に言い聞かせた。
+【奈美】「あら、おはよう」;;＠
+
+;;※効果音音量下げ
+[eval exp="tf.se = true"]
+[seopt buf=1 volume=50]
+;;♪ＢＧＭ：bgm02／フェード3000
+;;｛
+;;△立ち：fgnm01ahpt／フェード300
+;;｝
+
+　聞き慣れた声に振り返ると、当の洲原奈美がそこにいた。
+　そうか、この時間だと、登校する奈美とぶつかるんだな。
+　俺は自転車を降りた。
+【蒼一】「よう」
+【奈美】「大学いくの？　[ruby text="そう"]蒼[ruby text="いち"]一、あんた、『授業は昼まえから行くようにしてる』って言ってなかったっけ」
+【蒼一】「ああ、試験が近いから、そろそろ行かないとやばい講義があるんだよ。試験日程も教えてもらわなきゃならないし」;;＠
+;;｛
+;;△立ち：fgnm01aipu／フェード300
+;;｝
+
+【奈美】「えっ？　そんなんでいいの？　授業にでなくて試験ができるの？」
+【蒼一】「その講義はでなくていいやつなんだよ。簡単だから」
+【奈美】「はぁ～……いいかげんなもんねえ」
+【蒼一】「大学ってのはそういうもんだよ」
+　
+　てきとうに相手をしているが、俺はちょっといやな気分になった。べつに奈美のせいじゃないけど、これから始まる試験期間を思えばため息もつきたくなるものだ。
+　たとえばさっき言ったとおり、一限目の講義は楽に単位がとれる。ふつうの学生ならそうだろう。
+　だけど、俺のばあいは事情がちょっとちがってて……。;;＠
+
+;;｛
+;;△立ち：fgnm01ahpt／フェード300
+;;｝
+
+;;※らぬき表現なのは知ってる
+
+【奈美】「今夜、勉強会しない？」
+【蒼一】「え！？」
+　なんだ、とつぜん？
+【奈美】「試験前なんでしょ？　大学でどんなことやってるのか気になるし、あんたもわたしから教わることは多いと思うわよ」
+　自信たっぷりに持ちかける奈美。
+【蒼一】「……勉強会なあ」
+　大学生が高校生に教わることがどれだけある？　と、断ることもできるんだが。
+　――たくさんあるんだよな、こいつの場合。;;＠
+
+;;｛
+;;△立ち：fgnm01ahps／フェード300
+;;｝
+
+【奈美】「ん、なに？　わたしに教わることがないとか言うの？」
+【蒼一】「いや。いいぜ、やろう」
+
+;;｛
+;;△立ち：fgnm01dkqt／フェード300
+;;｝
+
+　承諾に奈美は笑顔でこたえた。
+【奈美】「うんうん！　よかった。蒼一が身の程知らずじゃなくて。いつもとおなじ、夜の八時だからね。忘れて遅刻しないでよね？」
+【蒼一】「わかってる」
+　心のなかの今日の予定に一行追加。部活が終わるのが六時半だから、余裕をもって帰れるな。;;＠
+
+;;｛
+;;△立ち：fgnm01ahpt／フェード300
+;;｝
+
+　さて、せっかく早起きしたのに遅刻するわけにはいかない。
+【蒼一】「奈美、俺はそろそろ行くよ」
+【奈美】「ん、わかった。いってらっしゃい」
+【蒼一】「おう」
+　短くこたえて俺は自転車を走らせた。;;＠
+
+;;※効果音の音量を戻す
+[eval exp="tf.bgm = false"]
+[seopt buf=1 volume=100]
+
+;;♪ＢＧＭ止め／フェード3000
+;;｛
+;;△立ち消し／フェード300
+;;◇背景：bg70／フェード1000
+;;◇背景：bg71／フェード1000
+;;｝
+{bg residential-street-1}
+　いつもの道をとおって、大学へとひたすらペダルをまわしていく。
+　朝とはいえ真夏の日ざしに、シャツのしたから汗ばんでくる。
+　こんなときにタオルを持ってでてくればよかったといつも思うんだけど、それを忘れるのもいつものことだった。;;＠
+
+;;｛
+;;△立ち：fgri01ehpu／フェード300
+;;｝
+
+
+【ライコ】「ひゃ！？」
+【蒼一】「わ」
+　危ない。飛びだしだ。ブレーキを引く。
+
+;;♭効果音：se82
+
+　十歳くらいの女の子の寸前で自転車を止めた。
+【蒼一】「だ、大丈夫か？」
+
+;;｛
+;;△立ち：fgri01ehps／フェード300
+;;｝
+
+【ライコ】「は、はい……すみません」
+【蒼一】「ごめん」
+　もうちょっとでぶつかるところだった。気をつけないと。;;＠
+
+;;｛
+;;△立ち：fgri01ehpu／フェード300
+;;｝
+
+【ライコ】「あ、あの……失礼しますっ」
+
+;;｛
+;;△立ち消し／フェード300
+;;｝
+
+　女の子は逃げるように立ち去っていった。
+　怖がらせたかな。
+　あ……いけない。俺ものんびりしていられないんだ。
+　俺はペダルを踏みこんだ。;;＠
+
+;;｛
+;;◇背景：bg72／フェード1000
+;;◇背景：bg73／フェード1000
+;;◇背景：bg74／フェード1000
+;;◇背景：bg64／フェード1000
+;;｝
+;;♭効果音止め
+;;♭効果音：se49／フェード3000
+{page}
+{bg https://storyblog.s3.amazonaws.com/uploads/picture/image/370/bg73-blur.jpg}
+{page}
+{bg https://storyblog.s3.amazonaws.com/uploads/picture/image/371/bg74-blur.jpg}
+{page}
+{bg https://storyblog.s3.amazonaws.com/uploads/picture/image/362/bg64-blur.jpg}
+{bgm hubbub-1}
+
+　自転車を構内にとめ、俺は講義室に踏みこんだ。
+　中央の列の後ろのほう、右はしに腰をおろし、となりの席にかばんを置く。
+　初老の男性教授はプロジェクタの調整をしている。遅刻はまぬがれたみたいだ。
+　部屋にいる学生は二十人くらい。さすがに試験直前だと、やってくる数が多くなるな。;;＠
+
+　……あれ、俺のクラスのやつらだ。
+　教室のまえのほうに、見覚えのある三人の顔が見えた。俺とおなじ学部学科のメンバーだ。
+　この講義、植物学基礎論Ａは選択科目のうえ、本来なら一年のうちにとるべき講義だ。だから、とってる人間はあまり多くないはずなんだが。たぶん、あいつらも俺とおなじ立場なんだろう。去年、単位をとりそこねたんだ。;;＠
+
+　そいつら以外、たいていの人たちが俺と同様、四人がけの椅子のはしっこにぽつんと座り、レジュメか教科書に目を通している。
+　……レジュメか。ふだん授業に来ないから、俺はほとんどもらってない。教科書はそもそも買ってない。
+　こういうとき、友達がいたらと思うんだけど。
+　顔をあげると、クラスのやつらと目が合った。俺はすぐに目をそらした。;;＠
+
+;;♭効果音止め／フェード3000
+{bgm none}
+
+　プロジェクタの調整を終えた教授が、スーツにつけた小型マイクをさわりながら口を開く。
+【教授】「おはようございます」
+　講義が始まった。今回くらいは集中して聞こう。
+【教授】「今日は最後の授業なんですけど、知ってました？　僕、つい先週まで勘ちがいしてて、まだ二回あると思ってたんですけど、事務に聞いたら今回が最後って言われて、ちょっと慌ててます。はは」
+　なんと、これが最後の授業だったか。今日来られて幸運だったな。;;＠
+
+【教授】「レジュメをまわしますね。前回までのは教卓に置いておきます。……今日はずいぶん学生が多いなあ。やっぱり最終回だからだろうね。レジュメ、もしかして足りない？」
+
+;;♭効果音：se50
+
+　足りませーん、と目前の女子グループがくちぐちに声をあげる。
+【教授】「しかたないですね。友達に見せてもらってください」;;＠
+
+　どきっとする。
+　これまでなんども体験してきた、いやな瞬間だ。
+　え、えと。俺のとこにはレジュメは配られない。でも、見せてもらえるような相手なんて俺には……。
+　あ。
+　あのクラスメイトたちなら、頼みこめば、見せてもらえる。……かもしれない。
+　でも、あいつらとの間柄はほんとうに薄いもので。話したことはほとんどなくて。あるとしたら、去年の英語の時間でグループ学習したくらいか。;;＠
+
+　俺がクラスメイトだって、あいつらも知ってる……よな？　うん、さすがにそれはわかるだろ。
+　だが会話したことがほぼないのはたしかだし、性格があわないかもしれないし。
+　当のクラスメイトたちは、けっこう距離があいてるからか、俺のことに気づかない。
+　ああ、どうすりゃいいんだ。迷い、あせったあげく、俺は動きだせない。俺と似たような学生も左右に見えた。視線を落ち着かなく漂わせ、それでも助けを求められずにいる。;;＠
+
+;;♭効果音：se54
+
+【教授】「いま配ったレジュメの左上の図を見てください。Ａｒｃｈａｅｆｒｕｃｔｕｓって書いてありますよね？　ラテン語で、こういう意味があるんですよ」
+　教授の話が俺たちを無視して始まった。もうだれかに話しかけられない。時機を逸したんだ。
+
+;;♭効果音：se53／ループ
+{bgm writing}
+
+　黒板に植物の図とアルファベットの学名が書きつけられ、授業はとどこおりなく進んでいく。黒板と見比べながら、レジュメに書きこみをしていく女子グループ。肩をあわせて相談しながら、真剣な顔で講義に聞き入るクラスメイトたち。;;＠
+
+;;{
+;;◎イベント絵：ev07／フェード1000
+;;｝
+
+　なんでこうなったんだろう。
+　大学に入った直後のガイダンスは、クラスでまとまって開かれた。高校みたいに自己紹介をして、クラスのメーリスに登録して。同窓生でつくる団体、なんとか会への名簿記入もしたっけ？　そのときは、誰かと友達になる可能性があったんだ。
+　試験期間のあとによく飲み会のメールがまわってきたけど、俺はずっと無視してきた。なんとなく行きたくなかっただけで、はっきりした理由はない。飲み会にいつも出席してたら、つるむやつくらいできたのかな。;;＠
+
+　教授の描く図と文字をしかたなくノートに書き写す。
+　そして、こんなことを考えていた。
+　俺が大学で体験してきたことは、世のなかにあふれてる希望の大学生活とはすこしちがってる。
+　それはみんな自業自得だ。俺の引っこみ思案で面倒くさがりな性格が、他人とのあいだに壁をつくった。;;＠
+
+　初対面の相手と話ができて、飲み会に欠かさずでてくるやつらが人間関係をつくってくあいだ、俺はゲームをして小説を読み、無意味で非効率な試験勉強をしてたんだ。
+　出席なんて友達に代返してもらえばいいだけの話なのに、俺には頼む相手もいない。;;＠
+
+;;♭効果音止め
+;;｛
+;;◎イベント絵消し／フェード2000
+;;｝
+
+　時刻は午前十時ちょうど。そろそろ講義は終了だ。
+　試験範囲の最後まで話し終えたらしい教授は、部屋を見わたしてこう告げた。
+【教授】「――再来週の試験ですが、レジュメの持ちこみを認めます。これまで授業に使ったレジュメを活用してください。ふつうに授業にでていた人ならレジュメなしでも大丈夫だと思いますけど……ま、救済措置です」
+　そうか。持ちこみ可か！
+　その言葉を待ってたんだ。うれしさに口の端が自然とあがる。
+　レジュメ持ちこみ可なら、ほとんど出席してなかった俺でも合格できるだろう。;;＠
+
+【教授】「前回までのレジュメは残り少ないですよー。もうすぐなくなります」
+　はっ！
+　立ち上がって覗きこんでみると、五種類ほどならべられたレジュメはすでに残りは二、三枚。
+　まずい。
+　席を離れて教卓に急ぐ。だがそのあいだにも前のほうにいる連中がどんどんレジュメを奪いとっていき――。
+　
+　ぜんぶなくなった。;;＠
+
+　そりゃないよ。
+　後ろに座った俺が悪いってのか？
+　俺はあわてて教授に詰めよった。
+【蒼一】「あ、あの、レジュメはもうないんですか！？」
+【教授】「うん、ないね。残念だけど」
+【蒼一】「なんとかならないんですか？　刷り直せばいいじゃないですか」
+【教授】「友達にコピーしてもらったらいいだろ？」;;＠
+
+【蒼一】「うっ……」
+【教授】「ん……きみ、友達がいないの？」
+　教授の顔つきが変わった。使い終わった実験用動物でも見るような目だった。
+【教授】「最近の学生にはそういう人が多いらしいね。僕が若いころは、友達なんてだれにでもできたんだが」
+　吐き捨てるように言って、さっさと講義室をでようとする。
+【蒼一】「レ、レジュメ……」
+【教授】「自分で手に入れなさい。いくらでも方法はあるだろう？　僕は君ひとりのために印刷しなおすほどヒマじゃないんだ」;;＠
+
+;;♭効果音：se43
+
+　立ち去ってゆく教授を止めることはできなかった。
+　いまの俺、ものすごく情けない顔だと思う。
+　講義室のなかを振り返ってみるが、もう学生はほとんどでていったあとだった。おなじクラスのやつらもいない。;;＠
+
+　どうする？　レジュメがないと持ちこみも試験対策もできない。
+　どうにかして手に入れなきゃならない……ネット上にあればいいんだけど、たぶんないと思う。
+　勇気をふりしぼってクラスメイトに頼めば解決するんだろう。だが、そんなことができるんなら、最初からぼっちになってない。
+　はぁ……。;;＠
+
+;;◇背景：black／フェード2000
+
+　二限目の講義を、鬱々とした気分で受けた。
+　こんどもひとりで、黙ってノートに板書した。
+　……俺みたいな大学生はけっこう多いと思う。
+　だからって、なんの慰めにもならないけど。;;＠
+
+;;｛
+
+□シーン１－２／午後
+
+
+;;♭効果音：se44／フェード3000
+;;◇背景：bg78／フェード1000
+;;｝
+{bg https://storyblog.s3.amazonaws.com/uploads/picture/image/371/bg74-blur.jpg}
+
+　十二時からの昼休み。
+　冷房の効いた講義室からでると、真夏の熱気が身にこたえる。
+　学食に行けば涼しいんだろうな――。
+　そう思ったけど、やっぱりやめた。外で食べよう。
+　食堂は人が多いし、並ぶ必要があるし、なんとなく居心地が悪い。それにくわえて食欲があんまりない。軽いのでいいだろう。;;＠
+
+;;｛
+;;◇背景：bg65／フェード1000
+;;｝
+{bg https://storyblog.s3.amazonaws.com/uploads/picture/image/373/bg78-blur.jpg}
+　大学内のタリカフェでえびとアボカドのサンドウィッチを買って、時計台の裏に足を運ぶ。
+　留学生が多いみたいで、英語と中国語、それにどこのかわからない外国語が聞こえてきた。このへんも、昼休みを楽しむリア充たちが集まってるんだけど、食堂ほど多くないから大丈夫だ。;;＠
+
+{bg https://storyblog.s3.amazonaws.com/uploads/picture/image/363/bg65-blur.jpg}
+　空いたベンチがないか、庭を歩き回った。
+　セミの鳴く声を聞くと、もうすっかり真夏なんだなと思う。入学してから一年以上がたって、新鮮さも不安も期待もなくなった。大学生活にすっかりなじんで、ずっとまえからこんな日々を送ってたような気がしてくる。人と話す機会が少ないのは寂しいけど、それにも慣れた。;;＠
+
+　おっ、ちょうどいいベンチを発見。あそこに座ろう。
+　俺は早足でそこに向かう。見ると、反対方向から人影がやってくるとこだった。
+　あれ、あいつは――。
+　[ruby text="あら"]荒[ruby text="むら"]村？;;＠
+
+;;｛
+;;◇背景：bg66／フェード1000
+;;｝
+{bg https://storyblog.s3.amazonaws.com/uploads/picture/image/364/bg66-blur.jpg}
+【荒村】「よう土岐野」
+　手をあげて軽く声をかけ、荒村はベンチに座った。彫りの深い、東洋人らしくない顔が嬉しそうに俺を見あげる。
+【蒼一】「……よう」
+【荒村】「どうした、座らないのか？　となりに座れよ」
+【蒼一】「……」
+　言われたとおり、荒村の横に俺は腰かけた。;;＠
+
+【荒村】「なに食べるんだ。タリーズのサンドウィッチ？」
+【蒼一】「えびとアボカドサンド」
+　包装袋から取りだし、俺はそれを囓る。味は普通だ。
+【荒村】「えびとアボカド？　そうか。オレはタリーズのサンドウィッチ食べたことないんだよな。ウマいか？」
+【蒼一】「それなりに」
+【荒村】「そうかそうか、それなりか！　はは、それなりならオレも食べてみたい。どうだ、ひとくちくれないか？」;;＠
+
+　にこっと笑顔を向けてくる荒村。そう言われては断れない。
+【蒼一】「ああ、いいよ」
+　食べかけのサンドウィッチを差し向ける。荒村はそれを受け取り、端のほうにかぶりついた。
+　もぐもぐして、飲みこんでから口を開く。
+【荒村】「うぉう……うまいじゃないか！」
+【蒼一】「そうか。それはよかった」
+　荒村からサンドウィッチを返してもらう。;;＠
+
+　こいつは荒村[ruby text="あつ"]篤[ruby text="し"]志。俺とおなじボクシング部に所属している。
+　見たとおり陽気でさわやかなやつなんだが、俺はちょっと苦手なんだよな。
+　なんでかって……言いにくいけど、こいつがさわやかすぎるからだと思う。こいつのまえに立つと、自分の弱さ、くだらなさがはっきりわかってしまうから、近づきたくないんだ。
+　……卑屈だな。自分でもわかってるけど、こんな性格だから荒村を避けたくなるんだろう。;;＠
+
+【荒村】「どうした、腹の調子でも悪いのか？」
+【蒼一】「えっ……いや」
+　気遣わしげに覗きこむ荒村は、眉根をひそめてたずねてきた。
+【荒村】「せっかくのウマいサンドウィッチもあんまり食べないし、顔色もよくない。大丈夫か？　今日の練習、でられるか？　俺は授業があるからでられないし、明日のスパーも無理してやらなくていいんだぞ？」
+【蒼一】「大丈夫だよ、心配すんな」
+【荒村】「んー、そうか。大丈夫ならいいんだけどな」;;＠
+
+　思案げな様子の荒村を見ていると、つい口がすべりそうになる。弱音を吐いてもしかたない。そうわかってはいるんだが。
+　……なあ荒村。
+　俺のことなんか気にかけなくていいんだぞ。体調が悪いのはいまに始まったことじゃない。
+　胃が弱くなったのは半年くらいまえからだ。そのうち治ると思ったが、いつまでたってもよくならない。内科医を訪ねて胃カメラまで呑んだのに、とくに異常は見つからなかった。;;＠
+
+　ＮＵＤ。
+　Ｎｏｎ－Ｕｌｃｅｒ　Ｄｙｓｐｅｐｓｉａとかいう病名らしい。
+　名前はもっともらしいが、つまるところ「腫瘍でも潰瘍でもない、よくわからない原因で胃がおかしくなる病気」のことだ。
+　――なんだよそりゃ。
+　ようするになにもわかってないってことか？
+　医師につめよったところ、原因は精神的なものだと説明された。胃下垂や腹筋力の不足、夜食も理由としてありえるが、真面目にボクシングをやってる俺には関係なさそうだとのこと。;;＠
+
+　めんどくさい身体になっちまったもんだ。
+　俺は目の前の健康そうな男の顔を眺める。こいつにはそういう悩みはなさそうだ。子供っぽい
+　きっと毎日が充実してるんだろう。;;＠
+
+【荒村】「――なにオレの顔を見つめてるんだ？　オレに惚れたのか？　ウホッ？」
+【蒼一】「ちがうよ」
+【荒村】「ん、じゃなんだ。明日戦う予定のオレに、視線で呪いをかけてんのか？　受けて立つぞ、お？」
+【蒼一】「……どんな発想してんだよおまえ」;;＠
+
+【荒村】「あん？　それもちがうのか？　ていうかおまえあれだぞ。スパーの前日にガンつけられたら、挑発されてると思うのが普通だぞ？」
+【蒼一】「そうなのか」
+　……いやいや。
+【蒼一】「おまえ、どんだけ神経質なんだよ」
+【荒村】「神経質？　そんなこたぁない、オレはボクシングを本気でやってるからそれくらい当然だ」
+【蒼一】「……そ、そうか」
+　なにいってんだこいつ。;;＠
+
+【荒村】「スパーは特別な練習だ。試合とたいして変わらない。勝つために、[l]……スパーに勝ち負けはないが、戦ってる本人からすれば勝った、負けたってのは心のなかにあるだろ？[l]　勝つためにどんなことでもやるのがボクシングだ」
+【蒼一】「……はあ」
+【荒村】「いいか？　オレはな、どんなことがあっても本気でやるつもりだ。それが相手にたいしての礼儀だ。[l]スパーはそういうもんだと思ってる。ほかのやつらがどう考えてるかは知らんが。そして、だ」
+　まじまじと俺を見おろし、真剣な顔のままぼそりと荒村は告げた。;;＠
+
+【荒村】「オレは明日、おまえを殺す気で戦う」
+【蒼一】「は……！？」
+【荒村】「いやすまん、ちょっと言いすぎた。さすがにそこまではしない」
+　困ったように小さく笑い、荒村はばんばんと俺の肩をたたいた。
+【荒村】「悪いな。怖がらせたか？　はは」;;＠
+
+　荒村はたまにこういうことを話してくる。
+　正直言って、よくわからないやつだ。
+　見た目どおりのスポーツ青年（体育会系にあらず）かと思ったら、ふと独特の思想を語る瞬間がある。
+　裏表のない付き合いやすいやつだけど、たまに――とんでもない怪物と顔をつきあわせている気分になる。;;＠
+
+【女性】「荒村くん」
+　聞こえた声に俺は顔をあげた。
+　背の高い女子が荒村を見ていた。スレンダーな体型で、なにかスポーツをやってそうな美人さんだ。
+【荒村】「お、悪い」
+　荒村が立ちあがってさわやかに微笑んだ。;;＠
+
+【荒村】「ごめんな、時間になったら俺から行こうと思ってたんだけど」
+【女性】「いいよ。思ってたよりはやく終わったし」
+　親しげに言葉を交わすふたり。
+　そういえばこの人、まえに見たことあるな。
+　えーと……。
+　ああ、あの人か。
+　ボクシング部に荒村を迎えに来た人だ。そうか、荒村の彼女だったのか。;;＠
+
+　俺に向きなおったさわやかくんがすまなそうに口を開く。
+【荒村】「悪い、土岐野。オレはもう行かなきゃならない」
+【蒼一】「ん、わかった」
+【荒村】「じゃあ、またボクシング部でな」
+　そう言って、荒村は彼女より先にたって歩きだした。;;＠
+
+　あわてて足を速め、彼女は荒村と並んで歩く。
+　その光景を俺はサンドウィッチをくわえながら見ていた。
+　……。;;＠
+
+;;｛
+;;♭効果音止め／フェード3000
+;;♪ＢＧＭ止め／フェード3000
+;;◇背景：black／フェード1000
+</Text>
+        </Document>
+        <Document ID="26">
+            <Title>anathema_scenario1</Title>
+            <Text>[loadplugin module="wuvorbis.dll"]
+;
+; マクロ定義
+;
+[call storage="macro.ks"]
+[font face="ＭＳ 明朝"]
+;
+; 各種パラメータ設定用サブルーチンを呼び出す
+;
+[call storage="album_init.ks" target=*album_init]
+[call storage="scene_init.ks" target=*scene_init]
+[call storage="sound_init.ks" target=*sound_init]
+[rclick call=true target="*rclick_menu" storage="rclick.ks" enabled=true]
+[if exp="sf.title"]
+;;※sf.titleで、一度タイトルを通ると最初からタイトル画面が出るようにする
+[jump storage="title.ks"]
+[endif]
+□シーンプロローグ／プロローグ
+;;｛
+;;♭効果音：se31
+;;※ウェイトに、吉里吉里特有のものあり
+[wait time=3000 canskip=false]
+;;♪ＢＧＭ：bgm10
+;;◇背景：bg61／フェード3000
+;;☆ＡＤＶモード
+;;｝
+{bgm song-of-insects}{bg https://storyblog.s3.amazonaws.com/uploads/picture/image/122/night-sky.jpg}
+　熱気の消えた、ゆるい風。裏の林から虫の声が聞こえる。
+　頭上を仰ぐと、思っていた以上に多くの星がまたたいていた。いまは七月。深夜一時過ぎだから、あれはもう秋の星座……えーと、形からしてペガスス座だろうか？
+{bg https://storyblog.s3.amazonaws.com/uploads/picture/image/121/roof-top-night.jpg}
+　コンクリートの床を歩く自分。それが自分じゃないようで、さっき見ていた夢の感触がまだ肌に残っている。
+　あれ？
+　誰かいる。鉄柵のそばで、口を引き結んで空を見上げる女子生徒。;;＠
+
+;;△立ち：fgnm01ahps／フェード1000
+;;☆ウェイト：1000
+;;△立ち消し／フェード1000
+&lt;img src="https://storyblog.s3.amazonaws.com/uploads/picture/image/123/fgnm07ahps.png" /&gt;;;＠
+　ああ、あいつか。
+　たしか名前は、えーと、[ruby text="す"]洲[ruby text="はら"]原[ruby text="な"]奈[ruby text="み"]美。二ヶ月くらいまえに入部してきたやつだ。
+　俺は科学部っていう高校の部活に所属してる。物理でも、化学でも地学でもなんでも科学らしいことをやってるとこだ。
+　そんなに専門的なことはしない。活動内容はゆるい。部内で最近流行してるのは電子工作だ。Audianoとかいうので遊んでいるやつが何人かいる。
+　ちなみに俺はその中に入っていない。最初はやっていたけど、熱中できる時期は過ぎてしまった。;;＠
+
+　今夜のイベントは天体観測のだ。科学部が月一くらいに行っている合宿で、金曜の夜に部員が集まり、翌日の朝まで空を眺める。
+　洲原は観測に集中してるらしく、近づいていっても動かない。
+　邪魔しちゃ悪いかな。
+　足音をたてないよう注意しながら、非常口の電灯から離れたところまで歩いていく。
+　せっかく屋上まで来たんだ。ちょっとでもいい星を見たい。
+　かろうじて表情がわかるくらいの距離で、なんとなく洲原を見つめる。;;＠
+
+;;△立ち：fgnm01ahps／フェード1000
+;;☆ウェイト：1000
+;;△立ち消し／フェード1000
+
+　中学生と間違われるほどちいさな身体で、釣り目がちで大きな両目。子猫のようだとひそかな人気があるのもわかる。
+　だが実際に話してみるとすぐわかるが、あいつは子猫なんてもんじゃない。
+　洲原はとにかく気むずかしいやつだ。科学部では口数がすくなく、まず自分からはしゃべらない。
+　ぶ厚く大きな英語の本をよく読んでいて、話しかけるとものすごくいやそうな顔をする。
+　「あなたにわたしの読書を邪魔する権利があるの？」と言わんばかりの強い瞳で睨まれたことは、科学部部員ならだれしも経験したことがあるだろう。俺もある。;;＠
+
+　それでも顧問が注意しないのは、あいつがとんでもない天才だかららしい。
+　洲原はおそろしく頭の回転が速いやつで、しかも知識量が並みじゃない。理系の分野ではすでに大学レベルに達してるとかなんとか。
+　それで誰からも邪魔されず、自由なふるまいがなかば許されている……らしい。;;＠
+
+　片目を閉じて、真摯と呼んでいいほどの姿勢で望遠鏡に視線を注ぐ洲原。
+　端正な顔立ち。こうして見てるだけだと、ただの女の子に見えるけどな。
+　いや、「ただの」じゃなくて、きれいな女の子。見かけだけならかわいいと言っていい。
+　微動だにしないそいつは凍りついたみたいで、まるで俺たちの時間が止まったみたいで――。;;＠
+
+「よし」
+　洲原の声が聞こえた。
+　そいつは鉄柵に手をかけ、よじ登った。
+「え__？」
+　足を回して、乗り越える。
+　あっさり柵の向こうに行ってしまったそいつは、足下に首を巡らせた。
+　屋上の、柵の外。一歩踏み外せば転落する、そんな場所だ。;;＠
+
+
+「なにしてるんだ」
+　思わず呼びかけた。
+　そいつは俺に目を向けた。はっと目を見開き、なにか言おうとして。
+「あっ」
+　その手が柵から離れた。
+「あっ……え？　ちょ、や、やああああああっ！」;;＠
+{bg https://storyblog.s3.amazonaws.com/uploads/picture/image/126/nami-hand.jpg}{page}
+;;◎イベント絵：ev63a／フェード1000
+;;◎イベント絵：ev63b／フェード1000
+;;◎イベント絵：ev63c／フェード1000
+{bg https://storyblog.s3.amazonaws.com/uploads/picture/image/127/hands.jpg}
+【蒼一】「おわっ」
+　俺は跳んだ。
+　腕を伸ばし、かろうじてそいつの細い手首をとらえた。
+　体重がすべて腕一本にかかる。
+【蒼一】「ぐっ……お」
+　重い。落ちる。耐えられない。;;＠
+
+;;◎イベント絵：black／フェード1000
+
+【洲原】「やっ……お、落ちるぅ！」
+【蒼一】「落とさねえよっ」
+　右手も伸ばして、両手で捕まえる。これでなんとか持ち上げられるだろう。
+【洲原】「離さないで！　あたしの手を離さないで！」
+【蒼一】「わかってる！」
+　体勢を整え、一気に引き上げようとする。
+　……？
+　足が、浮いた。;;＠
+{bgm none}{bg black}
+　上半身を前に出しすぎていた。
+　え、おわ、わ。
+　後ろに戻れない。俺、もしかして、こいつと一緒に落ちる？
+　柵を越えて、その向こう。電灯が届かない、暗闇が正面に見えた。
+　取れそうで取れないバランスがとうとう崩れて。
+　本当に、落ちた。
+【蒼一】「うおおおっ」
+【洲原】「ひゃああ！」;;＠
+
+{page}
+;;♭効果音：se81b
+;;☆揺らし：500
+　痛い。けど、死んではいない。大けがもしていない。せいぜい軽い打ち身程度。
+　目を開けると。
+　身体の下に、そいつがいた。
+　運が良かったのか悪かったのか、手が胸をつかんでいたりはしない。
+　でも。
+　顔が近い。温かな息を肌に感じる。;;＠
+{bgm starlight}
+
+【洲原】「どいて」
+【蒼一】「あ……」
+【洲原】「どいて！」
+【蒼一】「わ、悪い」
+　急いで跳ね上がり、洲原から離れる。
+　立ち上がった洲原はむすっとした態度。そうなるのも当然だが。;;＠
+
+{bg https://storyblog.s3.amazonaws.com/uploads/picture/image/125/roof-top-night-2.jpg}
+;;◇背景：bg27
+;;◎イベント絵消し／フェード1000
+
+　なんだ。
+【蒼一】「もう一段あったのか」
+　俺たちがいるのは、屋上のふちの下。二メートルほど床が低い、屋上の下フロアだった。
+　上フロアからここに来るルートはない。隣接しているのに、柵を乗り越える以外に行き来できないみたいだ。屋上に来る機会がなかったから、こんな場所があるなんて知らなかった。
+
+;;△立ち：fgnm07chps／フェード300
+
+【洲原】「なにしようとしたの？」
+　きつい目で洲原が詰問してきた。
+【蒼一】「いや、えと、勘違いするな。変なことしようとはしてない」
+
+;;△立ち：fgnm07chqv／フェード300
+
+【洲原】「そうじゃなくて！」;;＠
+
+;;△立ち：fgnm07chps／フェード300
+
+【洲原】「助けようとしたんでしょ。あたしが落ちそうだとか、勝手に誤解して」
+【蒼一】「お、おう」
+【洲原】「……あんなとこから落ちないわよ」
+【蒼一】「でも実際落ちただろ」
+
+;;△立ち：fgnm07chqv／フェード300
+
+【洲原】「それはあんたが突然出てきたから！　誰もいないと思ってたのに……びっくりしたのよ。」
+　そうかよ。さっきのはどう見ても危険だったと思うがな。
+
+;;△立ち：fgnm07chps／フェード300
+
+【洲原】「それに、落ちてもたいしたことない」
+【蒼一】「……ああ、なるほど」
+　それはわかる。;;＠
+
+　ふたつのフロアに分かれている屋上。その高さにはせいぜい二メートルくらいの差しかない。気をつけていれば、落ちても怪我はしないだろう。
+　だが俺が助けようとしたせいで、こいつはうまく着地できない体勢で落ちてしまった。罪悪感がないわけじゃない。
+【蒼一】「すまなかった」
+
+;;△立ち：fgnm07ahps／フェード300
+
+【洲原】「んー……」
+　不機嫌な顔は変わらない。
+【蒼一】「謝るよ。ごめん」
+
+;;△立ち：fgnm07bhps／フェード300
+
+【洲原】「……」
+【蒼一】「申し訳ございませんでした……どうかお許しください……」
+
+;;△立ち：fgnm07ahqt／フェード300
+
+【洲原】「……あはっ」
+　洲原の顔つきがやわらいだ。;;＠
+
+;;△立ち：fgnm07ahpt／フェード300
+
+【洲原】「もう、いいわよ。気にしなくて。悪気はなかったんだし」
+
+　ふう、よかった。もう怒ってないみたいだ。
+【蒼一】「なに、しようとしてたんだ？」
+【洲原】「星座を見ようとしてた」
+【蒼一】「……それで、なんで柵から降りようと？」
+
+;;△立ち：fgnm07ajps／フェード300
+
+【洲原】「しし座が見たかったのよね。上の屋上フロアからだと見えないけど、下フロアだったら見えるかと思ったの」　
+【蒼一】「じゃあ、見えるか？　ここから」;;＠
+
+;;△立ち：fgnm07ahps／フェード300
+
+【洲原】「うーん……」
+
+;;△立ち消し／フェード300
+
+　せまい屋上フロアを歩き回ってから洲原はこう結論づけた。
+
+;;△立ち：fgnm07ajpu／フェード300
+
+【洲原】「無理ね、やっぱり」
+【蒼一】「……」
+　痛い思いをしたってのに、あんまりだ。
+【蒼一】「ところで、誰か来たら、叱られるんじゃないか」
+
+;;△立ち：fgnm07ahps／フェード300
+
+【洲原】「そう？　どうせ見つからないと思うけど」
+【蒼一】「万が一がある」
+
+;;△立ち：fgnm07bhps／フェード300
+
+【洲原】「んー……じゃ、戻る？」
+【蒼一】「そのほうがいい」
+　このフロア、明かりがなくて歩きにくい。また転んだりしたら踏んだり蹴ったりだ。
+　それに、隠れてこいつとふたりきりでいるのは、なんというか、恥ずかしい。;;＠
+
+;;｛
+;;◎イベント絵：black／フェード1000
+;;◇背景：bg61
+;;◎イベント絵消し／フェード1000
+;;｝
+{bg black}{page}{bg https://storyblog.s3.amazonaws.com/uploads/picture/image/121/roof-top-night.jpg}
+　屋上の上フロアに戻って、一息つく。
+
+;;△立ち：fgnm08aipu／フェード1000
+
+【洲原】「そういえば、あんた……[ruby text="と"]土[ruby text="き"]岐[ruby text="の"]野、だっけ？」
+【蒼一】「あ、ああ」
+　名前を呼ばれたのでいちおう答える。
+　……ところでさっき、こいつ呼び捨てじゃなかったか？　洲原は一年、俺は三年だってのに。
+
+;;△立ち：fgnm08ahqs／フェード300
+
+【洲原】「ずっとあたしのこと見てたの？」
+【蒼一】「え、っと」
+【洲原】「屋上に出てきてから、あたしを助けるまで」
+【蒼一】「ずっと、てわけでもない。一分くらい」
+【洲原】「一分。すごく長いわね。それで、柵を乗り越えるとこも見てたの？」
+【蒼一】「ま、まあそういうことになる」
+
+;;△立ち消し／フェード300
+
+　うぁぁ、と細い声をもらして洲原は両手で顔を覆う。指のあいだから真っ赤に染まった頬が見えた。;;＠
+
+;;△立ち：fgnm08cjqs／フェード300
+
+【洲原】「くぅ……恥ずかしい……声かけてくれればいいのに」
+　こいつ、こんなやつだっけ？
+
+【蒼一】「悪い。話しかけづらかったから」
+
+;;△立ち：fgnm07bipu／フェード300
+
+【洲原】「え、なんで？」
+【蒼一】「なんでって……なんとなく」
+
+;;△立ち：fgnm07ahps／フェード300
+
+【洲原】「そっか。なんとなくか」
+【蒼一】「…………？」
+　いつもの洲原とは態度がちがう。なんだか居心地が悪い。悪いことをしてる気分になる。;;＠
+
+;;△立ち：fgnm07ehps／フェード300
+
+【洲原】「ねえ、土岐野。聞いてみたいことあるんだ。あの……。[l]あんたはわたしをどんな人間だと思ってる？」
+【蒼一】「……はあ！？」
+　なんだよこいついきなり。
+
+;;△立ち：fgnm07ahps／フェード300
+
+【洲原】「正直に言ってみて」
+
+　えーと、ちょっと待てよ。なんて言うべきか考えてみる。
+　洲原奈美、科学部の一年生。
+　整った顔のくせにいつも不機嫌で、声をかけてもつっけんどんな返事しかしない。そんな女子生徒だ。
+　言うまいか迷ったが、こいつもわかってるんだろう。いいや、言っちまえ。
+【蒼一】「わがままで気むずかしいやつだと……思ってたんだが」
+
+;;△立ち：fgnm07ajpu／フェード300
+
+　俺がそう告げると洲原はちいさくため息をついた。;;＠
+
+;;△立ち：fgnm07ahps／フェード300
+
+【洲原】「……そんなとこでしょうね。はぁ……。[l]仕方ないとは思うんだけど、たまに自分でもいやになるわ」
+【蒼一】「ちょっと待てよ。いまは考えが変わった」
+
+;;△立ち：fgnm07aipu／フェード300
+
+【洲原】「え？」
+　こいつは、いままでの洲原とはちがうやつみたいだ。
+　ふつうの女子みたいにしゃべる洲原は、まるで別人。
+【蒼一】「おまえは洲原じゃないみたいだ。双子の姉妹だって言われたら信じちまいそうだよ」
+
+;;△立ち：fgnm07bipu／フェード300
+
+　思ったことを口にすると、洲原は目を見開いた。
+【洲原】「……あんたちょっと面白いこと言うわね。なになに、そういうのに萌えるの？」
+【蒼一】「ちがう。ていうか萌えるってなんだよ！」;;＠
+
+;;△立ち：fgnm07ahpt／フェード300
+
+【洲原】「双子でそっくりだけど、性格が真反対のキャラがいたらどきどきしない？」
+【蒼一】「しない」
+
+;;△立ち：fgnm07dkpt／フェード300
+
+【洲原】「ふーん、そうなの。てっきりあんたはそっち系の人かと」
+【蒼一】「どっち系だよ！？」
+　く、くそ、いつのまにか洲原のペースに呑まれてやがる。
+　そういえば、こんなに長くこいつと話すのは初めてだ。
+　いつもなら、全身から漂わせた不機嫌オーラにあてられて、まともにしゃべろうとは思わない。いまみたいな状況は、たぶんこれまでありえなかった。
+　からから脳天気そうに笑う目の前の洲原は、どこにでもにいそうな陽気な女子そのものだ。;;＠
+
+;;△立ち消し／フェード300
+;;△立ち：fgnm07ahps／フェード300
+
+　意地悪い微笑みを浮かべていた洲原がふっと真顔になり、俺に一歩近づいてきた。
+【蒼一】「な、なんだ？」
+　星を見るように首をのばし、俺の目を覗きこむ洲原。その口元が動き、唇が開く。
+【洲原】「わたし、友達がいないのよね」
+【蒼一】「は……！？」
+【洲原】「こんな性格してたらあたりまえだとは思うんだけど、やっぱりちょっとさみしい」
+【蒼一】「そ……そうか」
+
+;;△立ち：fgnm07ejps／フェード300
+
+【洲原】「なんでわたし、こんな性格なんだろうなー……。好きなことを好きなだけできるよう気をつけてたら、いつのまにかこうなっちゃってたのよ」
+　そんなのよくあることだろ、とは言えない。;;＠
+
+;;△立ち：fgnm07bhps／フェード300
+
+【洲原】「土岐野、あんたは何時間か前まで、鬼ごっこしてて騒いでたでしょ？」
+【蒼一】「ん……ああ」
+　天体観測のあいだにやることはほとんどない。観測は朝まで続くのだが、実際になにをするかは個人の自由だ。
+　ずっと星を眺めるのは退屈だし、深夜の学校はもの珍しいものだから、俺たちはたいてい遊びまわってる。
+　鬼ごっこ、あるいはかくれんぼ。単純で子供っぽいが意外と……いや、とてつもなく楽しい。
+【蒼一】「……迷惑だったか？」
+
+;;△立ち：fgnm07ahps／フェード300
+
+【洲原】「うん。だけどちょっとうらやましかった。好きなだけ騒げるような友達がわたしにはいないから」
+　洲原は目をそらし、夜空に向かって語りかけるように言った。;;＠
+
+;;△立ち：fgnm07ajps／フェード300
+
+【洲原】「ああ、いかんねえ。深夜テンションだと妙なことまで口走っちゃう。いかんいかん」
+
+　俺も洲原にならって星を見つめる。
+【蒼一】「きれいだ」
+
+;;△立ち：fgnm07ahpt／フェード300
+
+【洲原】「うん、きれいだねー」
+　天の川が夜空を横切り、ちょうどふたつに分けている。天頂ちかくに夏の大三角。東の空の低いところにあるのは……。
+【蒼一】「……あれ、ペガスス座か？　四角いの」;;＠
+
+;;△立ち：fgnm07dhpt／フェード300
+
+【洲原】「ん、そうよ。秋の星座の代表。いまは夏だけど、深夜だからちょうどいい位置に来てるわね」
+　間の抜けたやりとり。だんだん首が痛くなってきた。
+　こいつに言わなきゃいけないことがあるような気がして、口をつぐむ。洲原の呼吸の整ったリズムが聞こえている。;;＠
+{bg black}
+;;△立ち：fgnm07aipu／フェード300
+
+　それは唐突にあらわれた。
+
+;;△立ち：fgnm07bipu／フェード300
+
+【洲原】「あ…………！」;;＠
+{filter none}{bgm none}{bg https://storyblog.s3.amazonaws.com/uploads/picture/image/124/shooting-star.jpg}{page}{page}{filter black}
+
+;;｛
+;;△立ち消し／フェード300
+;;◎イベント絵：black／上下フェード200
+;;◎イベント絵：ev01／フェード300
+;;☆ウェイト：1000
+;;｝
+
+　魔法のような瞬間だった。
+　光が唐突にまばゆくきらめき、緑色の爆発を生んだ。夜空中の明るさが圧縮されたような一瞬。
+　なんだあれ。流星？　花火？
+　それとも、俺が知らないなにか？;;＠
+
+;;｛
+;;◎イベント絵：black／フェード1000
+;;◎イベント絵消し／フェード1000
+;;△立ち：fgnm07biqu／フェード1000
+;;｝
+{bg https://storyblog.s3.amazonaws.com/uploads/picture/image/121/roof-top-night.jpg}{bgm song-of-insects}
+　光が消えた。目が夜闇に馴染むまでの数秒で、洲原の表情が変わっていった。
+【洲原】「火球だわ……！」
+　目を輝かせてそう言ったんだ。
+　なんだそれ。かきゅう？;;＠
+
+;;△立ち：fgnm07aiqs／フェード300
+
+【洲原】「すごい、初めて見た」
+【蒼一】「か、火球ってなんだ？」
+
+;;△立ち：fgnm07bipu／フェード300
+
+【洲原】「え……知らないの？　科学部員のくせに？　へー、そうなんだ」
+
+;;△立ち：fgnm07ahpt／フェード300
+
+【蒼一】「う……」
+　こいつに言われるとすげえ悔しい。;;＠
+
+;;△立ち：fgnm07dkpt／フェード300
+
+【洲原】「無知なあんたのために教えてあげるわ。火球っていうのは流星のなかでも特に明るいものをいうの。さっきのはたぶんペガスス座流星群のなかに、大きなやつがあったのね」
+【蒼一】「そ、そうか」
+　言われてみれば聞いたことがある気がする。
+　さっきの光が、その、火球。なるほど。
+「あーよかった、すっごくきれいだった！　合宿にまで来たかいがあったわ、ほんと」
+　そう話す洲原の顔は、これまで見たなかで一番輝いていた。;;＠
+
+;;△立ち：fgnm07dkqt／フェード300
+
+【洲原】「ん、どうしたの土岐野？」
+【蒼一】「あ、いや、おまえがうれしそうだから、驚いた」
+
+;;△立ち：fgnm07dkpw／フェード300
+
+【洲原】「そりゃうれしいわよっ！　生まれて初めて火球を見られたんだから」
+【蒼一】「うん、そうだな……」
+　すました態度のいつもの洲原とは、ほんとうに別人だ。
+
+;;△立ち：fgnm07ahpt／フェード300
+
+【洲原】「知ってる？　宇宙に飛んで行ってしまう流星がごくまれにあるそうよ」
+【蒼一】「なんだそれ。飛んで行ってしまう？　流れ星は地球に入ってくるんだろ？」;;＠
+
+;;△立ち：fgnm07djpt／フェード300
+
+【洲原】「地球の引力に呼び込まれた流星物質が、ほとんど水平に大気に突入して燃えだしたあと、その速度のせいで宇宙に脱出していくのよ。勢いよく投げた石が、水面で跳ねるみたいに」
+【蒼一】「そんなことがあるのか？」
+
+;;△立ち：fgnm07ahpt／フェード300
+
+【洲原】「うん。アメリカのジャクソン湖の火球なんかは一分半以上も滞空していたそうよ。真昼の空に太陽みたいに光る火球が走っていった写真が残ってるわ。その間の移動距離は一五〇〇キロメートルもあったとか」
+【蒼一】「へえー」;;＠
+
+　いちど見てみたいもんだな、大気圏を通過してく火球っていうのを。
+　——ん、まてよ？
+【蒼一】「それから流星はどうなるんだ？　また重力に引かれて、地球に落ちるのか？」
+
+;;△立ち：fgnm07ahps／フェード300
+
+【洲原】「えーと……ううん、その確率はかなり低いと思う」;;＠
+
+【洲原】「流星物質の正体は彗星か小惑星だと考えられているんだけれど、そういった天体は地球とおなじで、太陽を焦点のひとつにした楕円軌道を回ってるの。軌道は絶えず微妙に摂動するし、公転周期もまちまちだから……二回も地球の大気圏内に突入する確率なんて、ほんとうに天文学的な数字でしょうね」;;＠
+
+　洲原の説明を聞きながら、俺は頭のなかに地球とそれをかすめていく岩のかたまりを描いた。
+【蒼一】「地球とすれちがったあとは、その流星を見ることは二度とできないんだな」
+
+;;△立ち：fgnm07aips／フェード300
+
+【洲原】「……そういうことになるわね」
+　それはちょっと、切ない話だな。;;＠
+
+;;△立ち：fgnm07ahps／フェード300
+
+　細い流星がもうひとすじ空をかすめていった。
+　——そうだ。聞きたいことがある。
+【蒼一】「洲原。なんでいま、気楽な口調でしゃべってんだ？　いつもみたいな無愛想はやめたのか？」
+
+;;△立ち：fgnm07bhqu／フェード300
+
+【洲原】「あ……そうね。なんでだろ。深夜テンションだからかな？　ふだんのわたしだったら、軍事オタのあんたなんててきとうにあしらってるんだけどな」
+【蒼一】「そんな風に思ってたのかっ！？」
+
+;;△立ち：fgnm07dkqt／フェード300
+
+【洲原】「あ、ごめん、本音が出ちゃった」;;＠
+
+【蒼一】「ちょっと待て、おまえの言ってることに異議があるぞっ！　まず俺は軍事オタじゃない！」
+【洲原】「学校にミリタリー雑誌持って来てても？」
+【蒼一】「うっ……いや、オタクっていうほど詳しくないんだ」
+【洲原】「オタクってだいたいそう言うのよね」
+【蒼一】「ぐぁっ……くそ、否定できない」
+【洲原】「部室にＳＡＴマガジンを持ち込んで読み回してる男子どもがオタクでないって？　幼稚園児でもわかるわよ」
+【蒼一】「ぬがぁあっ！」
+　崩れ落ちそうになるのをぎりぎりでこらえる。;;＠
+
+;;△立ち：fgnm07dkpw／フェード300
+
+【洲原】「あっははははは！」
+　そんな俺を見ていた洲原はこれ以上なく楽しそうに笑った。
+【蒼一】「……なあ、洲原。おまえはそんなに性格わるくないと思うぞ？」;;＠
+{bgm yokaze}&lt;img src="https://storyblog.s3.amazonaws.com/uploads/picture/image/128/fgnm07biqs.png" /&gt;{page}
+;;△立ち：fgnm07aipu／フェード300
+
+【洲原】「え？」
+【蒼一】「いつもは体面を気にして、好きに振る舞えないんじゃないか？　本当は人と話したくても、自分のキャラじゃないと思って、勇気をだせなかったりして」
+　そういう経験は俺にもある。誰でも体験する悩みだ。
+【蒼一】「俺だって、そんなに自由に生きてるわけじゃないけど……。いまのおまえは、いつもの不機嫌そうなおまえよりずっと……その、いいと思う」
+　洲原はぽかんとした様子だった。
+【洲原】「……あ、ああ、そう……」;;＠
+;;△立ち：fgnm07ahqs／フェード300
+
+　短くこたえただけで、口をつぐんでしまう。
+【蒼一】「思ったままにしゃべって、行動したら、きっと友達と思えるやつもできるだろ」
+　俺が言ってやっても、洲原はちいさくうなずくだけだった。
+　どうしたんだ？　さっきまで嘘みたいに饒舌だったのに。;;＠
+
+　洲原が黙ったままなので俺もしゃべれなかった。
+　しかたなく、空を見上げたり歩いたりした。洲原のほうを見ると、目を逸らされた。
+　なにか話したほうがいいかなと思って口を開いたが、結局言葉が出てこない。
+　無言のまま一分くらいが過ぎた。;;＠
+
+【洲原】「わたし、下で休んでくる」
+　ぽつりと洲原が呟くように言った。
+【蒼一】「お、おう」
+【洲原】「日の出を見たいから、四時頃に起こしてね」
+【蒼一】「その時間に俺が起きてたらそうする」
+【洲原】「うん、頼んだ。……じゃ」;;＠
+
+;;△立ち消し／フェード1000
+
+　洲原が立ち去っていくのを俺は見送った。
+　校舎内へのドアを開け、入ろうとする瞬間、洲原がこっちにちらっと目を向けた。
+　俺が手を振ると、そいつも手を振り返してくれた。;;＠
+
+;;♭効果音：se31
+;;△立ち消し／縦フェード2000
+
+　いまから二年前のことだ。
+
+
+; タイトルメニュー画面へ
+;
+[jump storage="title.ks"]
+
+</Text>
+        </Document>
+        <Document ID="11">
+            <Title>Title Page</Title>
+            <Synopsis>Title page to the manuscript.</Synopsis>
+            <Text>龍 加藤
+57-13
+京都市南区唐橋琵琶町
+京都府
+601-8457
+075 682-2476
+katoryo55@gmail.com
+
+(Your agent’s name)
+(Your agent’s address)
+&lt;$wc100&gt; words.
+
+
+
+
+
+
+
+
+
+
+&lt;$PROJECTTITLE&gt;
+
+by &lt;$fullname&gt;</Text>
+            <Notes>This is the title page of the manuscript. Note that “Compile As-Is” is ticked - this ensures that the title page’s formatting doesn’t get changed during the Compile process, even though the formatting of other text documents will be overridden to use a standard 12-point manuscript font.
+
+The &lt;$PROJECTTITLE&gt; and &lt;$fullname&gt; tags get replaced with the information set in Project &gt; Meta-Data Settings… &gt; Project Properties. You can edit those settings or just replace this text altogether. (Other information is taken from Address Book when the project is created.)</Notes>
+        </Document>
+        <Document ID="49">
+            <Title>Paperback Novel</Title>
+            <Text>THE GREATEST STORY EVER TOLD
+Jorges Lucaz
+Copyright © 2012 Jorges Lucaz All rights reserved.
+ISBN: ISBN-13:
+Dedicated to Dusty Bin.
+
+PART ONE THE PROXY
+
+1
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi rhoncus adipiscing velit, sit amet cursus libero vehicula sed. Nulla sed urna tellus. Proin non ligula at ligula mollis tempor nec non ipsum. Maecenas non ultricies elit. Ut ac eros ac eros scelerisque commodo.
+Suspendisse accumsan risus nec leo sagittis dignissim. Aenean mollis iaculis mattis. Integer quam eros, ullamcorper at auctor ut, semper ac quam.
+Donec et felis vitae justo laoreet laoreet. Nam eu purus vel nisl venenatis sodales. Quisque tempor blandit dolor, non placerat dui tristique commodo. Curabitur scelerisque hendrerit lectus, laoreet semper dui commodo porta.
+Morbi ullamcorper, ipsum tristique sollicitudin tristique, leo arcu accumsan eros, consequat euismod ipsum sem quis libero.
+Morbi ut tortor ipsum. Maecenas ut rhoncus metus. Etiam pellentesque hendrerit dignissim. Sed aliquam,
+3
+Jorges Lucaz
+sem quis pulvinar pharetra, urna nunc pharetra orci, eu varius velit lacus eu nisl. Ut et quam non mauris convallis ullamcorper sed non libero. In hac habitasse platea dictumst. Proin quis pellentesque magna. Mauris in erat est.
+Nullam ac risus mi, vitae lacinia nibh. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Vestibulum dignissim elementum neque, vitae consectetur lectus pharetra nec. Fusce odio orci, fringilla a vulputate feugiat, placerat eget massa. Integer non magna eget dolor pulvinar vestibulum sit amet at mi.
+Cras blandit leo erat, id accumsan velit. Integer hendrerit, diam ut tincidunt sodales, diam lorem viverra nisl, vel porttitor ante metus et sem. Suspendisse potenti. Suspendisse eget lacus enim, sed placerat enim. Ut sit amet arcu id lacus gravida luctus ullamcorper pellentesque justo.
+Cras laoreet, ligula non sagittis ornare, dolor sapien pharetra leo, non hendrerit nisi libero at enim. Nulla facilisi. Aenean volutpat hendrerit orci, at commodo massa vestibulum congue.
+Aenean interdum, erat quis interdum porttitor, odio tortor ullamcorper nisl, eget tincidunt velit massa ut turpis. Praesent lacinia condimentum erat, a tempor elit viverra eget.
+Curabitur id erat quis massa feugiat semper. Suspendisse semper eros vitae mauris dignissim imperdiet mattis mauris accumsan. Suspendisse potenti. Vivamus vitae risus neque, id tempus mi. Integer quis
+4
+The Greatest Story Ever Told
+dolor et felis blandit auctor sed eget lectus.
+Donec sagittis ultricies diam, vitae porta nisi vehicula
+facilisis. Nullam et nunc a lacus tempus viverra. Ut pharetra tortor quis sem pretium pellentesque fermentum diam viverra. Vestibulum luctus sapien vel nibh vulputate eu tempor orci vehicula. Proin ultricies lobortis orci, id facilisis sapien ornare non.
+Nulla facilisi. Praesent bibendum, ipsum et mattis dictum, neque lacus bibendum enim, sed porta massa metus in enim. Nullam orci nisi, imperdiet at vehicula eu, lacinia vel libero. Donec in nisi lectus, sollicitudin porta est. In vitae risus nisi. Aenean eget hendrerit metus.
+Sed venenatis est at justo sagittis ullamcorper. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
+Aenean eget ullamcorper nisi. Aliquam gravida ultrices lobortis. Suspendisse eget dignissim lorem. Suspendisse potenti. Pellentesque blandit orci quis tellus aliquet ut pharetra ante pellentesque. Sed sit amet dui orci. Sed ac euismod nulla. Proin ut eros libero.
+Mauris vitae tellus elit, non gravida augue.
+Fusce in dui mi. Aliquam augue sapien, vulputate at porttitor ut, mollis in ipsum. Sed porta tortor non mauris iaculis vel molestie nisl interdum. Aenean ut felis urna. Cras ac est quis neque pharetra fermentum.
+Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Praesent sem dui, luctus a feugiat vitae, porta sed turpis. Duis vitae nulla felis. In adipiscing libero massa. Sed neque mauris, gravida non bibendum congue, congue at
+5
+Jorges Lucaz
+massa.
+Quisque elit ligula, tempor laoreet sagittis quis,
+accumsan quis purus. Aliquam eu purus condimentum libero tristique fringilla a ut massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+Nulla facilisi. Praesent bibendum, ipsum et mattis dictum, neque lacus bibendum enim, sed porta massa metus in enim. Nullam orci nisi, imperdiet at vehicula eu, lacinia vel libero. Donec in nisi lectus, sollicitudin porta est. In vitae risus nisi. Aenean eget hendrerit metus.
+Sed venenatis est at justo sagittis ullamcorper. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
+6
+2
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi rhoncus adipiscing velit, sit amet cursus libero vehicula sed. Nulla sed urna tellus. Proin non ligula at ligula mollis tempor nec non ipsum. Maecenas non ultricies elit. Ut ac eros ac eros scelerisque commodo.
+Suspendisse accumsan risus nec leo sagittis dignissim. Aenean mollis iaculis mattis. Integer quam eros, ullamcorper at auctor ut, semper ac quam.
+Donec et felis vitae justo laoreet laoreet. Nam eu purus vel nisl venenatis sodales. Quisque tempor blandit dolor, non placerat dui tristique commodo. Curabitur scelerisque hendrerit lectus, laoreet semper dui commodo porta.
+Morbi ullamcorper, ipsum tristique sollicitudin tristique, leo arcu accumsan eros, consequat euismod ipsum sem quis libero.
+Morbi ut tortor ipsum. Maecenas ut rhoncus metus. Etiam pellentesque hendrerit dignissim. Sed aliquam,
+7
+Jorges Lucaz
+sem quis pulvinar pharetra, urna nunc pharetra orci, eu varius velit lacus eu nisl. Ut et quam non mauris convallis ullamcorper sed non libero. In hac habitasse platea dictumst. Proin quis pellentesque magna. Mauris in erat est.
+Nullam ac risus mi, vitae lacinia nibh.
+Vestibulum ante ipsum primis in faucibus orci luctus
+et ultrices posuere cubilia Curae; Vestibulum dignissim elementum neque, vitae consectetur lectus pharetra nec. Fusce odio orci, fringilla a vulputate feugiat, placerat eget massa. Integer non magna eget dolor pulvinar vestibulum sit amet at mi.
+Cras blandit leo erat, id accumsan velit. Integer hendrerit, diam ut tincidunt sodales, diam lorem viverra nisl, vel porttitor ante metus et sem. Suspendisse potenti. Suspendisse eget lacus enim, sed placerat enim. Ut sit amet arcu id lacus gravida luctus ullamcorper pellentesque justo.
+Cras laoreet, ligula non sagittis ornare, dolor sapien pharetra leo, non hendrerit nisi libero at enim. Nulla facilisi. Aenean volutpat hendrerit orci, at commodo massa vestibulum congue. Aenean interdum, erat quis interdum porttitor, odio tortor ullamcorper nisl, eget tincidunt velit massa ut turpis. Praesent lacinia condimentum erat, a tempor elit viverra eget.
+Curabitur id erat quis massa feugiat semper. Suspendisse semper eros vitae mauris dignissim imperdiet mattis mauris accumsan. Suspendisse potenti. Vivamus vitae risus neque, id tempus mi. Integer quis dolor et felis blandit auctor sed eget lectus. Donec
+8
+The Greatest Story Ever Told
+sagittis ultricies diam, vitae porta nisi vehicula facilisis. Nullam et nunc a lacus tempus viverra. Ut pharetra tortor quis sem pretium pellentesque fermentum diam viverra. Vestibulum luctus sapien vel nibh vulputate eu tempor orci vehicula. Proin ultricies lobortis orci, id
+facilisis sapien ornare non.
+Aenean eget ullamcorper nisi. Aliquam gravida ultrices lobortis. Suspendisse eget dignissim lorem. Suspendisse potenti. Pellentesque blandit orci quis tellus aliquet ut pharetra ante pellentesque. Sed sit amet dui orci. Sed ac euismod nulla. Proin ut eros libero.
+Mauris vitae tellus elit, non gravida augue. Fusce in dui mi. Aliquam augue sapien, vulputate at porttitor ut, mollis in ipsum. Sed porta tortor non mauris iaculis vel molestie nisl interdum.
+Aenean ut felis urna. Cras ac est quis neque pharetra fermentum.
+Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Praesent sem dui, luctus a feugiat vitae, porta sed turpis. Duis vitae nulla felis. In adipiscing libero massa. Sed neque mauris, gravida non bibendum congue, congue at massa.
+Quisque elit ligula, tempor laoreet sagittis quis, accumsan quis purus. Aliquam eu purus condimentum libero tristique fringilla a ut massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+9
+
+PART TWO PROJECT BOOMERANG
+
+3
+Curabitur id erat quis massa feugiat semper. Suspendisse semper eros vitae mauris dignissim imperdiet mattis mauris accumsan. Suspendisse potenti. Vivamus vitae risus neque, id tempus mi. Integer quis dolor et felis blandit auctor sed eget lectus.
+Donec sagittis ultricies diam, vitae porta nisi vehicula facilisis. Nullam et nunc a lacus tempus viverra. Ut pharetra tortor quis sem pretium pellentesque fermentum diam viverra. Vestibulum luctus sapien vel nibh vulputate eu tempor orci vehicula. Proin ultricies lobortis orci, id facilisis sapien ornare non.
+Nulla facilisi. Praesent bibendum, ipsum et mattis dictum, neque lacus bibendum enim, sed porta massa metus in enim. Nullam orci nisi, imperdiet at vehicula eu, lacinia vel libero. Donec in nisi lectus, sollicitudin porta est. In vitae risus nisi. Aenean eget hendrerit metus.
+Sed venenatis est at justo sagittis ullamcorper. Pellentesque habitant morbi tristique senectus et netus et
+13
+Jorges Lucaz
+malesuada fames ac turpis egestas.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi rhoncus adipiscing velit, sit amet cursus libero vehicula sed. Nulla sed urna tellus. Proin non ligula at ligula mollis tempor nec non ipsum. Maecenas non ultricies elit. Ut ac eros ac eros scelerisque commodo.
+Suspendisse accumsan risus nec leo sagittis dignissim. Aenean mollis iaculis mattis. Integer quam eros, ullamcorper at auctor ut, semper ac quam.
+Nullam ac risus mi, vitae lacinia nibh.
+Vestibulum ante ipsum primis in faucibus orci luctus
+et ultrices posuere cubilia Curae; Vestibulum dignissim elementum neque, vitae consectetur lectus pharetra nec. Fusce odio orci, fringilla a vulputate feugiat, placerat eget massa. Integer non magna eget dolor pulvinar vestibulum sit amet at mi.
+Cras blandit leo erat, id accumsan velit. Integer hendrerit, diam ut tincidunt sodales, diam lorem viverra nisl, vel porttitor ante metus et sem. Suspendisse potenti. Suspendisse eget lacus enim, sed placerat enim. Ut sit amet arcu id lacus gravida luctus ullamcorper pellentesque justo.
+Cras laoreet, ligula non sagittis ornare, dolor sapien pharetra leo, non hendrerit nisi libero at enim. Nulla facilisi. Aenean volutpat hendrerit orci, at commodo massa vestibulum congue. Aenean interdum, erat quis interdum porttitor, odio tortor ullamcorper nisl, eget tincidunt velit massa ut turpis. Praesent lacinia condimentum erat, a tempor elit viverra eget.
+***
+14
+The Greatest Story Ever Told
+Donec et felis vitae justo laoreet laoreet. Nam eu purus vel nisl venenatis sodales. Quisque tempor blandit dolor, non placerat dui tristique commodo. Curabitur scelerisque hendrerit lectus, laoreet semper dui commodo porta.
+Morbi ullamcorper, ipsum tristique sollicitudin tristique, leo arcu accumsan eros, consequat euismod ipsum sem quis libero.
+Morbi ut tortor ipsum. Maecenas ut rhoncus metus. Etiam pellentesque hendrerit dignissim. Sed aliquam, sem quis pulvinar pharetra, urna nunc pharetra orci, eu varius velit lacus eu nisl. Ut et quam non mauris convallis ullamcorper sed non libero. In hac habitasse platea dictumst. Proin quis pellentesque magna. Mauris in erat est.
+Nullam ac risus mi, vitae lacinia nibh.
+Vestibulum ante ipsum primis in faucibus orci luctus
+et ultrices posuere cubilia Curae; Vestibulum dignissim elementum neque, vitae consectetur lectus pharetra nec. Fusce odio orci, fringilla a vulputate feugiat, placerat eget massa. Integer non magna eget dolor pulvinar vestibulum sit amet at mi.
+Cras blandit leo erat, id accumsan velit. Integer hendrerit, diam ut tincidunt sodales, diam lorem viverra nisl, vel porttitor ante metus et sem. Suspendisse potenti. Suspendisse eget lacus enim, sed placerat enim. Ut sit amet arcu id lacus gravida luctus ullamcorper pellentesque justo.
+Cras laoreet, ligula non sagittis ornare, dolor sapien pharetra leo, non hendrerit nisi libero at enim. Nulla facilisi. Aenean volutpat hendrerit orci, at commodo
+15
+Jorges Lucaz
+massa vestibulum congue. Aenean interdum, erat quis interdum porttitor, odio tortor ullamcorper nisl, eget tincidunt velit massa ut turpis. Praesent lacinia condimentum erat, a tempor elit viverra eget.
+Aenean eget ullamcorper nisi. Aliquam gravida ultrices lobortis. Suspendisse eget dignissim lorem. Suspendisse potenti. Pellentesque blandit orci quis tellus aliquet ut pharetra ante pellentesque. Sed sit amet dui orci. Sed ac euismod nulla. Proin ut eros libero.
+Mauris vitae tellus elit, non gravida augue. Fusce in dui mi. Aliquam augue sapien, vulputate at porttitor ut, mollis in ipsum. Sed porta tortor non mauris iaculis vel molestie nisl interdum. Aenean ut felis urna. Cras ac est quis neque pharetra fermentum.
+Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Praesent sem dui, luctus a feugiat vitae, porta sed turpis. Duis vitae nulla felis. In adipiscing libero massa. Sed neque mauris, gravida non bibendum congue, congue at massa. Quisque elit ligula, tempor laoreet sagittis quis, accumsan quis purus. Aliquam eu purus condimentum libero tristique fringilla a ut massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+16
+4
+Curabitur id erat quis massa feugiat semper. Suspendisse semper eros vitae mauris dignissim imperdiet mattis mauris accumsan. Suspendisse potenti. Vivamus vitae risus neque, id tempus mi. Integer quis dolor et felis blandit auctor sed eget lectus. Donec sagittis ultricies diam, vitae porta nisi vehicula facilisis.
+Nullam et nunc a lacus tempus viverra. Ut pharetra tortor quis sem pretium pellentesque fermentum diam viverra. Vestibulum luctus sapien vel nibh vulputate eu tempor orci vehicula. Proin ultricies lobortis orci, id facilisis sapien ornare non.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi rhoncus adipiscing velit, sit amet cursus libero vehicula sed. Nulla sed urna tellus. Proin non ligula at ligula mollis tempor nec non ipsum. Maecenas non ultricies elit. Ut ac eros ac eros scelerisque commodo.
+Suspendisse accumsan risus nec leo sagittis dignissim. Aenean mollis iaculis mattis. Integer quam eros,
+17
+Jorges Lucaz
+ullamcorper at auctor ut, semper ac quam.
+Donec et felis vitae justo laoreet laoreet. Nam eu purus vel nisl venenatis sodales. Quisque tempor blandit dolor, non placerat dui tristique commodo. Curabitur scelerisque hendrerit lectus, laoreet semper dui commodo porta.
+Morbi ullamcorper, ipsum tristique sollicitudin tristique, leo arcu accumsan eros, consequat euismod ipsum sem quis libero.
+Morbi ut tortor ipsum. Maecenas ut rhoncus metus. Etiam pellentesque hendrerit dignissim. Sed aliquam, sem quis pulvinar pharetra, urna nunc pharetra orci, eu varius velit lacus eu nisl. Ut et quam non mauris convallis ullamcorper sed non libero. In hac habitasse platea dictumst. Proin quis pellentesque magna. Mauris in erat est.
+Nulla facilisi. Praesent bibendum, ipsum et mattis dictum, neque lacus bibendum enim, sed porta massa metus in enim. Nullam orci nisi, imperdiet at vehicula eu, lacinia vel libero. Donec in nisi lectus, sollicitudin porta est. In vitae risus nisi. Aenean eget hendrerit metus.
+Sed venenatis est at justo sagittis ullamcorper. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
+Aenean eget ullamcorper nisi. Aliquam gravida ultrices lobortis. Suspendisse eget dignissim lorem. Suspendisse potenti. Pellentesque blandit orci quis tellus aliquet ut pharetra ante pellentesque. Sed sit amet dui orci. Sed ac
+18
+The Greatest Story Ever Told
+euismod nulla. Proin ut eros libero.
+Mauris vitae tellus elit, non gravida augue. Fusce in
+dui mi. Aliquam augue sapien, vulputate at porttitor ut, mollis in ipsum. Sed porta tortor non mauris iaculis vel molestie nisl interdum.
+Aenean ut felis urna. Cras ac est quis neque pharetra fermentum.
+Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Praesent sem dui, luctus a feugiat vitae, porta sed turpis. Duis vitae nulla felis. In adipiscing libero massa. Sed neque mauris, gravida non bibendum congue, congue at massa.
+Quisque elit ligula, tempor laoreet sagittis quis, accumsan quis purus. Aliquam eu purus condimentum libero tristique fringilla a ut massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+19
+
+PART THREE THE CREATORS
+
+5
+Nullam ac risus mi, vitae lacinia nibh.
+Vestibulum ante ipsum primis in faucibus orci luctus
+et ultrices posuere cubilia Curae; Vestibulum dignissim elementum neque, vitae consectetur lectus pharetra nec. Fusce odio orci, fringilla a vulputate feugiat, placerat eget massa. Integer non magna eget dolor pulvinar vestibulum sit amet at mi.
+Cras blandit leo erat, id accumsan velit. Integer hendrerit, diam ut tincidunt sodales, diam lorem viverra nisl, vel porttitor ante metus et sem. Suspendisse potenti. Suspendisse eget lacus enim, sed placerat enim. Ut sit amet arcu id lacus gravida luctus ullamcorper pellentesque justo.
+Cras laoreet, ligula non sagittis ornare, dolor sapien pharetra leo, non hendrerit nisi libero at enim. Nulla facilisi. Aenean volutpat hendrerit orci, at commodo massa vestibulum congue. Aenean interdum, erat quis interdum porttitor, odio tortor ullamcorper nisl, eget tincidunt velit massa ut turpis. Praesent lacinia
+23
+Jorges Lucaz
+condimentum erat, a tempor elit viverra eget.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi rhoncus adipiscing velit, sit amet cursus libero vehicula sed. Nulla sed urna tellus. Proin non ligula at ligula mollis tempor nec non ipsum. Maecenas non ultricies elit. Ut ac eros ac eros scelerisque commodo.
+Suspendisse accumsan risus nec leo sagittis dignissim. Aenean mollis iaculis mattis. Integer quam eros, ullamcorper at auctor ut, semper ac quam.
+Donec et felis vitae justo laoreet laoreet. Nam eu purus vel nisl venenatis sodales. Quisque tempor blandit dolor, non placerat dui tristique commodo. Curabitur scelerisque hendrerit lectus, laoreet semper dui commodo porta.
+Morbi ullamcorper, ipsum tristique sollicitudin tristique, leo arcu accumsan eros, consequat euismod ipsum sem quis libero.
+Morbi ut tortor ipsum. Maecenas ut rhoncus metus. Etiam pellentesque hendrerit dignissim. Sed aliquam, sem quis pulvinar pharetra, urna nunc pharetra orci, eu varius velit lacus eu nisl. Ut et quam non mauris convallis ullamcorper sed non libero. In hac habitasse platea dictumst. Proin quis pellentesque magna. Mauris in erat est.
+24
+6
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi rhoncus adipiscing velit, sit amet cursus libero vehicula sed. Nulla sed urna tellus. Proin non ligula at ligula mollis tempor nec non ipsum. Maecenas non ultricies elit. Ut ac eros ac eros scelerisque commodo.
+Suspendisse accumsan risus nec leo sagittis dignissim. Aenean mollis iaculis mattis. Integer quam eros, ullamcorper at auctor ut, semper ac quam.
+Nullam ac risus mi, vitae lacinia nibh.
+Vestibulum ante ipsum primis in faucibus orci luctus
+et ultrices posuere cubilia Curae; Vestibulum dignissim elementum neque, vitae consectetur lectus pharetra nec. Fusce odio orci, fringilla a vulputate feugiat, placerat eget massa. Integer non magna eget dolor pulvinar vestibulum sit amet at mi.
+Cras blandit leo erat, id accumsan velit. Integer hendrerit, diam ut tincidunt sodales, diam lorem viverra nisl, vel porttitor ante metus et sem. Suspendisse
+25
+Jorges Lucaz
+potenti. Suspendisse eget lacus enim, sed placerat enim. Ut sit amet arcu id lacus gravida luctus ullamcorper pellentesque justo.
+Cras laoreet, ligula non sagittis ornare, dolor sapien pharetra leo, non hendrerit nisi libero at enim. Nulla facilisi. Aenean volutpat hendrerit orci, at commodo massa vestibulum congue. Aenean interdum, erat quis interdum porttitor, odio tortor ullamcorper nisl, eget tincidunt velit massa ut turpis. Praesent lacinia condimentum erat, a tempor elit viverra eget.
+Curabitur id erat quis massa feugiat semper. Suspendisse semper eros vitae mauris dignissim imperdiet mattis mauris accumsan. Suspendisse potenti. Vivamus vitae risus neque, id tempus mi. Integer quis dolor et felis blandit auctor sed eget lectus. Donec sagittis ultricies diam, vitae porta nisi vehicula facilisis.
+Nullam et nunc a lacus tempus viverra. Ut pharetra tortor quis sem pretium pellentesque fermentum diam viverra. Vestibulum luctus sapien vel nibh vulputate eu tempor orci vehicula. Proin ultricies lobortis orci, id facilisis sapien ornare non.
+Donec et felis vitae justo laoreet laoreet. Nam eu purus vel nisl venenatis sodales. Quisque tempor blandit dolor, non placerat dui tristique commodo. Curabitur scelerisque hendrerit lectus, laoreet semper dui commodo porta.
+Morbi ullamcorper, ipsum tristique sollicitudin tristique, leo arcu accumsan eros, consequat euismod ipsum sem quis libero.
+Morbi ut tortor ipsum. Maecenas ut rhoncus metus.
+26
+The Greatest Story Ever Told
+Etiam pellentesque hendrerit dignissim. Sed aliquam, sem quis pulvinar pharetra, urna nunc pharetra orci, eu varius velit lacus eu nisl. Ut et quam non mauris convallis ullamcorper sed non libero. In hac habitasse platea dictumst. Proin quis pellentesque magna. Mauris in erat est.
+27
+7
+Aenean eget ullamcorper nisi. Aliquam gravida ultrices lobortis. Suspendisse eget dignissim lorem. Suspendisse potenti. Pellentesque blandit orci quis tellus aliquet ut pharetra ante pellentesque. Sed sit amet dui orci. Sed ac euismod nulla. Proin ut eros libero.
+Mauris vitae tellus elit, non gravida augue. Fusce in dui mi. Aliquam augue sapien, vulputate at porttitor ut, mollis in ipsum. Sed porta tortor non mauris iaculis vel molestie nisl interdum. Aenean ut felis urna. Cras ac est quis neque pharetra fermentum.
+Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Praesent sem dui, luctus a feugiat vitae, porta sed turpis. Duis vitae nulla felis. In adipiscing libero massa. Sed neque mauris, gravida non bibendum congue, congue at massa. Quisque elit ligula, tempor laoreet sagittis quis, accumsan quis purus. Aliquam eu purus condimentum libero tristique fringilla a ut massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur
+28
+The Greatest Story Ever Told
+ridiculus mus.
+Curabitur id erat quis massa feugiat semper. Suspendisse semper eros vitae mauris dignissim imperdiet mattis mauris accumsan. Suspendisse potenti. Vivamus vitae risus neque, id tempus mi. Integer quis dolor et felis blandit auctor sed eget lectus.
+Donec sagittis ultricies diam, vitae porta nisi vehicula facilisis. Nullam et nunc a lacus tempus viverra. Ut pharetra tortor quis sem pretium pellentesque fermentum diam viverra. Vestibulum luctus sapien vel nibh vulputate eu tempor orci vehicula. Proin ultricies lobortis orci, id facilisis sapien ornare non.
+Nulla facilisi. Praesent bibendum, ipsum et mattis dictum, neque lacus bibendum enim, sed porta massa metus in enim. Nullam orci nisi, imperdiet at vehicula eu, lacinia vel libero. Donec in nisi lectus, sollicitudin porta est. In vitae risus nisi. Aenean eget hendrerit metus.
+Sed venenatis est at justo sagittis ullamcorper. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
+Nulla facilisi. Praesent bibendum, ipsum et mattis dictum, neque lacus bibendum enim, sed porta massa metus in enim. Nullam orci nisi, imperdiet at vehicula eu, lacinia vel libero. Donec in nisi lectus, sollicitudin porta est. In vitae risus nisi. Aenean eget hendrerit metus.
+Sed venenatis est at justo sagittis ullamcorper. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
+29
+Jorges Lucaz
+***
+Aenean eget ullamcorper nisi. Aliquam gravida ultrices lobortis. Suspendisse eget dignissim lorem. Suspendisse potenti. Pellentesque blandit orci quis tellus aliquet ut pharetra ante pellentesque. Sed sit amet dui orci. Sed ac
+euismod nulla. Proin ut eros libero.
+Mauris vitae tellus elit, non gravida augue. Fusce in
+dui mi. Aliquam augue sapien, vulputate at porttitor ut, mollis in ipsum. Sed porta tortor non mauris iaculis vel molestie nisl interdum.
+Aenean ut felis urna. Cras ac est quis neque pharetra fermentum.
+Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Praesent sem dui, luctus a feugiat vitae, porta sed turpis. Duis vitae nulla felis. In adipiscing libero massa. Sed neque mauris, gravida non bibendum congue, congue at massa.
+Quisque elit ligula, tempor laoreet sagittis quis, accumsan quis purus. Aliquam eu purus condimentum libero tristique fringilla a ut massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+30
+</Text>
+        </Document>
+        <Document ID="41">
+            <Title>Title Page</Title>
+            <Text>
+
+
+
+
+
+
+
+&lt;$PROJECTTITLE&gt;
+
+&lt;$author&gt;</Text>
+            <Notes>These tags get replaced with the information set in Project &gt; Meta-Data Settings… &gt; Project Properties. You can edit those settings or just replace this text altogether.</Notes>
+        </Document>
+        <Document ID="27">
+            <Title>Chapter1</Title>
+        </Document>
+        <Document ID="12">
+            <Title>Novel Format</Title>
+            <Text>NOVEL WITH PARTS
+
+About This Template
+By default, when compiled (File &gt; Compile), this project will generate a document in the standard manuscript format for novels. The necessary settings are also provided to make it easy to compile to a paperback-style PDF for self-publishing or an EPUB or Kindle e-book.
+
+How To Use This Template
+	•	Create a new folder for each part of your novel as direct subdocuments of the Manuscript folder. Two  folders have already been created at this level for you, with the placeholder title “Part”. You should rename these with the titles of the parts of your novel. For instance, Milan Kundera’s The Unbearable Lightness of Being’s first part is entitled “PART ONE: Lightness and Weight”. In that example, you would name the part, “Lightness and Weight” (the “Part One” will be added during Compile). You can choose not to include these titles during the Compile process.
+	•	Create a new folder for each chapter inside the relevant “Part” folder and title each folder with the name of the chapter. If you don’t intend to use chapter names, just use something descriptive that tells you what the chapter is about. (You do not need to title the folders “Chapter One” and so on, as chapter numbering will be taken care of automatically during the Compile process.) Some chapter folders have been created for you with the placeholder title “Chapter”.
+	•	Create a new text document for each scene inside the chapter folders. (Upon export, scenes will be separated with the “#” character for standard manuscript format, or with a blank line for other formats.)
+	•	Information about characters can be placed in the “Characters” folder, and information about locations can be placed in the “Places” folder. (These are just regular folders that have had custom icons assigned to them using the Documents &gt; Change Icon feature.)
+	•	Character and setting sketch sheets have been provided which can be used for filling out information about the people and places in your novel. These are located in the “Template Sheets” folder. You should not edit the documents in the “Template Sheets” folder directly unless you wish to change the templates (which you are free to do - you may wish to customise the sketch sheets or get rid of them entirely). Instead, to create a new character sheet, click on the Characters folder (or wherever you want to create your new character sheet) and from the Project menu, select New From Template &gt; Character Sketch. This creates a new character sketch document for you to edit and fill in with your character details. You can create setting sketch sheets in the same way. Alternatively, you can just click “Add”, or hit cmd-N, with the Characters or Places folders selected.
+
+Compiling
+	•	Title pages and front matter are all provided in the “Front Matter” folder (between the “Places” and “Research” folders). You will choose different front matter depending on the format to which you are compiling.
+	•	Scrivener remembers your compile settings, so you only need to follow the instructions below when you want to compile to a different format. After that, you can just go to File &gt; Compile… and click the “Compile” button straight away.
+	•	Note that if you cannot find any of the presets mentioned below in the “Format As” menu in the Compile panel, please select “Manage Compile Format Presets…” from the bottom of the “Format As” menu. This will bring up a panel that allows you to add more formats to the menu.
+	•	Tip: You can open this document in a QuickReference panel and have it open alongside the Compile panel if you need to refer to these instructions while compiling.
+
+		To compile to standard manuscript format:
+	◦	Edit the “Title Page” document inside the Front Matter/Manuscript Format folder to ensure that it contains the correct information (note that it will have been filled in by default with information from Address Book).
+	◦	Go to File &gt; Compile…
+	◦	Select “Standard Manuscript Format (with Parts)” from the “Format As” pop-up button if it is not already selected. (If “Novel (with Parts)” is selected, that’s fine too - that’s just the default format for this particular template, which is the same as standard manuscript format.)
+	◦	Ensure that the “Summary” tab is selected at the top of the Compile panel. (This isn’t strictly necessary—the below options can also be found in the “Contents” pane of the “All Options” tab.)
+	◦	Ensure that the “Add front matter” button is ticked and select the “Manuscript Format” folder from the pop-up button next to it (this is already selected by default).
+	◦	Click on “Compile”.
+
+		To compile to paperback PDF format:
+	◦	Edit the front matter pages contained inside the Front Matter/Paperback Novel folder.
+	◦	Go to File &gt; Compile…
+	◦	Select “Paperback Novel (with Parts)” from the “Format As” pop-up button if it is not already selected.
+	◦	Ensure that the “Summary” tab is selected at the top of the Compile panel. (This isn’t strictly necessary—the below options can also be found in the “Contents” pane of the “All Options” tab.)
+	◦	Ensure that the “Add front matter” button is ticked and select the “Paperback Novel” folder from the pop-up button next to it if it is not already selected.
+	◦	Click on “Compile”.
+
+		To compile to e-book format:
+	◦	Edit or remove the dedication page contained inside the Front Matter/E-Book folder. Feel free to add any other front matter documents as required.
+	◦	Import a cover image (the recommended size is 600x800 pixels, preferably in JPG or PNG format). You can store this anywhere, but it makes sense to place it in the “E-Book” front matter folder. A placeholder cover image is already provided - you will want to delete that once you have imported your own.
+	◦	Go to File &gt; Compile…
+	◦	Select “E-book (with Parts)” from the “Format As” pop-up button if it is not already selected.
+	◦	Ensure that the “Summary” tab is selected at the top of the Compile panel. (This isn’t strictly necessary—the below options can also be found in the “Contents”, “Cover” and “Layout” panes of the “All Options” tab.)
+	◦	If you have front matter documents other than the cover image, ensure that the “Add front matter” button is ticked and select the “E-Book” folder from the pop-up button next to it if it is not already selected. If you don’t have any front matter documents, you can un-tick “Add front matter”. (Un-ticking this does not affect the cover image.)
+	◦	If you have imported your own cover image, be sure to select it from the “Cover image” pop-up button.
+	◦	If you don’t want an HTML table of contents included, un-tick “Generate HTML table of contents”. This must be ticked when exporting to Kindle format but is less necessary when exporting to EPUB format, because most EPUB readers generate their own table of contents anyway.
+	◦	From the “Compile for” pop-up button, choose whether to export to EPUB or Kindle format.
+	◦	Click on “Compile”.
+
+Making Changes
+There are various minor changes you can make to the settings to tweak this template so that it better suits your needs, as follows:
+	•	Project and author name: The default book title and author name used in headers and elsewhere can be customised by going to Project &gt; Meta-Data Settings… and choosing the “Project Properties” tab.
+	•	Part subtitles: If you don’t want to include the titles of your “Part” folders in your compiled manuscript, go to the “Formatting” pane in the Compile sheet and deselect “Title” for the “Level 1” folder item. Then click on “Section Layout…” and remove the colon and space at the end of the title prefix (“Part &lt;$t:part&gt;”).
+	•	Chapter subtitles: If you don’t want to include the names of your chapter folders below the chapter numbering text in the compiled document, go to the “Formatting” pane in the Compile sheet and deselect “Title” for the “Level 2+” folder item and the “Level 1” and “Level 2” text items. (Conversely, if you do want to include chapter titles for formats that don’t include them by default, tick these items.)
+	•	Page header and footer: You can edit the page header in the “Page Settings” pane of the Compile sheet (under “All Options”).
+	•	Page size: The “Paperback Novel (with Parts)” format is set to export to a page size of 5.06” x 7.81”, which is one of the formats you can use with CreateSpace. You can customise this by clicking on the “Page Setup…” button in the “Page Settings” pane of Compile.
+	•	Font: You can use “Quick Font Override” in Compile to change the font used throughout the final document (this is available from both the “Summary” and “All Options” tabs). Note that fonts are not included in e-books, however—e-readers choose their own fonts (and you would need to pay a hefty fee for a licence to embed a particular font in an e-book).
+	•	Making your own special folders: The “Characters” and “Places” folders are really just regular folders that have been set up in a particular way, and you are free to create other folders that work in a similar manner.
+	1.	To create a folder with a custom icon, add a new folder, place it where you want it, ensure it is selected, and then go to Documents &gt; Change Icon to choose a different icon.
+	2.	To create your own template sheets, simply create a new document inside the “Template Sheets” folder and set it up however you want (whether by adding text, changing the title, setting default meta-data, or whatever). Now this document will be available as the basis of new documents from the New From Template menu. (You can add a custom icon to this if you so wish, too.)
+	3.	To set things up so that when the special folder created in (1) is selected and you hit “Add”, a new document based on the one you set up in (2) is created, select the folder and go to Documents &gt; Default New Subdocument Type and select the special template document you created.
+	•	Working with chapters instead of scenes: By default, this project is set up so that you write each scene as a separate text document. If you don’t like to break things up quite that much and would prefer to write an entire chapter in each text document, make the following changes:
+	1.	Rename the “Scene” documents to use your chapter titles and move them so that they are contained directly inside the “Part” folders (that is, at the same level as the current “Chapter” folders).
+	2.	Move the chapter folders to the Trash.
+	3.	Create a new text document for each chapter.
+	4.	In the “Separators” pane of the Compile sheet, change the “Text separator” setting to “Page break”.
+	5.	If your scene separators are centred (for instance if you are using “#” as the scene separator) and you want them to appear centred in the compiled document, too, choose the “Formatting” pane of Compile, click on “Options…” and tick “Preserve alignment” and “Centered text only”.
+
+Sample Documents
+The “Sample Output” folder inside the Research folder contains examples of documents that have been created by compiling from this template. “Standard Manuscript” shows the results when compiling to “Standard Manuscript Format (with Parts)”; “Paperback Novel” shows the results when compiling to “Paperback Novel (with Parts)” format; and “iBooks E-book” shows the results when compiling to “E-book (with Parts)” format and opening the resulting EPUB file in iBooks on the iPad.
+
+Final Note
+Scrivener project templates are flexible and are not intended to restrict you to a particular workflow. You can change, delete or move the files and folders contained in the template, and you can create your own templates by setting up a skeletal project with the files, folders and settings you would like to use for new projects and using File &gt; Save As Template.</Text>
+        </Document>
+        <Document ID="42">
+            <Title>Copyright</Title>
+            <Text>
+
+
+
+
+
+
+
+
+
+
+
+
+
+Copyright © &lt;$year&gt; &lt;$author&gt;
+All rights reserved.
+ISBN:
+ISBN-13:
+</Text>
+            <Notes>Feel free to delete this document if you don’t need it.</Notes>
+        </Document>
+        <Document ID="20">
+            <Title>Template Sheets</Title>
+        </Document>
+        <Document ID="50">
+            <Title>Sample Output</Title>
+        </Document>
+        <Document ID="43">
+            <Title>Dedication</Title>
+            <Text>
+
+
+
+
+
+
+
+
+
+
+Insert dedication here.</Text>
+            <Notes>Feel free to delete this document if you don’t need it.</Notes>
+        </Document>
+        <Document ID="36">
+            <Title>Standard Manuscript</Title>
+            <Text>Andrew Nonymous
+Your manuscript should
+have your address
+and contact details
+on the title page only.
+If you have an agent, your
+agent's address can be
+included beneath.
+700 words.
+NOVEL STANDARD MANUSCRIPT FORMAT
+         by A. Nonymous
+             Part One: Part Folder Title Goes Here
+                          Chapter One
+                Chapter Folder Title Goes Here
+     Standard manuscript format is often required for novels
+so that work can easily be read by editors. It allows editors
+to estimate word count and determine roughly how many pages
+will be required to produce a book using the page size, style
+and font used by their house. This PDF file was generated
+using Scrivener's Compile feature and was created using the
+"Novel" project template.
+     Manuscripts for full-length novels require a separate
+title page. The author's name, address, telephone number and
+e-mail address should be shown in the upper-left corner of the
+title page, single-spaced. The title of the story should
+appear in all-caps about half-way down the page. The author's
+name follows the title on the by-line as the author wants it
+Surname / TITLE / 1
+to appear when published. A real name or pseudonym may be used
+and may include initials, actual given name or professional
+designation.
+Surname / TITLE / 2
+                          Chapter Two
+                    Another Chapter Folder
+     All text should be double-spaced and left-justified with
+a ragged right margin. Paragraphs should be indented by about
+five spaces (half an inch) and not separated by an additional
+blank line. (It used to be traditional to separate each
+sentence with two spaces, but in these days of word processors
+this is now less common.) A 12-point font such as Courier,
+Times New Roman or Arial should be used throughout. In
+Scrivener, however, you can write using any font and
+formatting you choose - the "Formatting" pane of the Compile
+sheet can be used to change the formatting in the compiled
+document. In the "Novel" project template, the Compile
+settings will deal with changing the font and formatting to
+those required for standard manuscript format.
+     Top, bottom, left and right margins should all be
+Surname / TITLE / 3
+approximately one inch, not allowing for the page header. Each
+page except for the title page should include a header
+comprising the author's real surname, the title of the work
+(or a key word from the title) in capitals, and the page
+number. In Scrivener, all of this is handled in the "Page
+Settings" pane of the Compile sheet.
+                               #
+     Scene breaks are indicated with the hash character. Do
+not simply add an extra line space as this can be missed by
+the typesetter. The "Separators" pane of Scrivener's Compile
+sheet can handle this for you if you are writing each scene as
+a separate text document.
+     Indicate italics by underlining. In Scrivener, you can
+use italics and set them to be converted to underlines upon
+export or print by using "Convert italics to underlines in the
+"Transformations" pane of the Compile sheet.
+Surname / TITLE / 4
+￼￼
+                 Part Two: Another Part Folder
+                         Chapter Three
+                     Chapter Folder Title
+     Begin each new chapter on a new page like this with the
+chapter number about a third of the way down the page. In
+Scrivener, this can all be dealt with in the Compile settings.
+The "Separators" pane of the Compile sheet can be set to start
+a new page for each chapter folder, and the "Formatting" pane
+can be used to add page padding at the top of the new page and
+insert the chapter number (the latter using the "Level
+Settings"). All of this has already been done for you in the
+"Novel" project template.
+     Although it is often said that writers should not use the
+word-count features of their computers to determine the number
+of words in a manuscript, most publishers and editors will
+happily accept a word processor word count these days. In
+Surname / TITLE / 5
+Scrivener, you can insert a word count of your manuscript by
+using Edit &gt; Insert &gt; Draft Word Count (for a manuscript, you
+may wish to have the word count rounded to the nearest 100, in
+which case select Edit &gt; Insert &gt; Draft Word Count &gt; Rounded
+To Nearest 100--this feature is used on the title page of this
+manuscript, in fact). Note that the actual word count will not
+be inserted, but a tag that will be substituted for the word
+count upon export. In reality, the formatting of a manuscript
+is often only really crucial when submitting directly to a
+publisher--first time novelists will usually submit to an
+agent first, and agents are often less picky about format and
+will point you in the right direction before submitting your
+work to a publisher.
+                               #
+     Much of the information contained in this document is
+based on a description of novel manuscript format by Matt
+Carless for the BBC Writers' Room website: http://
+www.bbc.co.uk/writersroom
+&lt;&lt;&lt;&lt;&gt;&gt;&gt;&gt;
+Surname / TITLE / 6
+</Text>
+        </Document>
+        <Document ID="29">
+            <Title>Part</Title>
+        </Document>
+        <Document ID="21">
+            <Title>Character Sketch</Title>
+            <Text>Character Name
+
+	Role in Story:	
+	Occupation:	
+ 	
+
+Physical Description:	
+
+	Personality:	
+
+	Habits/Mannerisms:	
+ 	
+
+	Background:	
+
+	Internal Conflicts:	
+
+	External Conflicts:	 
+ 	
+
+	Notes:	</Text>
+        </Document>
+        <Document ID="51">
+            <Title>s</Title>
+        </Document>
+        <Document ID="4">
+            <Title>プロローグ</Title>
+        </Document>
+        <Document ID="37">
+            <Title>Front Matter</Title>
+        </Document>
+        <Document ID="44">
+            <Title>E-Book</Title>
+        </Document>
+        <Document ID="22">
+            <Title>Setting Sketch</Title>
+            <Text>Name of Setting
+
+	Role in Story:	
+
+	Related Characters:	
+
+	Season:	
+
+	Unique Features:	
+
+	Description:	
+
+	Sights:	
+	Sounds:	
+	Smells:	
+
+	Notes:	</Text>
+        </Document>
+        <Document ID="45">
+            <Title>Cover</Title>
+        </Document>
+        <Document ID="6">
+            <Title>Scene</Title>
+            <Text>あああ
+
+</Text>
+        </Document>
+        <Document ID="38">
+            <Title>Manuscript Format</Title>
+        </Document>
+        <Document ID="30">
+            <Title>Chapter</Title>
+        </Document>
+        <Document ID="46">
+            <Title>Dedication</Title>
+            <Text>
+
+
+
+
+Your dedication here.</Text>
+            <Notes>Feel free to delete this document if you don’t need it.</Notes>
+        </Document>
+        <Document ID="31">
+            <Title>Scene</Title>
+        </Document>
+        <Document ID="17">
+            <Title>Characters</Title>
+        </Document>
+    </Documents>
+</SearchIndexes>
