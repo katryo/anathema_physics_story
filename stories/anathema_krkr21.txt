@@ -1,0 +1,658 @@
+
+;;※[jump storage="third.ks" target="*sceneインターミッション１"]
+
+□シーン１－３／ボクシング部
+
+[fadeinse buf=1 storage="se44" loop=true time=3000]
+[backlay][image storage="bg81" layer=base page=back visible=true][trans method=universal rule="blind" time=1000 vague=20][wt]
+[backlay][layopt layer=message page=back visible=true][trans method=crossfade time=400][wt]
+
+　外は暑いな。太陽はまだ空に浮いたまま、アスファルトをがんがん照らしてくる。
+　西部キャンパスの体育館わき、体育会の部室棟。手前から五番目の部屋がボクシング部だ。
+　ひんやりしたドアノブをまわし、部室に足を踏み入れた。[p][cm]
+
+[seopt buf=1 volume=50]
+[playse buf=0 storage="se63"]
+[backlay][layopt layer=message page=back visible=false][trans method=crossfade time=400][wt]
+[fadeinbgm storage="bgm02" loop=true time=3000]
+[backlay][image storage="bg82" layer=base page=back visible=true][trans method=universal rule="blind" time=1000 vague=20][wt]
+[backlay][image storage="fgtn01c" layer=0 page=back visible=true pos=center][trans method=crossfade time=400][wt]
+[backlay][layopt layer=message page=back visible=true][trans method=crossfade time=400][wt]
+
+「……あらあら土岐野くんいらっしゃーい！」
+　背の高い女性――秋里さんが部室にいた。
+「ちわっす」
+　着替え中の部員が二人、こんにちはと声をあげた。今日は自主錬の日だから、基本的に人数が少ない。
+
+[playse buf=0 storage="se61"]
+
+　靴を脱いであがりこみ、ロッカーに鞄を投げ入れる。
+
+[backlay][layopt layer=message page=back visible=false][trans method=crossfade time=400][wt]
+[backlay][image storage="fgtn01c" layer=0 page=back visible=true pos=center][trans method=crossfade time=400][wt]
+[backlay][layopt layer=message page=back visible=true][trans method=crossfade time=400][wt]
+
+「ねえねえとーきのくーん」
+「……なんですか」
+
+[backlay][layopt layer=message page=back visible=false][trans method=crossfade time=400][wt]
+[backlay][image storage="fgtn01b" layer=0 page=back visible=true pos=center][trans method=crossfade time=400][wt]
+[backlay][layopt layer=message page=back visible=true][trans method=crossfade time=400][wt]
+
+「そろそろ試験期間だよねぇ。勉強してる？」
+　秋里さんが俺に尋ねてきた。それもかなりわざとらしいしゃべりかたで。
+「大丈夫ですよ。そんなにコマ数は多くないですし」
+
+[backlay][layopt layer=message page=back visible=false][trans method=crossfade time=400][wt]
+[backlay][image storage="fgtn01d" layer=0 page=back visible=true pos=center][trans method=crossfade time=400][wt]
+[backlay][layopt layer=message page=back visible=true][trans method=crossfade time=400][wt]
+
+「ほーうほう、自信があるんだ」[p][cm]
+
+　秋里さんは歴代のボクシング部で、唯一の女性部員だ。
+　かつては男にまざってマスボクシングまでこなしてたというが、四年生となった現在はいちおうボクシング部を卒業したことになっている。
+　学部生の頃は、女子プロボクシングの日本ランカーだったこともあるらしい。
+　いまでもたまーにボクシング部に来て、練習のついでに俺たちの指導をしてくれる。キャリアが長いだけあって技術はすごいし、見る目がたしかなのでなかなかありがたい。
+　のだが。[p][cm]
+
+「……そろそろ行ってくださいよ」
+
+[backlay][layopt layer=message page=back visible=false][trans method=crossfade time=400][wt]
+[backlay][image storage="fgtn01e" layer=0 page=back visible=true pos=center][trans method=crossfade time=400][wt]
+[backlay][layopt layer=message page=back visible=true][trans method=crossfade time=400][wt]
+
+「うーん？　なんで？」
+「なんでって」
+　言わなきゃわからないか。
+「先輩に見られると恥ずかしいんですよっ！」
+
+[backlay][layopt layer=message page=back visible=false][trans method=crossfade time=400][wt]
+[backlay][image storage="fgtn01f" layer=0 page=back visible=true pos=center][trans method=crossfade time=400][wt]
+[backlay][layopt layer=message page=back visible=true][trans method=crossfade time=400][wt]
+
+「はあああ？」
+　秋里さんは胸を反らして大げさに驚いてみせる。
+
+[backlay][layopt layer=message page=back visible=false][trans method=crossfade time=400][wt]
+[backlay][image storage="fgtn01c" layer=0 page=back visible=true pos=center][trans method=crossfade time=400][wt]
+[backlay][layopt layer=message page=back visible=true][trans method=crossfade time=400][wt]
+
+「いまさら恥ずかしがるような関係じゃないでしょー？　わたしのことは気にせず脱ぎなさいよー！」
+「関係ってなんですか、変な言いかたやめてください」[p][cm]
+
+　ちなみに秋里さんは体育館地下の女子更衣室でいつも着替えている。
+　グラブを持っていくので部室にいったん入るのだが、長い時間いる必要はないはず。
+　なのにずっと部室に残っているのはなぜなんだ？[p][cm]
+
+[backlay][layopt layer=message page=back visible=false][trans method=crossfade time=400][wt]
+[backlay][image storage="fgtn01a" layer=0 page=back visible=true pos=center][trans method=crossfade time=400][wt]
+[backlay][layopt layer=message page=back visible=true][trans method=crossfade time=400][wt]
+
+　じっと俺の裸を見ていた秋里さんが一言。
+
+[backlay][layopt layer=message page=back visible=false][trans method=crossfade time=400][wt]
+[backlay][image storage="fgtn01d" layer=0 page=back visible=true pos=center][trans method=crossfade time=400][wt]
+[backlay][layopt layer=message page=back visible=true][trans method=crossfade time=400][wt]
+
+「土岐野くぅん、いい身体してるねえぇ……」
+「セクハラですかっ！？」
+
+[backlay][layopt layer=message page=back visible=false][trans method=crossfade time=400][wt]
+[backlay][image storage="fgtn01c" layer=0 page=back visible=true pos=center][trans method=crossfade time=400][wt]
+[backlay][layopt layer=message page=back visible=true][trans method=crossfade time=400][wt]
+
+「ほれほれちょっと触らせてみ」
+　女子大学院生の化けの皮を脱ぎ捨てたおっさんが、俺の背中に手をのばした。
+「うあっ！　ちょ、ちょっと、やめてくださいっ！」
+「いいでしょー、触っても減らないし、増えたりもしないんだから。おっぱいじゃないんだし」
+「減る増えるは関係ないし、おっぱいは触っても変わりません！」[p][cm]
+
+[backlay][layopt layer=message page=back visible=false][trans method=crossfade time=400][wt]
+[backlay][image storage="fgtn01g" layer=0 page=back visible=true pos=center][trans method=crossfade time=400][wt]
+[backlay][layopt layer=message page=back visible=true][trans method=crossfade time=400][wt]
+
+「えっ……な、なんですって！？　まさか、そ、そんな……嘘でしょっ！？[l]　触っても大きくならないなんて……おっぱいが！」
+「なにを大げさに恥ずかしい驚きかたしてるんですかアホですかあなたは！」
+
+[backlay][layopt layer=message page=back visible=false][trans method=crossfade time=400][wt]
+[backlay][image storage="fgtn01a" layer=0 page=back visible=true pos=center][trans method=crossfade time=400][wt]
+[backlay][layopt layer=message page=back visible=true][trans method=crossfade time=400][wt]
+
+「だって、おっぱい大きくならないって。[l]……土岐野くん、きみは土着信仰にとりつかれてるのよ。考え直して。おっぱいは、[l]揉んだら、[l]大きく、[l]なるのよ！」
+「秋里さんが信じてるほうが土着信仰です！　それとおっぱいおっぱい言わない」
+「う……ううう～～」[p][cm]
+
+　わなわなと唇を震わせ半泣きになって、秋里さんは目を下に向ける。
+　その視線がとらえたものは。
+　……秋里さん自身の豊かな胸だ。
+「揉まれて育ったわたしの胸を否定するつもりなの……？」
+「そう言われても」
+
+[backlay][layopt layer=message page=back visible=false][trans method=crossfade time=400][wt]
+[backlay][image storage="fgtn01b" layer=0 page=back visible=true pos=center][trans method=crossfade time=400][wt]
+[backlay][layopt layer=message page=back visible=true][trans method=crossfade time=400][wt]
+
+「――ねえ、ところでどう思う？」
+「はい？」[p][cm]
+
+[backlay][layopt layer=message page=back visible=false][trans method=crossfade time=400][wt]
+[backlay][image storage="fgtn01d" layer=0 page=back visible=true pos=center][trans method=crossfade time=400][wt]
+[backlay][layopt layer=message page=back visible=true][trans method=crossfade time=400][wt]
+
+「わたしの胸について」
+　秋里さんの胸は、その、えーと。
+「大きいで……て、なに言わせようとしてるんですか！」
+
+[backlay][layopt layer=message page=back visible=false][trans method=crossfade time=400][wt]
+[backlay][image storage="fgtn01e" layer=0 page=back visible=true pos=center][trans method=crossfade time=400][wt]
+[backlay][layopt layer=message page=back visible=true][trans method=crossfade time=400][wt]
+
+「おお、セクハラ」
+「あんたが言わせたんでしょうが！？」
+
+[backlay][layopt layer=message page=back visible=false][trans method=crossfade time=400][wt]
+[backlay][image storage="fgtn01c" layer=0 page=back visible=true pos=center][trans method=crossfade time=400][wt]
+[backlay][layopt layer=message page=back visible=true][trans method=crossfade time=400][wt]
+
+「ふひひ、さーせん」[p][cm]
+
+　どうしてこうなった。
+　秋里さんは見てのとおりセクハラ大魔神で、ことあるごとに俺にちょっかいをだしてくる。
+　自分の身を挺してのセクハラなのでちょっと嬉しいこともなきにしもない……[l]って、俺、懐柔されはじめてる！　やばい！
+　理由はどうあれセクハラはダメだ。第一、恥ずかしいし。
+　人と話すのが得意なやつなら、うまくいなせるんだろうけど。俺には無理だ。[p][cm]
+
+[backlay][layopt layer=message page=back visible=false][trans method=crossfade time=400][wt]
+[backlay][image storage="fgtn01b" layer=0 page=back visible=true pos=center][trans method=crossfade time=400][wt]
+[backlay][layopt layer=message page=back visible=true][trans method=crossfade time=400][wt]
+
+「ねえ、ところでいま思いついたんだけど」
+「な、なんですか」
+
+[backlay][layopt layer=message page=back visible=false][trans method=crossfade time=400][wt]
+[backlay][image storage="fgtn01d" layer=0 page=back visible=true pos=center][trans method=crossfade time=400][wt]
+[backlay][layopt layer=message page=back visible=true][trans method=crossfade time=400][wt]
+
+「実験してみようか？　おっぱいが大きくなるかどうか」
+「……は？」
+「いますぐここで」
+「え？　え？」
+
+[backlay][layopt layer=message page=back visible=false][trans method=crossfade time=400][wt]
+[backlay][image storage="fgtn01c" layer=0 page=back visible=true pos=center][trans method=crossfade time=400][wt]
+[backlay][layopt layer=message page=back visible=true][trans method=crossfade time=400][wt]
+
+「揉ませてあげる。さあ」[p][cm]
+
+　言いつつ秋里さんはタンクトップを腹からめくりあげる。
+　スポーツブラのはしがちらっと顔をだした。黒だ。
+「ち、痴女ですかぁー！」
+　なんとか目をそらして言い放った。
+
+[backlay][layopt layer=message page=back visible=false][trans method=crossfade time=400][wt]
+[backlay][image storage="fgtn01d" layer=0 page=back visible=true pos=center][trans method=crossfade time=400][wt]
+[backlay][layopt layer=message page=back visible=true][trans method=crossfade time=400][wt]
+
+「え、なに、興奮した？」
+「してるけどしてませんっ！」[p][cm]
+
+　先月くらいから、秋里さんはこんなふうに俺をいじってくるようになった。
+　……もしや、部室に長居するのはこのためか？
+
+[playse buf=0 storage="se62"]
+
+　そんなやりとりをしているうちに、ほかの部員は着替えを終えていた。
+　準備を終えた者たちが、グラブとヘッドギアを詰めこんだかごを持ち上げる。
+「先輩。さき、行ってます」
+
+[backlay][layopt layer=message page=back visible=false][trans method=crossfade time=400][wt]
+[backlay][image storage="fgtn01b" layer=0 page=back visible=true pos=center][trans method=crossfade time=400][wt]
+[backlay][layopt layer=message page=back visible=true][trans method=crossfade time=400][wt]
+
+「あいよ」
+「えええ。待て、ちょっと待て！」[p][cm]
+
+[playse buf=0 storage="se65"]
+
+　必死の叫びは無視されて、部員たちは外へでていく。
+　おいやめろ。
+　俺をおいてくな。秋里さんと二人きりにするな。
+
+[playse buf=0 storage="se60"]
+
+　開いたドアから陽の光が入り、細くなって消えた。
+　部室に残ったのは、俺と秋里さんの二人だけ。
+「あ……あ、あ……」
+
+[backlay][layopt layer=message page=back visible=false][trans method=crossfade time=400][wt]
+[backlay][image storage="fgtn01d" layer=0 page=back visible=true pos=center][trans method=crossfade time=400][wt]
+[backlay][layopt layer=message page=back visible=true][trans method=crossfade time=400][wt]
+
+　秋里さんのほうを見ると、彼女は実に嬉しそうににっこり唇をつりあげた。[l]ひいい。
+　俺は犠牲になったのだ……。[p][cm]
+
+[backlay][layopt layer=message page=back visible=false][trans method=crossfade time=400][wt]
+[backlay][image storage="fgtn01b" layer=0 page=back visible=true pos=center][trans method=crossfade time=400][wt]
+[backlay][layopt layer=message page=back visible=true][trans method=crossfade time=400][wt]
+
+「……ねえ土岐野くん、誤解されると困るんだけど、いい身体っていうのは本当よ？」
+「またまるっきりセクハラの典型みたいなこと言って……」
+「んー？　セクハラ？　そんな風に思ってたの？　きみって本当にエロい子ねぇ」
+　眉をひそめた秋里さんは妙に色っぽい声をだす。
+
+[backlay][layopt layer=message page=back visible=false][trans method=crossfade time=400][wt]
+[backlay][image storage="fgtn01c" layer=0 page=back visible=true pos=center][trans method=crossfade time=400][wt]
+[backlay][layopt layer=message page=back visible=true][trans method=crossfade time=400][wt]
+
+「美しい先輩のありがたいアドバイスをエロい意味にしかとれないなんて、なんて卑猥な子なんでしょ。変態。最低」
+「おっぱいおっぱい言ってるあんたが言えることですか！」
+「あら、ひどい。誤解よ」[p][cm]
+
+[backlay][layopt layer=message page=back visible=false][trans method=crossfade time=400][wt]
+[backlay][image storage="fgtn01b" layer=0 page=back visible=true pos=center][trans method=crossfade time=400][wt]
+[backlay][layopt layer=message page=back visible=true][trans method=crossfade time=400][wt]
+
+「いっとくけど、いい身体というのは性的な意味じゃなくて筋肉のつきかたのことだからね？」
+「はあ……」
+「特に広背筋と僧帽筋がいい。上半身にゆたかな筋肉ができているのがわかるわ。それでいて、左右のバランスも悪くない。これなら、各部関節がなめらかに動けるでしょうね」
+「そ、そうですか」
+「褒めてるのよ？　もっと嬉しがりなさい」
+「無理です」
+「がんばりなさい」
+「いやですっ！」[p][cm]
+
+　ううっ、どうして俺はこんな目にあわねばならないのだ……。
+　なにか悪いことしたんだろうか。小学生の頃、階段で転んで女子のパンツを見てしまった罪だろうか。ぐすん。大人っぽい黒でした。
+
+[backlay][layopt layer=message page=back visible=false][trans method=crossfade time=400][wt]
+[backlay][image storage="fgtn01a" layer=0 page=back visible=true pos=center][trans method=crossfade time=400][wt]
+[backlay][layopt layer=message page=back visible=true][trans method=crossfade time=400][wt]
+
+「あー、土岐野くんをいじめるのにも飽きてきたねー。わたしもそろそろ行くよ」
+　秋里さんの声が急に冷たくなる。
+「戸締まりは忘れないでね」
+「うっ……りょ、了解……」[p][cm]
+
+[backlay][layopt layer=message page=back visible=false][trans method=crossfade time=400][wt]
+[backlay][layopt layer=0 page=back visible=false pos=center][trans method=crossfade time=400][wt]
+[playse buf=0 storage="se64"]
+[backlay][layopt layer=message page=back visible=true][trans method=crossfade time=400][wt]
+　部室でひとり残された俺は、拳にバンテージをくるくる巻いた。ナックルと親指を保護するよう、特に気をつけながら指と指のあいだに包帯を通していく。
+　バンテージもけっこう傷んできたな。練習のあと洗うのを忘れ、ひどい目にあったのを思いだす。
+　汗が染みこんだバンテージをほうっておくと、ひどいアンモニア臭がでてくるんだ。自分の汗があんな臭いになるなんて、思いもしないことだった。懐かしい。[p][cm]
+
+　思い返したら、ボクシング部もけっこう長い。
+　始めたのは去年のゴールデンウィーク直後だから、一年以上がたってるわけだ。
+　部では、ボクシングの技術と体力、それにちょっとした人間関係を手に入れた。
+　で、だ。
+　それは長い時間に見あうものだったのか？
+　
+　……。[p][cm]
+
+　いまさら悩んでもしかたないか。
+　トレーニングウェアに着替え、バンテージを巻いて靴も履いた。練習準備は終わったんだ。体育館に入ろう。[p][cm]
+
+[seopt buf=1 volume=100]
+[playse buf=0 storage="se65"]
+[backlay][layopt layer=message page=back visible=false][trans method=crossfade time=400][wt]
+[image layer=base storage="bg83" page=fore]
+[backlay][layopt layer=message page=back visible=true][trans method=crossfade time=400][wt]
+[playse buf=0 storage="se55"]
+
+　体育館地下への道は、部室棟のそばにある。
+　正面からだと、いちど靴をぬいであがってから、バスケのコートのわきをお邪魔するという実にめんどくさいルートを通らねばならない。が、入りづらい地下への道も、ボクシング部室からならすぐだ。
+　水で薄めたアクエリアス入りの水筒、それになわとびを手にして俺は地下のリングに向かう。[p][cm]
+
+[backlay][layopt layer=message page=back visible=false][trans method=crossfade time=400][wt]
+[stopse buf=1][stopse buf=0]
+[xchgbgm storage="bgm21" loop=true time=3000]
+[image layer=base storage="bg67" page=fore]
+[backlay][layopt layer=message page=back visible=true][trans method=crossfade time=400][wt]
+
+　体操部や卓球部を横目にコートの中央を突っ切り、リングのわきに到着。
+
+[backlay][layopt layer=message page=back visible=false][trans method=crossfade time=400][wt]
+[backlay][image storage="fgtn01c" layer=0 page=back visible=true pos=center][trans method=crossfade time=400][wt]
+[backlay][layopt layer=message page=back visible=true][trans method=crossfade time=400][wt]
+
+「やあやあ来たわね、土岐野くん」
+「どうも」
+　長い黒髪をまとめてくくり、秋里さんはウォームアップをしていた。
+
+[backlay][layopt layer=message page=back visible=false][trans method=crossfade time=400][wt]
+[backlay][layopt layer=0 page=back visible=false pos=center][trans method=crossfade time=400][wt]
+[backlay][layopt layer=message page=back visible=true][trans method=crossfade time=400][wt]
+
+　部員たちも適当に散らばって、手首や肩の関節を軽く慣らしている。
+　俺もそこにまじって筋肉を伸ばす。
+　と、ポニーテールを揺らして秋里さんが近づいてきた。[p][cm]
+
+[backlay][layopt layer=message page=back visible=false][trans method=crossfade time=400][wt]
+[backlay][image storage="fgtn01b" layer=0 page=back visible=true pos=center][trans method=crossfade time=400][wt]
+[backlay][layopt layer=message page=back visible=true][trans method=crossfade time=400][wt]
+
+「土岐野くん、今日は自主錬の日だし、明日のことも考えて軽めのメニューにしとくのよ」
+「ん、そうですね」
+「きみの相手は荒村くんだったっけ？」
+「……はい」
+
+[backlay][layopt layer=message page=back visible=false][trans method=crossfade time=400][wt]
+[backlay][image storage="fgtn01d" layer=0 page=back visible=true pos=center][trans method=crossfade time=400][wt]
+[backlay][layopt layer=message page=back visible=true][trans method=crossfade time=400][wt]
+
+「あー、あの子、強いよねー。おなじ体重で災難だったと思うでしょ？」
+　あ。なんかむっときた。
+　たしかに荒村はかなり強いし、正直いうと別のやつが相手のほうが気楽だったさ。
+　けど。それを俺に言うってことは……「俺は荒村にかなわない」ってことか？[p][cm]
+
+「そんなことは思ってません」
+
+[backlay][layopt layer=message page=back visible=false][trans method=crossfade time=400][wt]
+[backlay][image storage="fgtn01e" layer=0 page=back visible=true pos=center][trans method=crossfade time=400][wt]
+[backlay][layopt layer=message page=back visible=true][trans method=crossfade time=400][wt]
+
+「あら、そう」
+
+[backlay][layopt layer=message page=back visible=false][trans method=crossfade time=400][wt]
+[backlay][image storage="fgtn01d" layer=0 page=back visible=true pos=center][trans method=crossfade time=400][wt]
+[backlay][layopt layer=message page=back visible=true][trans method=crossfade time=400][wt]
+
+　秋里さんはなぜか嬉しそうに頬をゆるませる。
+
+[backlay][layopt layer=message page=back visible=false][trans method=crossfade time=400][wt]
+[backlay][image storage="fgtn01c" layer=0 page=back visible=true pos=center][trans method=crossfade time=400][wt]
+[backlay][layopt layer=message page=back visible=true][trans method=crossfade time=400][wt]
+
+「がんばってね、期待してるわよ」
+　そう言って、俺の肩をばんと叩いた。[p][cm]
+
+[backlay][layopt layer=message page=back visible=false][trans method=crossfade time=400][wt]
+[backlay][layopt layer=0 page=back visible=false pos=center][trans method=crossfade time=400][wt]
+[backlay][layopt layer=message page=back visible=true][trans method=crossfade time=400][wt]
+
+
+　明日の午前十時半、ボクシング部は半年に一度のスパーリング会を開く。
+　寸止めのマスボクシングは年中やってるが、本気のスパーはめったにやらない。怪我しやすく、運が悪いと脳障害の危険もあるからだ。
+　ほかの先進国のボクシングジムも、だいたいはうちとおなじ思想らしい。アメリカスポーツ医学界（ＡＣＳＭ）のガイドラインによれば、シーズン中に三回脳震盪を起こせば、そのシーズンは出場停止にすべきなのだとか。[p][cm]
+
+「タイマー動かしまーす！」
+「おねがーい」
+
+[playse buf=0 storage="se58"]
+
+　かべぎわのロッカー上に設置された、電光掲示のタイマーが灯る。表示は３：００から一秒ごとに減ってゆく。
+　――始めるか。
+　俺は縄跳びを始める。右足二回、左足二回のリズムで最初はゆっくりなわを跳ぶ。
+　身体に熱がともりだした。ちょっとペースをあげよう。
+　二重跳び。○×跳び。緩急をつけて、身体をだんだん温めていく。[p][cm]
+
+[playse buf=0 storage="se58"]
+
+　三分経過。縄跳びはこれくらいでいいか。
+　縄をペットボトルのそばに置く。
+　壁に張った大きな鏡の前に立ち、ファイティングポーズを取る。
+
+[playse buf=0 storage="se58"]
+
+　三十秒の休憩が終わると同時に俺はシャドウを始めた。
+　仮想敵を――俺の場合は荒村の動きを想定しながら、ジャブを、フックを空に打ちこむ。[p][cm]
+
+[playse buf=0 storage="se70"]
+
+　荒村は俺よりリーチが長い。アウトボクシングがとにかく巧く、なかなか近寄らせてくれない。
+　インファイトが頼りの俺が無理に突っこんだところ、視界の外を利用したフックをきれいに当てられたことがある。かなりの威力だった。もうすこしで俺は、ぶざまにダウンしてただろう。
+　ああ、認めるさ。荒村は俺より強い。
+　けどな。始まる前から諦められるわけないだろ。[p][cm]
+
+　三分のあいだずっと動き続けるのは、見た目よりずっと大変な運動だ。
+　すぐに身体が熱くなり、すさまじい量の汗が吹きだしてくる。長距離走でも野球でも、これだけの汗はかかないだろう。ボクシングをやってなかったら、こんな経験はきっとない。
+　灰色のタンクトップは水に浸したように濡れ、顎から落ちる汗のしずくが木の床に落ちる。俺以外の部員もおなじように、比喩じゃなく本当に汗を流している。[p][cm]
+
+　これが練習なんだ。
+　練習でさえこれだけ苦しいんなら、本番はもっときつい――そう思うだろう？
+　ところが、実際はちょっとちがう。
+　本気で練習すればするほど、試合はどんどん楽になるんだ。体力は練習で鍛えられるから、それも当然のこと。そして試合中は、練習で繰り返した通りにほとんど無意識に身体が動く。
+　試合は練習のように。練習は本番のように。この言葉はそういう意味だ。[p][cm]
+
+　たしかに練習はきついが、楽しい。
+　くだらないことを考えなくてすむ。これだけで運動する価値は十分にある。
+　ここは俺の居場所だ。
+　心からそう思うよ。[p][cm]
+
+[backlay][layopt layer=message page=back visible=false][trans method=crossfade time=400][wt]
+[backlay][image storage="black" layer=base page=back visible=true][trans method=universal rule="blind" time=1000 vague=20][wt]
+[backlay][layopt layer=message page=back visible=true][trans method=crossfade time=400][wt]
+
+　それから軽いマスとミット打ち、サンドバッグでの三十秒ラッシュをこなした。
+　練習中にあまり人と話さなくていいのは個人競技のいいとこだ。
+　最低限の挨拶と礼儀は欠かさないが、基本的にほとんど口は動かさなくていい。ほかの部員もたいてい無口だ。
+　汗を流して、水を飲んで。肉体の純度を高めていく。[p][cm]
+
+　――体育館の時計によれば、時刻はすでに六時過ぎ。そろそろ切りあげる頃合いだ。[p][cm]
+
+[backlay][layopt layer=message page=back visible=false][trans method=crossfade time=400][wt]
+[backlay][image storage="bg68" layer=base page=back visible=true][trans method=universal rule="blind" time=1000 vague=20][wt]
+[backlay][image storage="fgtn01c" layer=0 page=back visible=true pos=center][trans method=crossfade time=400][wt]
+[backlay][layopt layer=message page=back visible=true][trans method=crossfade time=400][wt]
+
+「はいはいはーい、集合～！　終わり、終わり～！」
+　秋里さんの号令で、部員たちは顔をあげた。
+　練習終了の合図だ。俺もシャドウの動きを止め、荒い息を繰り返した。
+
+[backlay][layopt layer=message page=back visible=false][trans method=crossfade time=400][wt]
+[backlay][image storage="fgtn01b" layer=0 page=back visible=true pos=center][trans method=crossfade time=400][wt]
+[backlay][layopt layer=message page=back visible=true][trans method=crossfade time=400][wt]
+
+「きみたちぃ～、集合よ。早く集まって」
+「おいっす！」
+　散らばっていた部員たちが、リングわきに集まってくる。そこに俺もついていく。
+　俺たちはリングのそばで、輪になって集まった。練習のあとのミーティングだ。[p][cm]
+
+[backlay][layopt layer=message page=back visible=false][trans method=crossfade time=400][wt]
+[backlay][image storage="fgtn01a" layer=0 page=back visible=true pos=center][trans method=crossfade time=400][wt]
+[backlay][layopt layer=message page=back visible=true][trans method=crossfade time=400][wt]
+
+　部員たちを眺めまわし、秋里さんが口を開いた。
+「えーっと、明日はスパー大会があります。二回生以上は基本的に全員なんだけど、でられないひと、いる？」
+　部員の声はあがらない。
+
+[backlay][layopt layer=message page=back visible=false][trans method=crossfade time=400][wt]
+[backlay][image storage="fgtn01b" layer=0 page=back visible=true pos=center][trans method=crossfade time=400][wt]
+[backlay][layopt layer=message page=back visible=true][trans method=crossfade time=400][wt]
+
+「ん、そっか。全員参加ね。スパーリングが初めてのひとは？」
+「おれ、初めてです」
+「あ、オレも」
+　同期の二人が手を上げた。
+　俺、土岐野蒼一はいちど荒村とやったことがある。そのときの結果は……ダウンこそしなかったものの、終始押されっぱなしだった。あと二ラウンド続けてたら、みっともなく倒れてたことだろう。[p][cm]
+
+[backlay][layopt layer=message page=back visible=false][trans method=crossfade time=400][wt]
+[backlay][image storage="fgtn01a" layer=0 page=back visible=true pos=center][trans method=crossfade time=400][wt]
+[backlay][layopt layer=message page=back visible=true][trans method=crossfade time=400][wt]
+
+「スパーは危険だから、怪我しないよう気をつけてね。ほかの大学でのことだけど、スパーの直後に頭が痛いって言いだして、病院送りになったひとを見たことがあるの」
+　その言葉はちょっと怖い。秋里さんはさらに続けて言った。
+「ヘッドギアも十六オンスのグラブも、たいして脳へのダメージの軽減にはならないからね。むしろ加減なして殴れるぶん、危険を増す可能性もあるって。とにかく安全を意識してね」
+「おいっす！」[p][cm]
+
+[backlay][layopt layer=message page=back visible=false][trans method=crossfade time=400][wt]
+[backlay][image storage="fgtn01c" layer=0 page=back visible=true pos=center][trans method=crossfade time=400][wt]
+[backlay][layopt layer=message page=back visible=true][trans method=crossfade time=400][wt]
+
+「今日はゆっくり休むように。けど寝坊しないでね？　さて……かいさ～んっ！」
+「お疲れ様でしたっ！」
+　最後に声をあわせ、俺たちは輪を崩してその場をあとにした。[p][cm]
+
+[backlay][layopt layer=message page=back visible=false][trans method=crossfade time=400][wt]
+[backlay][layopt layer=0 page=back visible=false pos=center][trans method=crossfade time=400][wt]
+[backlay][image storage="bg82" layer=base page=back visible=true][trans method=universal rule="blind" time=1000 vague=20][wt]
+[backlay][layopt layer=message page=back visible=true][trans method=crossfade time=400][wt]
+
+[playse buf=0 storage="se61"]
+
+　体育館のシャワーを浴びてから部室に戻る。
+　汗臭いランニングシャツを脱ぎ、制汗剤を腕に吹きかけているところに。
+
+[playse buf=0 storage="se65"]
+[backlay][layopt layer=message page=back visible=false][trans method=crossfade time=400][wt]
+[backlay][image storage="fgtn01c" layer=0 page=back visible=true pos=center][trans method=crossfade time=400][wt]
+[backlay][layopt layer=message page=back visible=true][trans method=crossfade time=400][wt]
+
+
+「とーきのくんっ！」
+「うわっ！」
+　とつぜんドアが開き、秋里さんの声が飛びこんできた。
+　ほかの部員たちも驚いて飛びのく。秋里さん自身は俺にだけ顔を向け。[p][cm]
+
+[backlay][layopt layer=message page=back visible=false][trans method=crossfade time=400][wt]
+[backlay][image storage="fgtn01b" layer=0 page=back visible=true pos=center][trans method=crossfade time=400][wt]
+[backlay][layopt layer=message page=back visible=true][trans method=crossfade time=400][wt]
+
+「さっきは悪かったね、ごめん」
+「え、なんのことですか？」
+「荒村くんとのスパー、おなじ体重で災難だったって」
+　なんだ、そのことか。
+「いいです。べつに気にしてません」
+
+[backlay][layopt layer=message page=back visible=false][trans method=crossfade time=400][wt]
+[backlay][image storage="fgtn01e" layer=0 page=back visible=true pos=center][trans method=crossfade time=400][wt]
+[backlay][layopt layer=message page=back visible=true][trans method=crossfade time=400][wt]
+
+「ん、そう？　きみの性格だったら、ずっと悩んで根に持ってうじうじ２ちゃんにスレ立てて誰も読まない愚痴を書きこむんじゃないかと心配してたんだけど……」
+「そんなことしません」[p][cm]
+
+[backlay][layopt layer=message page=back visible=false][trans method=crossfade time=400][wt]
+[backlay][layopt layer=0 page=back visible=false pos=center][trans method=crossfade time=400][wt]
+[backlay][layopt layer=message page=back visible=true][trans method=crossfade time=400][wt]
+
+　着替え終わり、カバンにしまった携帯電話の電源を入れ直す。
+　
+　『メッセージを受信しました』[l]
+　
+　
+　メール？
+　受信ボックスを確認する。[p][cm]
+
+　差出人：洲原奈美[r]
+　宛先：土岐野蒼一[r]
+　件名：勉強会忘れないで[r]
+　本文：[r]
+　以上！[l][r]
+　
+　……ああ。
+　忘れてないよ。[p][cm]
+
+[backlay][layopt layer=message page=back visible=false][trans method=crossfade time=400][wt]
+[backlay][image storage="fgtn01d" layer=0 page=back visible=true pos=center][trans method=crossfade time=400][wt]
+[backlay][layopt layer=message page=back visible=true][trans method=crossfade time=400][wt]
+
+「どうしたの土岐野くん？　嬉しそうにニヤニヤして」
+「えっ……ニヤニヤしてましたか俺」
+
+[backlay][layopt layer=message page=back visible=false][trans method=crossfade time=400][wt]
+[backlay][image storage="fgtn01c" layer=0 page=back visible=true pos=center][trans method=crossfade time=400][wt]
+[backlay][layopt layer=message page=back visible=true][trans method=crossfade time=400][wt]
+
+「うん、すごくしてた。相手はだれ？　もしかして女の子？」
+「あっ……は、ははっ」
+　変な笑いがでてきた。ごまかすのは失敗。
+
+[backlay][layopt layer=message page=back visible=false][trans method=crossfade time=400][wt]
+[backlay][image storage="fgtn01d" layer=0 page=back visible=true pos=center][trans method=crossfade time=400][wt]
+[backlay][layopt layer=message page=back visible=true][trans method=crossfade time=400][wt]
+
+「……へ～。うふふふふふ。いやいやいやー意外な一面もあるもんだねー土岐野くんにも」[p][cm]
+
+[playse buf=0 storage="se63"]
+
+　秋里さんの実に楽しそうな笑顔が迫ってくる。
+　い、いかん。このままでは奈美のことを根掘り葉掘り喋らされる。
+　俺は慌ただしく帰る用意をととのえた。
+「す、すみません、帰ります」
+
+[backlay][layopt layer=message page=back visible=false][trans method=crossfade time=400][wt]
+[backlay][image storage="fgtn01g" layer=0 page=back visible=true pos=center][trans method=crossfade time=400][wt]
+[backlay][layopt layer=message page=back visible=true][trans method=crossfade time=400][wt]
+
+「え、待ってよ。そのメールの差出人のことをちょこっと聞きた――」
+「お先に失礼します。お疲れさまでしたっ！」
+　俺は急いで部室のドアを開けた。
+
+[backlay][layopt layer=message page=back visible=false][trans method=crossfade time=400][wt]
+[backlay][layopt layer=0 page=back visible=false pos=center][trans method=crossfade time=400][wt]
+[playse buf=0 storage="se65"]
+[fadeoutbgm time=3000]
+[backlay][image storage="black" layer=base page=back visible=true][trans method=universal rule="blind" time=1000 vague=20][wt]
+[backlay][layopt layer=message page=back visible=true][trans method=crossfade time=400][wt]
+
+　秋里さんの声が聞こえてきたが、無視して部をあとにした。[p][cm]
+
+[backlay][layopt layer=message page=back visible=false][trans method=crossfade time=400][wt]
+[fadeinse buf=1 storage="se69" loop=true time=3000]
+[backlay][image storage="bg75" layer=base page=back visible=true][trans method=universal rule="blind" time=1000 vague=20][wt]
+[backlay][layopt layer=message page=back visible=true][trans method=crossfade time=400][wt]
+
+　生協食堂で軽く夕飯を食べてから、俺は自転車をこぎだした。
+　街灯がともり、日は沈み、夕方から夜に変わっていく。
+
+[backlay][layopt layer=message page=back visible=false][trans method=crossfade time=400][wt]
+[backlay][image storage="bg76" layer=base page=back visible=true][trans method=universal rule="blind" time=1000 vague=20][wt]
+[backlay][layopt layer=message page=back visible=true][trans method=crossfade time=400][wt]
+
+　ゆったりした気持ちで俺はぬるくなった空気をつっきり、いつもの道のりを逆方向に進んでいく。
+　帰ったら、奈美のやつといっしょに勉強会だ。時間に余裕はある。[p][cm]
+
+　あいつの相手をするのはけっこう楽しい。
+　いまの生活じゃ人と話をする機会があんまりないし、奈美自身が面白いやつだからつい延々と話しこんでしまったりする。
+　あいつは俺の……。
+　俺の？
+　えと……友達だ。うん、そう、友達だな。
+　たぶん唯一の女友達。だから大切にすべきだと思う。[p][cm]
+
+　さて、そろそろ帰宅、[l]というときに。
+
+[playbgm storage="se02" loop=true]
+
+　ケータイが震えた。着信だ。
+
+[pausebgm]
+[playse buf=0 storage="se79"]
+
+「もしもし？」
+「よう」
+　荒村だ。
+「さっき思いついたことがあって、おまえに相談したいんだが」
+「なんだ？」
+「おまえ、本気でボクシングやってるか？」[p][cm]
+
+　どきっとした。
+　なにが聞きたいんだ、こいつ。
+　俺のことを試しているのか？　ふだんの練習は流してて、入ったはいいけどきつくていやで、やめたい――そんなふうに思われてるのか？
+　どう答えるべきか数瞬迷って、けっきょく俺はこう告げた。
+「……ああ、本気でやってる」
+「お、そうか！　そいつはよかった。なら安心だ」
+　――安心？[p][cm]
+
+「じゃ、な」
+「は？」
+　お、おいおい、待てよ。なんだその「もう話は終わった」とでも言いたげな別れの言葉は？
+「相談はどうなった？　思いついたことは？」
+「もういい。確認はとれた」
+「確認ってなんだ荒村。おい！」
+「すぐわかるよ。それじゃ」
+
+[playse buf=0 storage="se79"]
+
+　電話が切れた。[p][cm]
+
+　「通話終了」の表示を数秒見つめて、俺はケータイをポケットにしまう。
+　なんだったんだ？
+　あいつはたまに意味不明だが、いつもにも増して妙だった。
+　明日のスパーのことだろうか？
+　……まあいいか、奈美がもうすぐ来る。そっちの準備をしないと。
+　くわしいことは、明日本人から聞けるだろう。[p][cm]
+
+[backlay][layopt layer=message page=back visible=false][trans method=crossfade time=400][wt]
+[stopse buf=1][stopse buf=0]
+[backlay][image storage="black" layer=base page=back visible=true][trans method=universal rule="blind" time=1000 vague=20][wt]
+

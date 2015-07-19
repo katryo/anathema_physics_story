@@ -1,0 +1,551 @@
+□シーン２－２／事故のあと
+
+[backlay][layopt layer=message page=back visible=false][trans method=crossfade time=400][wt]
+[fadeinbgm storage="bgm28" loop=true time=3000]
+[backlay][image storage="bg84" layer=base page=back visible=true][trans method=universal rule="blind" time=1000 vague=20][wt]
+[backlay][layopt layer=message page=back visible=true][trans method=crossfade time=400][wt]
+
+　片目を手のひらで覆いながら手術室に誘導されていった荒村を見送ってから、一時間ほど経っただろうか。
+　廊下に部員たちは首をそろえていたが、口を開く者はいなかった。
+　革ばりのイスに腰をおろし、俺はうなだれるように地面を見つめる。
+　身体が鉛のように重かった。[p][cm]
+
+　――保険には入ってるんですよね？
+　
+　――はい。部員は全員、学生スポーツ保険に。
+　
+　――でしたら、手術料も入院費も、後遺症の補償金もあまり気になさらないで結構ですね。
+　
+　――はい。
+　
+　
+　そんな会話をしたと思う。[p][cm]
+
+　手術が始まってすぐ、ナースが俺たちになにが起こったのか教えてくれた。
+　網膜剥離。
+　ボクシングをやってる者なら誰もが知り、誰もが恐れる事態だった。
+　サミングで直接眼球に衝撃が加えられ、荒村の左目の網膜に穴があいた。
+　そこに、さらに何度も打撃を受けた。
+　裂孔は広がり、ほとんど液体になったガラス体が侵入し、シールをはがすように網膜をめくったんだ。[p][cm]
+
+　はがれた網膜では、ものは見えない。それは手術をしても治らない。
+　医者にできることは、これ以上はがれないようにする処置だけだ。
+　部員たちは手術室に入る荒村に声をかけることぐらいしかできず、俺にいたってはそれさえ無理だった。
+　俺と荒村は、加害者と被害者の関係なんだ。[p][cm]
+
+[playse buf=0 storage="se55"]
+
+　看護師に先導されたおばさんがひどい血相で走ってきた。
+　細身で背の高い、青白い肌の中年女性。
+　――荒村のお母さんだ。
+
+[stopse buf=1][stopse buf=0]
+
+「ここ！？」
+「待ってください、入らないで！」
+　手術中の表示を無視してドアを蹴破りそうな勢いだったが、看護師に押し止められた彼女はようやく足を止めた。[p][cm]
+
+　ずっと走ってたんだろうか、息を切らして彼女はドアを射貫くように見つめていた。
+　病院についてから荒村の実家に電話したら、すぐにこの人につながった。
+　スパーリングで怪我をして、手術をすると告げると「いまからそこに参ります」と彼女は丁寧ながら荒い語気で答えた。
+　……らしい。
+　俺じゃなくて秋里さんが電話したから、詳しい内容は知らない。
+　距離を考えると、到着までの時間は恐ろしく短かった。
+　あたりまえのことだけど、ほんとうに急いで来たんだ。[p][cm]
+
+「すぐ終わる手術ですから、あと三十分ほどお待ちください」
+「……そうですか」
+　看護師に言われ、ドアから離れる。でも視線はそこから離れなかった。
+　イスにも座らず、聞こえるか聞こえないくらいの声で、ぼそっと。
+「だから、ボクシングなんて、やめておけって……！」
+　いちばん近い位置にいた俺には聞こえた。[p][cm]
+
+　俺にできることはない。
+　ただこうしてイスに座り、手術が終わるのを待つだけ。
+　そして荒村がでてきたら。
+　……どうすればいいんだろう？
+　なんて話しかければいいんだ。加害者が被害者に向かって？[p][cm]
+
+　床で影が動いた。俺は顔を上げた。
+「あなた！　あなたがやったんですか！？」
+　ほっそりした背の高い彼女が、覆いかぶさるように俺を見おろしていた。
+　ああ、そうくるか。
+「……そうです」
+　すぐ俺は答えた。[p][cm]
+
+　電話した秋里さんが教えたのか、それとも勘で言ったのか。
+　たぶん後者だろう。きっと俺は、この場でいちばん暗い顔をしてたんだと思う。
+　彼女の形相が一変する。不安と後悔と悲しみを、強い怒りで塗り替えていく。
+「……でていって。いますぐここからでていって！」
+　泡を飛ばして彼女は叫んだ。
+「わかりました」
+　間をおかず、俺は立ち上がった。[p][cm]
+
+　俺はこの人と向き合えない。そう思った。
+　彼女の言ってることは正しい。
+　この人にとって、俺は子供の目を潰した実行犯だ。
+　そんな悪人といっしょに愛しい息子の無事を祈ってられるか？
+　無理だな。[p][cm]
+
+[backlay][layopt layer=message page=back visible=false][trans method=crossfade time=400][wt]
+[backlay][image storage="fgtn01g" layer=0 page=back visible=true pos=center][trans method=crossfade time=400][wt]
+[backlay][layopt layer=message page=back visible=true][trans method=crossfade time=400][wt]
+
+　出口に向かって歩きだす俺を、秋里さんが呼び止める。
+「ちょっと土岐野くん！　なにやってるの！？」
+「病院からでていくんですよ」
+「やめて。そんなのはやめてちょうだい。あなたは悪くないのよ。荒村くんもきみを恨んでなんていない」
+「いいんです。きっと、荒村のお母さんといっしょにいたらダメなんだと思います」
+「ねえ、待ってよ！　土岐野くん！」
+「あとで連絡します」
+　秋里さんを振り切って、早足でその場から逃げだした。[p][cm]
+
+[backlay][layopt layer=message page=back visible=false][trans method=crossfade time=400][wt]
+[backlay][layopt layer=0 page=back visible=false pos=center][trans method=crossfade time=400][wt]
+[fadeoutbgm time=3000]
+[backlay][image storage="white" layer=2 page=back visible=true][trans method=crossfade time=1000][wt]
+[image layer=base storage="bg85" page=fore]
+[fadeinse buf=1 storage="se78" loop=true time=3000]
+[backlay][layopt layer=2 page=back visible=false][trans method=crossfade time=1000][wt]
+[backlay][layopt layer=message page=back visible=true][trans method=crossfade time=400][wt]
+
+　もう昼過ぎか。
+　昼食をとってもいい時間のはずなのに、ぜんぜん腹が減った気がしない。
+　空がまぶしい。
+　病院をでて、自転車のおいてある大学体育館まで歩いていく道上。
+　あのまま病院で荒村の手術が終わるのを待ってたほうがよかったのかな。
+　そう考えてみたけど、やっぱりあの場を耐えられる自信はなかった。[p][cm]
+
+　もう手術は終わったころだろうか？
+　そんなに長くはかからないと看護師に聞いた。一時間か、それくらい。
+　手術室からでてくるあいつを、いまちょうど部員たちが優しく迎えているのかもしれない。
+　あの母親は泣きだしたりしてるのかな。
+　もういい。
+　どちらにせよ、俺はあそこには戻れない。[p][cm]
+
+　商店街のアーケードをわきに見ながら、とぼとぼと足を動かした。
+　このあたりは街の中心部で、土曜の昼間はほんとうに人が多い。
+　広くない歩道を進むだけで肩がぶつかりそうになる。子供から年寄りまで、まるで誰もがこの一帯に集まったみたいだ。
+　人間と太陽からでる熱気で、汗がどんどん垂れてくる。
+　道を行き交う人の流れを避けるように、俺は大通りからアーケードに入っていった。[p][cm]
+
+[backlay][layopt layer=message page=back visible=false][trans method=crossfade time=400][wt]
+[seopt buf=1 volume=50]
+[backlay][image storage="bg86" layer=base page=back visible=true][trans method=universal rule="blind" time=1000 vague=20][wt]
+[backlay][layopt layer=message page=back visible=true][trans method=crossfade time=400][wt]
+
+　ここはまだ人がまばらだ。
+　人混みをさけていけば、ちょっとは早く帰れるだろう。
+　商店街に用はない。にぎやかな様子を見ていると、白昼夢みたいな気分になる。
+　早く通り過ぎよう。そう思って心なし足を大きく動かし、アーケードの中央を歩いていく。
+　そして、見つけてしまった。[p][cm]
+
+[backlay][layopt layer=message page=back visible=false][trans method=crossfade time=400][wt]
+[backlay][image storage="bg90" layer=base page=back visible=true][trans method=crossfade time=1000][wt]
+[backlay][image storage="fgnm01ahqs" layer=0 page=back visible=true pos=center][trans method=crossfade time=1000][wt]
+[stopse buf=1][stopse buf=0]
+[wait time=2000]
+[backlay][layopt layer=message page=back visible=true][trans method=crossfade time=400][wt]
+
+「――奈美」
+　洲原奈美が、そこにいた。
+　まだ俺には気づいてないみたいだ。
+　アメリカ産３Ｄアニメ映画のキャラクターが並ぶ、ぬいぐるみなんかのグッズの店。
+　その店先に立って三つ目の宇宙人を眺めていた奈美は、やがて、おずおずと店内に足を踏み入れた。[p][cm]
+
+[backlay][layopt layer=message page=back visible=false][trans method=crossfade time=400][wt]
+[backlay][layopt layer=0 page=back visible=false pos=center][trans method=crossfade time=1000][wt]
+[fadeinse buf=1 storage="se78" loop=true time=3000]
+[backlay][image storage="bg86" layer=base page=back visible=true][trans method=crossfade time=1000][wt]
+[backlay][layopt layer=message page=back visible=true][trans method=crossfade time=400][wt]
+
+
+　ずっと俺はそいつを見つめていた。たぶん、間抜けな顔でぽかんとしてたと思う。
+　……えっと。
+　声をかけようか？
+　偶然、街で出会ったんだ。いつもの俺だったら迷わず気軽に話しかけていったと思う。[p][cm]
+
+　でも、いまはいい。
+　人と話す気分じゃない。
+　帰ろう。
+　俺はその店のまえを通り過ぎた。
+　ガラス越しに奈美を一瞬だけ横目で探したが、角度が悪いのか見つからなかった。[p][cm]
+
+[backlay][layopt layer=message page=back visible=false][trans method=crossfade time=400][wt]
+[fadeoutse buf=1 time=1000]
+[backlay][image storage="black" layer=base page=back visible=true][trans method=universal rule="blind" time=1000 vague=20][wt]
+[seopt buf=1 volume=100]
+[backlay][layopt layer=message page=back visible=true][trans method=crossfade time=400][wt]
+
+　帰宅しても食欲がわかなかったので、ベッドにもぐりこんで休むことにした。
+　疲れているのに寝つけず、目をつむったまま時が過ぎるのを待った。
+　起きているのか寝ているのかはっきりしない、とろとろした浅い眠りを繰り返す。[p][cm]
+
+[backlay][layopt layer=message page=back visible=false][trans method=crossfade time=400][wt]
+[fadeinse buf=1 storage="bgse03" loop=true time=3000]
+[backlay][image storage="bg87a" layer=base page=back visible=true][trans method=universal rule="blind" time=1000 vague=20][wt]
+[backlay][layopt layer=message page=back visible=true][trans method=crossfade time=400][wt]
+
+[playse buf=0 storage="se02"]
+
+「……ん」
+　目を開けて、ベッドから起き上がる。
+
+[stopse buf=1][stopse buf=0]
+
+　ケータイの震えはもう止まっていた。
+　メール？
+　身体がだるい。
+　枕元の時計を見ると。[p][cm]
+
+「うわ……八時かよ」
+　そんなに寝てたのか。
+　階下からテレビの音が聞こえてくる。両親は夕食を食べ終わって、いつもどおりのバラエティ番組を見てるようだ。
+　フリップを開けて、メールを確認。[p][cm]
+
+　差出人：洲原奈美[r]
+　宛先：土岐野蒼一[r]
+　件名：なし[r]
+　本文：[r]
+　あんた、今日のお昼に商店街にいたでしょ。[r]
+　わたしのこと見てたの、気づいてたんだからね？[r]
+　なんか暗い顔してたけど、どうかしたの？　声くらいかけなさいよ。相談にのってあげるから。[p][cm]
+
+「……見てたのかよ」
+　商店街で奈美を見かけたとき。
+　あいつは、俺がみっともない顔でぶらぶらしてるのに気づいて、なにかがあったことを察した。
+　そして、こうしてメールを送ってきた。
+　……ああ、ちょっと、ほっとした。
+　こんな近くに、俺のことを気づかってくれるやつがいたんだ。[p][cm]
+
+　返事、しないとな。
+　そう思ってキーに触れたが、なんて書けばいいのか思い浮かばない。
+　えっと。
+　
+　メール、すまん、ありがとう。
+　どうして気落ちしてるのかというと、ボクシング部でいやなことがあったんだ。
+　ヘッドギアなしで危険なスパーリングを行い、サミングで仲間の目を網膜剥離にした。
+　ぜんぶ俺が悪いんだ。つい熱くなって、先輩たちが制止するのも無視して、相手をめった打ちにしてしまった。[p][cm]
+
+　――そんなことを知らされて、あいつはどう思うんだ。
+　「あんたは悪くない、事故だったのよ」と慰めてくれる？
+　奈美ならそうするかもしれない。あいつは優しいやつだから。
+　けど、俺の過失なのは事実なんだ。
+　奈美に慰められたりしたら、俺の気がすまない。[p][cm]
+
+　それに、奈美にこんな悲惨な話を聞かせたくない。
+　現実に起こったできごとは取り返しがつかないんだ。どうしようもなく、終わってしまったことなんだよ。
+　後悔や反省のはけ口にされて、奈美にやれることなんてなにもない。
+　……やめよう。
+　メールを送る気になれない。
+　ぱかん、と音を立ててケータイを閉じ、机に置いた。[p][cm]
+
+[backlay][layopt layer=message page=back visible=false][trans method=crossfade time=400][wt]
+[backlay][image storage="black" layer=base page=back visible=true][trans method=universal rule="blind" time=1000 vague=20][wt]
+[fadeinse buf=1 storage="bgse76" loop=true time=3000]
+[backlay][layopt layer=message page=back visible=true][trans method=crossfade time=400][wt]
+
+[playse buf=0 storage="se02"]
+
+　差出人：洲原奈美[r]
+　宛先：土岐野蒼一[r]
+　件名：なし[r]
+　本文：[r]
+　あのー、もしもし？[r]
+　返信を待ってるんだけど、もしかして受信できてないのかなー？[r]
+　どうでもいい内容だけど、もしメールが受信できてたら返事してよね。[p][cm]
+
+　そんなメールが届いたが、返信はしなかった。
+　面倒になったので、大学への行き帰りに奈美と会わないようルートを変えた。
+　あいつはメールを送ってこなくなった。[p][cm]
+
+　秋里さんから連絡が来た。
+　手術はいちおう成功したらしい。
+　ガラス体のほとんどを取り除いて、わずかな視力はなんとか残った。
+　けど、その傷跡は生涯消えない。視力はもう回復しない。
+　荒村はボクシングをやめなくちゃならない。少なくとも試合は無理だ。
+　俺も荒村も学生スポーツ保険に入っていたから金の心配はない。練習中の事故だから罪に問われることもないと聞いた。
+　だけど、それがなんだっていうんだ？[p][cm]
+
+
+[stopse buf=1][stopse buf=0]
+[backlay][layopt layer=message page=back visible=false][trans method=crossfade time=400][wt]
+
+;;※[jump storage="third.ks" target="*sceneインターミッション３"]
+
+
+□シーン２－３／奈美とのすれ違い
+
+[fadeinse buf=1 storage="se44" loop=true time=3000]
+[backlay][image storage="bg87b" layer=base page=back visible=true][trans method=universal rule="blind" time=1000 vague=20][wt]
+[backlay][layopt layer=message page=back visible=true][trans method=crossfade time=400][wt]
+
+　スパーリングから三日が経った夕方。
+
+[playbgm storage="se02" loop=true]
+
+　俺のケータイが机の上で震えた。
+　メール？　……じゃない。
+　まだコールは続いてる。電話だ。
+　ディスプレイを見て、どきっとした。[p][cm]
+
+　着信：洲原奈美[l][r]
+　
+　メールが通じないから電話にしたのか。
+　でるか？
+　でないか？
+　くそっ……。さすがに電話を無視するわけにはいかないだろ。[p][cm]
+
+[pausebgm]
+[playse buf=0 storage="se79"]
+
+「蒼一？」
+　変わらない、はきはきとした声。
+　その声がいまの俺にはちょっとつらい。
+「悪い、いまあんまり話したい気分じゃない」
+「え？　なんか都合悪いの？　いまからでかけるとか？」
+「そういうわけじゃないけど……」
+「じゃあいいじゃない。ねえ、なんでメール送っても返事しないの？」[p][cm]
+
+「ちょっと面倒でな。わるい」
+「……ふうん、面倒だったんだ」
+　とげのある声音。
+「練習相手を網膜剥離にさせたこと、言いたくなかったの？」
+　突然だった。
+　え？
+　なんで……知ってるんだ？[p][cm]
+
+「……。おまえ、知ってたのか」
+「うん。ボクシング部の人にメールで教えてもらった。アドレスは部のウェブサイトに載ってた」
+　教えんなよ。
+「で、それを気にして、わたしに連絡しなかったんだ」
+「……」
+「おまけに、わたしを街で見ても無視した」
+「……おまえな」[p][cm]
+
+「なに？」
+「もうやめてくれ」
+「……はあ？」
+「ちょっと遠慮してほしいんだ、いまは」
+「んん？　言ってることがわかんないんだけど」
+「ほっといてくれってことだよ！」
+　思わず大声がでた。
+　電話越しに、奈美がひゅっと息を呑むのが聞こえた。[p][cm]
+
+「……すまん、ちょっと感情的になった。でもこれは俺の本心だ。しばらく電話しないでくれ」
+「え、待って。ねえちょっと待ってよ！」
+「じゃあな。落ち着いたら連絡する」[p][cm]
+
+[playse buf=0 storage="se79"]
+
+　――はあ。
+　電話を切ると、俺はひとつ大きなため息をつく。
+　思ってたよりあいつは世話焼きだったみたいだ。
+　それも、“大きな”が頭につくタイプの。
+　誰だよ、奈美にスパー事故を教えたのは。
+　部員たちの顔を思い浮かべて、たぶんあの人だと予想する。[p][cm]
+
+　秋里さんだ。
+　誰かとおなじく頭に余計な単語がつく世話焼きのあの人なら、奈美の問い合わせに応えておかしくない。
+　二度と会わないほうがいい。
+　そう思っていた人に面倒なことをされると、善意なのはわかるがイラッとしてしまう。
+　奈美には知られたくなかった。
+　暗い穴の底のようなできごとに、あいつを近づけたくなかったんだ。[p][cm]
+
+　また電話がかかってくる様子はない。
+　奈美もあきらめたんだろう。
+　それでいい。よかった。
+　こんなのは、たいしたことじゃない。
+　つまらない学生生活の、よくある小さな挫折と失敗だ。
+　いまさら奈美に掘り返されるのはごめんだ。[p][cm]
+
+　そういえば、期末試験が近いんだった。勉強しなきゃな……。
+　俺はとりあえず机に向かった。
+　物理化学のレジュメとノート、それに返却されたレポートをだして広げる。
+　自作のレポートが持ちこみ可というテストだから、それほどやっきになって対策する必要はない。
+　レポートにいくつか補足を書きこみ、難解かつぶ厚い教科書をなんとか読み進めていく。[p][cm]
+
+[playse buf=0 storage="se32"]
+
+　チャイム？
+　いまは両親はいない。居留守を決めこむ気もない。
+　勉強を邪魔されたことに軽くいらつきながら、俺は席を立った。
+
+[backlay][layopt layer=message page=back visible=false][trans method=crossfade time=400][wt]
+[backlay][image storage="bg60" layer=base page=back visible=true][trans method=universal rule="blind" time=1000 vague=20][wt]
+[backlay][layopt layer=message page=back visible=true][trans method=crossfade time=400][wt]
+
+　俺は玄関に向かいながら、誰が来たのかなんとなく予想する。
+　宅配便か、町内会か。そのあたりだろうと思う。
+　でも、もしかして。
+　頭の片隅で、そいつのふくれっ面が大きくなる。
+　――まさか。[p][cm]
+
+[backlay][layopt layer=message page=back visible=false][trans method=crossfade time=400][wt]
+[playse buf=0 storage="se29"]
+[backlay][image storage="fgnm07ahps" layer=0 page=back visible=true pos=center][trans method=crossfade time=1000][wt]
+[backlay][layopt layer=message page=back visible=true][trans method=crossfade time=400][wt]
+
+「ひさしぶり」
+　ドアを開けるなりそいつは無表情のまま言い、ずかずかと中に入ってきた。
+「……」
+　悪びれもせず、ここにいるのが当然とでも言いたげな様子で、奈美は俺に問いかける。
+
+[backlay][layopt layer=message page=back visible=false][trans method=crossfade time=400][wt]
+[backlay][image storage="fgnm07chpv" layer=0 page=back visible=true pos=center][trans method=crossfade time=300][wt]
+[backlay][layopt layer=message page=back visible=true][trans method=crossfade time=400][wt]
+
+「蒼一、なんで電話切ったの？」
+　電話が切れてから、かけなおしても無駄だと判断して、すぐにここに直行したのか。[p][cm]
+
+　いらだち混じりの問いかけに、俺はいちおう答えておく。
+「おまえと話す気分じゃなかった」
+
+[backlay][layopt layer=message page=back visible=false][trans method=crossfade time=400][wt]
+[backlay][image storage="fgnm07aipu" layer=0 page=back visible=true pos=center][trans method=crossfade time=300][wt]
+[backlay][layopt layer=message page=back visible=true][trans method=crossfade time=400][wt]
+
+「なによそれ……心配したのよ？」
+「余計なお世話だよ。心配してくれなくていい」
+
+[backlay][layopt layer=message page=back visible=false][trans method=crossfade time=400][wt]
+[backlay][image storage="fgnm07chps" layer=0 page=back visible=true pos=center][trans method=crossfade time=300][wt]
+[backlay][layopt layer=message page=back visible=true][trans method=crossfade time=400][wt]
+
+　そう言うと、奈美は露骨にむっと俺をにらんだ。[p][cm]
+
+「で、どういうわけ？」
+「……聞いたんだろ。スパーの相手を網膜剥離にしたんだよ」
+「それで、ボクシング部をやめるんだって？」
+「……まあな」
+　奈美の言うとおり、退部したいとすでに部員たちに伝えてある。
+
+[backlay][layopt layer=message page=back visible=false][trans method=crossfade time=400][wt]
+[backlay][image storage="fgnm07chpu" layer=0 page=back visible=true pos=center][trans method=crossfade time=300][wt]
+[backlay][layopt layer=message page=back visible=true][trans method=crossfade time=400][wt]
+
+「なんで辞めるの？　それって事故だったんでしょ？」
+「……」[p][cm]
+
+[backlay][layopt layer=message page=back visible=false][trans method=crossfade time=400][wt]
+[backlay][image storage="fgnm07chps" layer=0 page=back visible=true pos=center][trans method=crossfade time=300][wt]
+[backlay][layopt layer=message page=back visible=true][trans method=crossfade time=400][wt]
+
+「練習中の事故は罪に問われないんじゃないの？　それなのにどうして」
+「それは」
+
+[backlay][layopt layer=message page=back visible=false][trans method=crossfade time=400][wt]
+[backlay][image storage="fgnm07chpv" layer=0 page=back visible=true pos=center][trans method=crossfade time=300][wt]
+[backlay][layopt layer=message page=back visible=true][trans method=crossfade time=400][wt]
+
+「どうなの？　辞めろってだれかに言われたの？　だったらわたしが言い返してあげる。蒼一は悪くない。責任を感じる必要なんてないんだから！」
+　ああ、やっぱり。
+　こいつは優しいやつだ。こんなみじめな俺をかばってくれる。
+　でも、だからこそ、俺にかまってほしくなかった。[p][cm]
+
+「いや、ちがうよ。むしろ部のやつらは俺に優しかった。おまえに罪はないから気にすんな、運が悪かっただけだよ……って感じで、甘やかしてくれた」
+
+[backlay][layopt layer=message page=back visible=false][trans method=crossfade time=400][wt]
+[backlay][image storage="fgnm07aipu" layer=0 page=back visible=true pos=center][trans method=crossfade time=300][wt]
+[backlay][layopt layer=message page=back visible=true][trans method=crossfade time=400][wt]
+
+「だったらなんで……！」
+「そういうのもいやだったんだ。俺はもともと気楽にボクシングをしてたんだよ。気にするのも気にされるのも面倒だし、部にいるだけで疲れる」
+
+[backlay][layopt layer=message page=back visible=false][trans method=crossfade time=400][wt]
+[backlay][image storage="fgnm07aips" layer=0 page=back visible=true pos=center][trans method=crossfade time=300][wt]
+[backlay][layopt layer=message page=back visible=true][trans method=crossfade time=400][wt]
+
+「……そうなの」[p][cm]
+
+「用はそれだけか？」
+
+[backlay][layopt layer=message page=back visible=false][trans method=crossfade time=400][wt]
+[backlay][image storage="fgnm07ahps" layer=0 page=back visible=true pos=center][trans method=crossfade time=300][wt]
+[backlay][layopt layer=message page=back visible=true][trans method=crossfade time=400][wt]
+
+「まだある。来週、科学部で徹夜の天体観測するってまえに言ったわよね？　あんたはそれには来ないの？」
+「――ああ、それか」
+　そんなことを言ってたこともあったな。
+「行かないよ。高校の部活に卒業生が参加するなんて、大人げないというか、みっともない」
+
+[backlay][layopt layer=message page=back visible=false][trans method=crossfade time=400][wt]
+[backlay][image storage="fgnm07ahpu" layer=0 page=back visible=true pos=center][trans method=crossfade time=300][wt]
+[backlay][layopt layer=message page=back visible=true][trans method=crossfade time=400][wt]
+
+「そう。わかった」[p][cm]
+
+[backlay][layopt layer=message page=back visible=false][trans method=crossfade time=400][wt]
+[backlay][image storage="fgnm07chps" layer=0 page=back visible=true pos=center][trans method=crossfade time=300][wt]
+[backlay][layopt layer=message page=back visible=true][trans method=crossfade time=400][wt]
+
+　奈美はうつむき加減でこたえたが、やがてきっと強い視線で俺を見上げた。
+「ねえ、あがっていい？」
+　まだ話し足りないのか？
+「だめだ」
+
+[backlay][layopt layer=message page=back visible=false][trans method=crossfade time=400][wt]
+[backlay][image storage="fgnm07chpv" layer=0 page=back visible=true pos=center][trans method=crossfade time=300][wt]
+[backlay][layopt layer=message page=back visible=true][trans method=crossfade time=400][wt]
+
+「……はぁ？　どうしてよ」
+「いまはあんまり長話をしたくないんだよ。そんな気分になること、奈美にはないのか？」
+
+[backlay][layopt layer=message page=back visible=false][trans method=crossfade time=400][wt]
+[backlay][image storage="fgnm07chps" layer=0 page=back visible=true pos=center][trans method=crossfade time=300][wt]
+[backlay][layopt layer=message page=back visible=true][trans method=crossfade time=400][wt]
+
+「ないわね。わたしは蒼一と話をしたいのよ。それじゃだめ？」[p][cm]
+
+「……おまえなあ。相手の気持ちをちょっとは考えろよ。世の中みんながおまえみたいじゃないんだぞ？」
+
+[backlay][layopt layer=message page=back visible=false][trans method=crossfade time=400][wt]
+[backlay][image storage="fgnm07chpv" layer=0 page=back visible=true pos=center][trans method=crossfade time=300][wt]
+[backlay][layopt layer=message page=back visible=true][trans method=crossfade time=400][wt]
+
+「そんなのわかってるわよ。わたしよりずっと打たれ弱い蒼一のために、わざわざわたしが励ましに来てやったのよ。それなのに家にあげてもくれないの？」
+「もう黙れよ……おまえの相手をするのはいやなんだ。聞こえないのか？　俺は疲れてるし、おまえのキンキン声を聞くのもうんざりだ」
+「なにそれ。バカでしょあんた。人の好意を素直に受け取れないなんて、最低の男のやることよ。だからあんたは彼女いないのよ。わかってる？　そういう性格だから――」
+「いい加減にしろ」[p][cm]
+
+[backlay][layopt layer=message page=back visible=false][trans method=crossfade time=400][wt]
+[backlay][image storage="fgnm08aipu" layer=0 page=back visible=true pos=center][trans method=crossfade time=300][wt]
+[backlay][layopt layer=message page=back visible=true][trans method=crossfade time=400][wt]
+
+　低く重い声を俺は吐きだした。
+「おまえはいつも、俺をあざけったり、侮ったりしてきたな？　いままでずっと我慢してきたが、俺はそうやって小馬鹿にされることが――心底いやだった。もう十分だ。おまえは喋るな。めざわりなんだよ」
+　一気に思いのたけを言い切ってしまう。
+　どうなんだ奈美。おまえはここまで言われてもまだわめくつもりか？[p][cm]
+
+[backlay][layopt layer=message page=back visible=false][trans method=crossfade time=400][wt]
+[backlay][image storage="fgnm08elps" layer=0 page=back visible=true pos=center][trans method=crossfade time=300][wt]
+[backlay][layopt layer=message page=back visible=true][trans method=crossfade time=400][wt]
+
+　奈美は息を飲みこみ、青ざめた顔で口を開いた。
+「なに……それ。ふざけないでよ。ずっとあんたはへらへら笑ってわたしの言うことを聞いてたじゃない。それを我慢してたって言うの？　……信じられない」
+　頬を震わせ、ほとんど涙目になって奈美は言った。
+
+[backlay][layopt layer=message page=back visible=false][trans method=crossfade time=400][wt]
+[backlay][image storage="fgnm07clps" layer=0 page=back visible=true pos=center][trans method=crossfade time=300][wt]
+[backlay][layopt layer=message page=back visible=true][trans method=crossfade time=400][wt]
+
+「さよなら。もう会いたくないわ。永遠に」
+
+[backlay][layopt layer=message page=back visible=false][trans method=crossfade time=400][wt]
+[backlay][layopt layer=0 page=back visible=false pos=center][trans method=crossfade time=1000][wt]
+[playse buf=0 storage="se17"]
+[backlay][layopt layer=message page=back visible=true][trans method=crossfade time=400][wt]
+
+　それだけを言い残し、すごい勢いで玄関から走り去っていった。[p][cm]
+
+「……」
+　大きな音をたてて閉じられたドアのまえで、ぽつんと俺は取り残される。
+　べつにいい。
+　奈美のことなんてどうでもいい。
+　なにかあれば俺を馬鹿にしてきたあいつは、前からほんとうにうざかった。いなくなってせいせいするよ。
+　そう自分の胸につぶやき、俺は玄関のドアに鍵をかけた。[p][cm]
+
+[playse buf=0 storage="se33"]
+
+[backlay][layopt layer=message page=back visible=false][trans method=crossfade time=400][wt]
+;;◇背景：black／フェード3000

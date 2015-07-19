@@ -1,0 +1,361 @@
+□シーン３－４／ヤエザキと遭遇
+
+[backlay][layopt layer=message page=back visible=false][trans method=crossfade time=400][wt]
+[fadeinbgm storage="bgm01" loop=true time=2000]
+[backlay][image storage="bg62" layer=base page=back visible=true][trans method=universal rule="blind" time=3000 vague=20][wt]
+[backlay][layopt layer=message page=back visible=true][trans method=crossfade time=400][wt]
+
+「………ふぅ……はぁ……」
+　銃声はやんでいた。逃げ疲れてへたりこんでから五分ほどが経ったと思う。
+
+;;※雑居ビルの三階としたけど、別の場所にするかも。
+
+　特戦群と遭遇した場所からすこし離れた、雑居ビルの三階。その片隅に俺はうずくまっていた。もっと距離を取りたかったが、離れすぎると様子がうかがえない。首を巡らせ、窓から戦場に目を向けた。[p][cm]
+
+[backlay][layopt layer=message page=back visible=false][trans method=crossfade time=400][wt]
+[backlay][image storage="black" layer=2 page=back visible=true][trans method=crossfade time=1000][wt]
+[image storage="暗闇" layer=3 page=fore visible=true]
+[backlay][image storage="ev08" layer=2 page=back visible=true][trans method=crossfade time=1000][wt]
+[backlay][layopt layer=message page=back visible=true][trans method=crossfade time=400][wt]
+
+「うっ……！」
+　ひどい。人の肉が道路に飛び散って、まるで残飯みたいだ。
+　腹からピンク色のものがはみでているのがわかった。頭や手足が形を残しているのが余計にグロテスクだ。[p][cm]
+
+[backlay][layopt layer=message page=back visible=false][trans method=crossfade time=400][wt]
+[backlay][image storage="black" layer=2 page=back visible=true][trans method=crossfade time=1000][wt]
+[backlay][image storage="ev31" layer=2 page=back visible=true][trans method=crossfade time=1000][wt]
+[backlay][layopt layer=message page=back visible=true][trans method=crossfade time=400][wt]
+
+　ヘリの近くの戦闘は終わってるみたいだった。
+　無残に潰れた死体のそばに、アナテマの死体がひとつ、血だまりのなかに転がっている。
+　あれは――自衛隊に射殺されたやつだな。俺がこの場所を目にして最初に死んだアナテマ。こうして見ると哀れな気もするが、自衛隊のほうも殺されたんだ。自業自得だろう。
+　アナテマの死体と、ヘリと特戦群。
+　俺のすむ街にあるはずのない狂った景色だ。[p][cm]
+
+[backlay][layopt layer=message page=back visible=false][trans method=crossfade time=400][wt]
+[backlay][image storage="black" layer=2 page=back visible=true][trans method=crossfade time=1000][wt]
+[layopt layer=3 page=fore visible=false]
+[backlay][layopt layer=2 page=back visible=false][trans method=crossfade time=1000][wt]
+[backlay][layopt layer=message page=back visible=true][trans method=crossfade time=400][wt]
+
+　あたりは無人だった。スイッチを入れても電灯は点かず、自動ドアは作動しなかった。このビルに駆けこんできてから、あらゆる部屋を探ってみたが、どこにも人影は見つからなかった。
+　路上には車が放置されている。時間が止まったかのように物音がしない。
+　あの戦場にいたやつら以外、すべての人間が消えている。
+　つまり、この街すべてがどうにかなっちまったんだ。
+　なんでだ？
+　わからない――が、あの火球がきっかけなのはたしかだと思う。[p][cm]
+
+[backlay][layopt layer=message page=back visible=false][trans method=crossfade time=400][wt]
+[backlay][image storage="ev09s" layer=2 page=back visible=true][trans method=crossfade time=1000][wt]
+[backlay][layopt layer=message page=back visible=true][trans method=crossfade time=400][wt]
+
+　アナテマたちと特戦群の世界に入りこんだのは、あれが原因だ。
+　夜道を見あげ、目に飛びこんだ青い流星。
+
+[backlay][layopt layer=message page=back visible=false][trans method=crossfade time=400][wt]
+[backlay][image storage="ev17s" layer=2 page=back visible=true][trans method=crossfade time=1000][wt]
+[backlay][layopt layer=message page=back visible=true][trans method=crossfade time=400][wt]
+
+　あれが地面に衝突し、なにかが起こった。
+　なにが？
+　――知るか。[p][cm]
+
+[backlay][layopt layer=message page=back visible=false][trans method=crossfade time=400][wt]
+[backlay][layopt layer=2 page=back visible=false][trans method=crossfade time=1000][wt]
+[backlay][layopt layer=message page=back visible=true][trans method=crossfade time=400][wt]
+
+;;〒セピア色で火球のシーンを思いだす。
+
+　奈美たちはどこにいったんだろう。安全な場所に逃げられたんだろうか。
+「……どうしてあいつが特戦群といっしょにいたんだ……？」
+　科学者が軍に協力する、そんなことも世の中にはあると思う。しかし奈美はそういうやつじゃない。天才だが、ただの高校生だ。専門の研究ができるような立場じゃないんだ。特戦群と関係があるはずもない。
+　アナテマ――あの非現実的な怪物はそれ以前の問題だ。
+　無人の街で暴れまわる怪物と、それと戦う特戦群、なぜかそこにいる洲原奈美。そして、アナテマになっちまった俺。
+　悪夢だ。
+　このまま待ってれば夢から覚めるのか？[p][cm]
+
+　――ああ、ちくしょう、わかってるよ。これは夢じゃない。
+　火球が降ってきたのも、アナテマと特戦群が血みどろの戦場を闊歩してるのも全部、絶望的なほどに現実だ。
+
+;;※脱けだせないと表記。脱けだせない？
+
+　どんなにあがいても脱けだせない、腐った妄想みたいな現実なんだ。[p][cm]
+
+　ひどく頭が痛む。脳のなかで虫があばれ、頭蓋骨をやぶって飛びだしてくるみたいだ。
+「くそ……」
+　みじめな罵声しかでてこない。
+　鈍痛のなかで俺だけが沈んでゆく。海の底にいるみたいに外界の物音は聞こえない。
+　このまま時間がいくら過ぎても、事態が好転しないことはわかってる。けど、なにをしたらいいのか、俺には全然わからない。[p][cm]
+
+[fadeinbgm storage="bgm14" loop=true time=2000]
+[playse buf=0 storage="se23"]
+
+　大きな物音がした。下の階だ。
+　だれかがドアをぶち壊した？[p][cm]
+
+　息をひそめ、俺は暗闇に目を凝らした。この位置からなら階段が見える。もし特戦群が来ても、なんとか逃げだせる距離だ。
+　足音が着実に俺のいる階へ上ってくる。だんだん音がはっきりしてきた。
+　足音の主はかなり重い。少なくとも百キロ以上はありそうだと思う。一歩ごとに重心を確認する、歩き慣れないような足音だ。[p][cm]
+
+　――あいつだ。
+　目星はついている。銃声はしなかったから、たぶん特戦群じゃない。特戦群のほうがまだましだ。
+　あんなやつと対面するなんて。いまさら隠れる時間もない。
+　震えが止まらない。
+　みし、みしという足音が、俺のいる階までやってきた。そいつの姿が闇の奥にうっすらと見えた。[p][cm]
+
+
+[backlay][layopt layer=message page=back visible=false][trans method=crossfade time=400][wt]
+[backlay][image storage="fgye01" layer=0 page=back visible=true pos=center][trans method=crossfade time=2000][wt]
+[playse buf=0 storage="se74"]
+[backlay][layopt layer=message page=back visible=true][trans method=crossfade time=400][wt]
+
+　――アナテマだ。
+　でかい。
+　三体のアナテマを目にしてきたが、そいつはなかでも特大サイズだ。シルエットを特徴づける両腕はとくに肉厚で、大型の建機を思わせる迫力だった。
+　部隊員が潰される光景がまぶたに蘇り、急に背筋に冷たいものが走る。[p][cm]
+
+　余裕のある足どりでこちらに歩み寄ってくるアナテマ。もう見つけられている。
+　逃げる？　身構える？
+　ちくしょう、怖えよ。俺にはどっちもできない。[p][cm]
+
+　座りこんだままの俺のまえで、泰然と立ち止まるアナテマ。
+　そいつが三日月みたいな口を開いた。[p][cm]
+
+;;※恐怖を感じさせた瞬間に手についた血を舐めとる。
+
+「よォう。あんた、スタート地点にいなかったやつだな？」
+「え、あ……」
+　アナテマがしゃべった。まるで人間みたいだ。
+　――いや、俺もふつうに口を利けるんだからおかしくはない。[p][cm]
+
+「おいおいおい落ち着けよ、大丈夫だって。オレはにおいをたどってきたんだよ。特戦群のやつらに撃たれたんだろ？　火薬のにおいがプンプンしやがる」
+「そ、そう……か」
+「もしかしてオレが怖えェのか？　ははっ、安心しろよ。オレは仲間は大事にするやつなんだ」
+「仲間……？」
+　俺はこいつの仲間になってる、のか？[p][cm]
+
+「たいした怪我はしてねェな？　よォしよし、いい子だ」
+　アナテマの手がのびる。
+「うわっ」
+　思わずびくんとしてしまう。ごつい手で頭を撫でられた。重く冷たい感触が乱暴に頭を揺さぶってくる。[p][cm]
+
+「心配だったから来てやったが、このぶんだと大丈夫そうだなァ。むこうは終わっちまったみてェだし、オレはどうすりゃいいかなァ……」
+「あ、あの」
+「ン？」
+　こいつに敵意はなさそうだ。俺は思い切ってたずねてみた。
+「教えてくれ。なにがどうなってるんだ……？」[p][cm]
+
+　アナテマはこちらに向き直り、呆れたように俺を見下ろした。
+「……そうかァ、ずっと隠れてたんじゃァわかんねェだろうな。オレはヤエザキ。あんたとおなじアナテマだ」
+「ヤエザキ……？」
+「アナテマはぜんぶで四人いるんだが、一人がさっき死んじまってな。残ったのは、俺とあんたとあと一人だ」
+「な、なあ、アナテマってなんなんだ？」[p][cm]
+
+「ン。もしかしてあんた、ルールを聞かなかったのか？」
+「……ルール」
+　奈美も言っていた。この戦いに定められた、ルール。
+「ルールってどういうことなんだ？　なんのために、どうやって、誰がやってることなんだ？」
+「“アナテマの実験”だ。どうして知らねェンだ？　ここにいるヤツらはみィんな知ってるはずなんだがなァ」
+　なんだよそれ。[p][cm]
+
+「実験？　アナテマ？」
+「あァ、ほんとに知らねェのか。長くなるから、あんまし説明したくねェんだけどなァ。えーと。まず……。そうだなァ。ようするにオレたちは殺し合いの実験に呼びだされたんだよ」
+「殺し合いの実験……？」[p][cm]
+
+「オレたちがいまいるのは……えぇーと、なんだったか……あァ、そうだ。非、ミンコ……ミンコフスキー時空ってとこなんだ。生きモンがいねェ世界だから、好きなだけ暴れられる」
+「ど、どういうことだよ」
+「オレにもわかんねェよ。とにかくここには人はいねェ。そして自衛隊を殺しきるまででられねェ」
+「は……？」
+「あいつらを殺さねェと一生もとの世界に帰れねェんだよ」[p][cm]
+
+　なにを言ってるんだこいつは。
+　帰れない？　自衛隊を殺す……！？
+「な、なんでだよ。なんで……」
+「知らねェよ！」
+　空気が震えた。
+　ヤエザキは顔をゆがめ、首を振る。まるで子供の[ruby text="かん"]癇[ruby text="しゃく"]癪みたいに、露骨にいらつきだしていた。
+　こいつ、怒ってる。[p][cm]
+
+;;※自分を騙すことで生き残ろうとするヤエザキ
+
+「知らねェ、わかんねェよ。どうしてオレがくだらねェ実験に巻きこまれたのか教えてほしいぜクソ野郎が！　オレは好きなだけ殺せるんだ。殺したいんだ。低脳どもを潰して、[ruby text="なぶ"]嬲って、引きちぎって、食い尽くしてェんだよ。オレに殺させてくれよ！」
+　怖い。
+　俺は文字通りに動けなかった。まばたきも呼吸も忘れ、ただ目の前のアナテマに怯えていた。
+「なんでこうなっちまったんだ。どうしてオレは戦い始めたんだ！？　この世界に落ちてきて、自衛隊のヤツらを見たとき、オレは……クソ、クソ、クソッ！」[p][cm]
+
+「……ああああ！　めんどくせェ、これ以上の説明は別のヤツにしてもらうぜ。オレにはやらなきゃならねェこともあるしなァ」
+　投げやりに言って、ヤエザキはのそりと腕を持ち上げる。
+　血。
+　いま気づいた。ヤエザキの手に赤黒い血がこびりついている。
+　部隊員たちを殴り殺したその拳を顔に近づけ、ヤエザキはその血を舐めとった。
+「オレは自衛隊のゴキブリどもを殺しに行く」
+　平然とそいつは言い放った。[p][cm]
+
+「え……あ……」
+「さっきあんたを撃ったヤツらだよ。変な小娘といっしょにいただろ？　あの三人を全員潰してくる」
+「潰す……って」
+「ここで待ってな。すぐ戻るからよ」
+　呆然とする俺に言い残し、ヤエザキは背を向けた。[p][cm]
+
+「待て。あんた、人間なのか？」
+　黙っていればそのまま立ち去っていただろうヤエザキは、きょとんとして問い返す。
+「なんだ……わかってなかったのかァ？　人間だよ。二時間前まではな」
+「……なんだって？」
+「あんたもそうなんだろォ？　人間からアナテマになったんだろ？」
+「……」
+「そのうちわかるだろうよ。じゃあなァ」
+
+[backlay][layopt layer=0 page=back visible=false pos=center][trans method=crossfade time=3000][wt]
+
+　重い足音を残し、ヤエザキは部屋をでていった。[p][cm]
+
+[fadeinbgm storage="bgm01" loop=true time=3000]
+
+「………はぁっ……」
+　思わずため息がもれる。
+　ひどい時間だった。猛獣の檻のなかに入れられたみたいだった。
+　なんなんだ、あいつは。
+　凶暴。不遜。そんな言葉じゃ言い表せない、とてつもなく危険な存在に思える。
+　部隊員を殺す。[ruby text="なぶ"]嬲って、引きちぎって、食い尽くす。
+　あのアナテマがもし部隊員たちが見つけたら、すぐに前言を実行するだろう。[p][cm]
+
+　……どうしたらいいんだろうな、俺は。
+　ここはなんとかフスキー時空とかいう場所らしい。無人の世界だとヤエザキは言っていた。
+　つまり俺の住む家に家族はいない。頼れるはずの友人もいない。完全にひとり、孤立無援の状態だ。
+「くそ……」
+　なにがどうなってるのか、俺はなにをすべきなのか、さっぱりわからない。[p][cm]
+
+「俺は……アナテマ、なんだよな」
+　アナテマ。たぶん、その全員が、俺とおなじでもともと人間なんだろう。
+　ヤエザキはずいぶん好意的……というか、馴れ馴れしいやつだった。そして俺のことを仲間と呼んでいた。
+　だが「殺す」なんて平然と口にするようなやつが味方とは思えない。
+　そして――部隊員たちだって俺を殺そうとしていた。もうすこしで撃たれていたんだ。あいつらも信用できない。[p][cm]
+
+　思い切り息を吸って、吐く。
+「……はあ………」
+　自衛隊とヤエザキ、危険な連中は行ってしまった。どうせ俺とは無関係だ。好きなだけ戦って、好きなだけ死ねばいい。
+　そこまで考えて、胸のなかで違和感が膨れあがった。
+　待て。それはちがう。なぜなら、あいつは。[p][cm]
+
+[pausebgm]
+[playse buf=1 storage="bgse09" loop=true]
+
+;;〒演出を考える
+
+「あ……！」
+　銃声。
+　俺は窓辺に駆け寄り、身を乗りだして外を見た。
+　そう遠くない場所で銃声とともに白い光が閃いた。特戦群の撃った曳光弾だ。
+　ヘリ近くの部隊員じゃない。つまり戦ってるのは、もうひとつのグループ。
+　ヤエザキが奈美たちに追いついて、戦闘が始まったんだ。[p][cm]
+
+　それを聞くときまで、俺はなにもする気が起きなかった。だけど気づいたときには動きだしてたんだ。
+　足が進む。最初はゆっくりとした歩調で。次第に早足になり、歩幅が広まっていく。このまま留まってちゃいけない、そんな静かな確信に追い立てられて。
+
+[backlay][layopt layer=message page=back visible=false][trans method=crossfade time=400][wt]
+[backlay][image storage="bg04" layer=base page=back visible=true][trans method=universal rule="blind" time=1000 vague=20][wt]
+[backlay][layopt layer=message page=back visible=true][trans method=crossfade time=400][wt]
+
+　いつのまにか雑居ビルをでていた。
+　連続する銃声が響く。大きさからして、そう遠くない。方向もわかる。[p][cm]
+
+　どうして安全な場所を離れる気になったのか、自分でもよくわからない。
+　あのまま夜が明けるまでぶるぶる震えていれば、ひとまず危険は脱せただろう。
+　それがいいとつぶやく自分がいる。巨大な怪物にＭ４Ａ１。出遭ってしまえばただではすまない。
+　けど。
+　それではダメだと声をあげた自分もいた。
+　安全でいることよりも、死なないことよりも大切な、譲れないものがあるとそいつは全力で叫んでいた。[p][cm]
+
+[stopse buf=1][stopse buf=0]
+;;〒このあたり、奈美の顔のアップなど利用する。
+
+[backlay][layopt layer=message page=back visible=false][trans method=crossfade time=400][wt]
+[backlay][image storage="white" layer=2 page=back visible=true][trans method=crossfade time=500][wt]
+[backlay][image storage="ev44a" layer=2 page=back visible=true][trans method=crossfade time=1000][wt]
+[backlay][image storage="ev44b" layer=2 page=back visible=true][trans method=crossfade time=1000][wt]
+[backlay][layopt layer=message page=back visible=true][trans method=crossfade time=400][wt]
+
+　……奈美。
+　そうだ、あいつは――洲原奈美なんだ。
+　生意気で自信過剰で、そのくせに俺を頼ってくる後輩。
+　そいつが、いま、危険のただなかにいる。
+　そのことを考えるたら、安全なビルの部屋に閉じこもっているのがイヤになったんだ。[p][cm]
+
+[backlay][layopt layer=message page=back visible=false][trans method=crossfade time=400][wt]
+[backlay][image storage="ev44a" layer=2 page=back visible=true][trans method=crossfade time=1000][wt]
+[backlay][layopt layer=message page=back visible=true][trans method=crossfade time=400][wt]
+
+　奈美は特戦群のやつらといっしょにいる。そして特戦群は俺を敵視している。見つかったら殺されるかもしれない。
+　けど、奈美は俺の敵じゃない。
+　俺が生きているのは奈美のおかげだ。あいつがとっさにかばってくれたから、俺は撃ち殺されずにすんだ。
+　たとえヤエザキや特戦群が俺の敵だとしても、あいつだけは信じられる。
+　もう疑わない。
+　あいつは俺の知っている、強気で優しい、俺の味方をしてくれる洲原奈美だ。[p][cm]
+
+[backlay][layopt layer=message page=back visible=false][trans method=crossfade time=400][wt]
+[backlay][image storage="white" layer=2 page=back visible=true][trans method=crossfade time=1000][wt]
+[backlay][layopt layer=2 page=back visible=false][trans method=crossfade time=1000][wt]
+[backlay][layopt layer=message page=back visible=true][trans method=crossfade time=400][wt]
+
+　発砲音が消えていた。
+　部隊員が死んだのか？
+　奈美を守っているはずの、あいつらが？
+
+[fadeinbgm storage="bgm09" loop=true time=3000]
+
+「…………っ！」[p][cm]
+
+□シーン４－１／洲原たちのところへ
+
+[backlay][layopt layer=message page=back visible=false][trans method=crossfade time=400][wt]
+[backlay][image storage="bg79" layer=base page=back visible=true][trans method=universal rule="run" time=200 vague=20][wt]
+[backlay][layopt layer=message page=back visible=true][trans method=crossfade time=400][wt]
+
+　走りながら俺は考える。
+　……どうして俺はこんなことしてるんだ？　勝ち目はほとんどないんだろ？
+　ヤエザキの戦力は常軌を逸している。
+　フル武装した部隊員と戦っていたんだ。ふつうの人間じゃ止められない。
+　だから――そうだ。万が一にもあいつを止められるのは、アナテマである俺だけだ。他の何者も、ヤエザキから奈美を救えない。[p][cm]
+
+　動かしてみてわかった。この身体はかなり頑丈で、強い。ばかでかくて無骨で、銃を持った人間なんかよりずっと信頼できる。
+「……ああ、そうか」
+　なんだ、そんな単純な気持ちだったんだ。考えるまでもなかったことだ。
+　ようやく気づいた。
+　奈美は俺にとって大切な存在なんだ。[p][cm]
+
+;;〒ここで演出
+
+　二年前、深夜の屋上で初めてまともに話すようになった。
+　部活でいっしょに実験するようになり、たまにいっしょに遊んだり、勉強を教えあったりしてきた。
+　友達なのか、ちがうのか、よくわからないが――そんなに浅い関係じゃない。
+　絆と呼んでいいものが、俺と奈美のあいだにある。
+　少なくとも俺はそう思う。[p][cm]
+
+[backlay][layopt layer=message page=back visible=false][trans method=crossfade time=400][wt]
+[backlay][image storage="ev43a" layer=2 page=back visible=true][trans method=crossfade time=1000][wt]
+[backlay][layopt layer=message page=back visible=true][trans method=crossfade time=400][wt]
+
+『蒼一？　……あんた、ほんとうに蒼一なの……！？』
+　
+
+[backlay][layopt layer=message page=back visible=false][trans method=crossfade time=400][wt]
+[backlay][image storage="ev43b" layer=2 page=back visible=true][trans method=crossfade time=1000][wt]
+[backlay][layopt layer=message page=back visible=true][trans method=crossfade time=400][wt]
+
+　その言葉を聞いたとき、俺がどれだけほっとしたことか。
+　激しい衝動が身体の内側から生まれつづけている。荒村の目を傷つけたときから、ずっと忘れていた感覚。誰かのために、自分を使うということ。傷つくことを恐れない強さ。
+　体温のような心地よいぬくもりを胸の奥底に感じる。[p][cm]
+
+[backlay][layopt layer=message page=back visible=false][trans method=crossfade time=400][wt]
+[backlay][layopt layer=2 page=back visible=false][trans method=crossfade time=1000][wt]
+[backlay][layopt layer=message page=back visible=true][trans method=crossfade time=400][wt]
+
+　ささやかなぬくもりが次第に温度を上げ、熱に変わり、エンジンのように身体を駆動する。
+　助けたい。走りだすにはそれだけの理由で十分だったんだ。俺を助けてくれたやつを助けるんだ。しりごみする必要なんてないだろ？[p][cm]
+
+[playse buf=1 storage="bgse05" loop=true]
+
+　火薬のにおいと銃声をたどり、全速力で走り続ける。ばかでかいだけあって、この肉体はつくりも大ざっぱで――速い。人間ではこの速さは無理だろう。重い地響きを路面に立てながら、俺は身体を動かした。
+　銃声がふたたび聞こえだした。まだ特戦群は死んでなかったんだ。
+　かなり近い。もうすぐだと自分に言い聞かせ、角を曲がったところで。[p][cm]

@@ -1,0 +1,554 @@
+□シーン３－１／量子トランジション
+
+[backlay][image storage="chapter02b" layer=2 page=back visible=true][trans method=crossfade time=1000][wt]
+[backlay][image storage="chapter02" layer=2 page=back visible=true][trans method=crossfade time=1000][wt]
+[l]
+[backlay][image storage="chapter02b" layer=2 page=back visible=true][trans method=crossfade time=1000][wt]
+[backlay][image storage="black" layer=2 page=back visible=true][trans method=crossfade time=1000][wt]
+[fadeinse buf=1 storage="bgse03" loop=true time=3000]
+[backlay][image storage="ev02" layer=2 page=back visible=true][trans method=crossfade time=2000][wt]
+[backlay][layopt layer=message page=back visible=true][trans method=crossfade time=400][wt]
+
+　荒村の目を傷つけた日からいままで、俺はずっと夢を見てるような感覚がしている。なにかのきっかけで目が覚めて、別の現実が始まりそうな気分なんだ。
+　べつに自暴自棄になってるわけじゃない。むしろ逆、俺は冷静だよ。リアリストになって世の中を見つめたら、いままで思いもしなかったことが真実だとわかるようになった。
+　小学生のとき、未来はけっこう面白そうだった。なんでもできる……ってわけじゃないけど、世の中にはそれなりの可能性がたくさん転がってるもんだと考えてたんだ。[p][cm]
+
+　でも、最近はこう思うようになった。この人生はそんなに楽しくない。
+　どっかで道を踏み外したんだろう。多くの人がおなじように思ってるんじゃないか？　自分が理想の生き方をしてると胸を張れるやつなんかいないだろ。
+　と、そんなことを夜中に眠れずふとんのなかで悶々と考えてた。[p][cm]
+
+　蛍光塗料の時計の針は午前二時過ぎを指している。
+「ああ」
+　うじうじなやんでいてもしかたないと思うが、しばらく眠れそうにない。
+　こういうときは……コンビニで少年ジャンプでも立ち読みするか。[p][cm]
+
+[stopse buf=1][stopse buf=0]
+[fadeinbgm storage="bgse80" loop=true time=3000]
+[image layer=base storage="bg06" page=fore]
+[backlay][layopt layer=2 page=back visible=false][trans method=crossfade time=3000][wt]
+
+　熱をためこみ逃がさない、それが盆地の京都の特徴だ。
+　深夜を過ぎても夏の風はぬるく、俺の頭はぼんやりしたままだった。
+　冴えない脳で考えてみる。事故のことだけじゃなくて、俺の人生とか、未来とか、とりとめのない不安のことを。[p][cm]
+
+　実りのある行為じゃないし、答えがでるはずないってわかってる。だけどなんでかやめられないんだ。
+　俺がこの人生でやってきたことに、意味があったんだろうか？　つい、そんな馬鹿げたことさえ思いついてしまう。
+　二ヶ月ほどまえに二十歳になった。まぐれで入った大学では、そんなに悪くない位置にいた。
+　授業にはちゃんとでてるしテストの点も悪くない。
+　クラスではちょっとぼっち気味だが、そんなのだれでも似たような境遇にいるだろ？　体育会系のリア充でもない限り……って、俺はもともと体育会系か、ボクシング部だから。ボクシングはリア充度ゼロだし、もう辞めたけど。[p][cm]
+
+　ボクシング部に行かなくなってから、色々なことが変わってしまった。
+　いや、もしかして、世の中が変わったんじゃなくて俺が気づいてしまっただけだろうか？
+　人生はちょっとしたできごとの積み重なりだ。取るに足らない失敗がすこしずつたまって、いつの間にか途方もない大きさの呪いになる。
+　いまになって思うんだけど、あそこは俺の居場所だったんだ。いまさら取り戻せない、帰れないところ。つまらない人生を歩いてきた俺の、ほとんど唯一の足場となる地点だった。[p][cm]
+
+　それに――奈美。
+　ああ、やっぱり後悔しちまうんだよな。荒村の目に肘を当てなけりゃ、いま頃もうちょっとましな日々を生きてただろうに。
+　俺はこのまま、死ぬまで後悔し続けるんだろうか？
+　投げやりな考えが膨れていく。[p][cm]
+
+　
+　
+　
+　
+「　　　　　　」[p][cm]
+
+「え」
+　足を止める。
+　声が聞こえた、気がした。
+　あたりを見わたしても誰もいない。空に目がいった。そこに。[p][cm]
+
+[backlay][layopt layer=message page=back visible=false][trans method=crossfade time=400][wt]
+[pausebgm]
+[fadeinse buf=1 storage="se38" loop=true time=3000]
+[backlay][image storage="black" layer=2 page=back visible=true][trans method=universal rule="上から下へ" time=200 vague=20][wt]
+[backlay][image storage="ev09" layer=2 page=back visible=true][trans method=universal rule="上から下へ" time=200 vague=20][wt]
+[backlay][layopt layer=message page=back visible=true][trans method=crossfade time=400][wt]
+
+　ほんとうに一瞬のことだった。青白い光が目にとまって、それが火球だと気づいたときにはほとんど地平線に落ちかけていた。
+　きれいだと思った。
+　人のいとなみとは離れた、手が届かない場所の輝き。
+　まるで太陽になろうとしているように、次第に大きくなってゆく。
+　……あれ。
+　俺、たぶん、どこかで。[p][cm]
+
+　――おなじものを見たことがある。
+　いつのことだったっけ？
+　あれは……なんだったか。
+　忘れた。思いだせない。
+　それとも、似たことが以前あったのは思いこみで、ほんとうは初めて火球を見てるんだろうか。
+　ああ、いや、それはちがう。
+　火球がああいうものだって、俺はすぐにわかったんだ。写真やビデオで見たんじゃなくて、実際にこの目であの燃える星を知ったんだろう。[p][cm]
+
+　夜の街の音が遠ざかっていた。
+　よけいなものが消えていき、自分と火球が世界の中心になったような感覚。
+　地平線のすぐうえまできていた火球は、信じられないほどゆっくりとした速度でこちらのほうに接近してくる。
+　それは見る間に大きくなる。
+　ふいに輝きを増し、色が変化し、軌跡がゆらぎ……。[p][cm]
+
+[backlay][layopt layer=message page=back visible=false][trans method=crossfade time=400][wt]
+[fadeoutse buf=1 time=3000]
+[backlay][image storage="black" layer=2 page=back visible=true][trans method=universal rule="下から上へ" time=200 vague=20][wt]
+[backlay][layopt layer=message page=back visible=true][trans method=crossfade time=400][wt]
+
+　……！？
+　落ちた？
+　空の一点からほとんどまっすぐ、光の球が地面に吸いこまれていった。
+　驚くひまもなかった。気づいたときにはそれは始まっていた。
+　流星としては異常なほど長い時間をかけてやってきたその土くれは、まばゆく空のすべてを照らした。[p][cm]
+
+[backlay][layopt layer=message page=back visible=false][trans method=crossfade time=400][wt]
+[backlay][image storage="ev17" layer=2 page=back visible=true][trans method=crossfade time=400][wt]
+[fadeoutse buf=1 time=1000]
+[fadeinbgm storage="bgm15" loop=true time=3000]
+[backlay][layopt layer=message page=back visible=true][trans method=crossfade time=400][wt]
+
+　すさまじい烈風。
+　車が激突したかのように、がくんと身体がゆさぶられる。
+　なにが起こったんだ？
+　まわりをたしかめることすらできない。衝突の輝きが強すぎて、目がくらんでよく見えない。
+　さっきまでの平穏はすでにない。あのきれいな火球が、燃えつきず――地面に衝突した？
+　空気の塊に吹きあげられ、ほんの一瞬足が地面から離れる。まるで宇宙にいるように上下の感覚までが消えていた。[p][cm]
+
+[backlay][layopt layer=message page=back visible=false][trans method=crossfade time=400][wt]
+[playse buf=0 storage="se10"]
+[backlay][image storage="ev18" layer=2 page=back visible=true][trans method=crossfade time=500][wt]
+;;※５秒にするか五秒にするか。
+[backlay][layopt layer=message page=back visible=true][trans method=crossfade time=400][wt]
+
+[clickskip enabled="false"]
+[delay speed="22"]
+
+　隕石？　あの火球が落ちたのか？[r]
+　大きい。見たこともない。地面まで落ちる隕石を見るのは初めてだ。[r]
+　おい、嘘だろ冗談だろ妄想だろ。[r]
+　まさかとは思うが衝突のショックで爆発が起きるとか。[r]
+　恐竜絶滅のように。[r]
+　ありえないわけじゃない。[r]
+　どれくらいの規模なんだ？[r]
+　気の利いた花火くらい？[r]
+　それとも、街を破壊し尽くすほどの大爆発？[r]
+
+[backlay][layopt layer=message page=back visible=false][trans method=crossfade time=400][wt]
+[quake time=2000]
+[wait time=2000]
+[backlay][image storage="white" layer=2 page=back visible=true][trans method=crossfade time=2000][wt]
+[delay speed="user"]
+[clickskip enabled="true"]
+[cm]
+[p]
+[backlay][layopt layer=message page=back visible=true][trans method=crossfade time=400][wt]
+
+　バランスを崩して俺は倒れこむ。吐き捨てるまえのガムみたいに、路面はどろどろした感触だった。
+　まわりのすべてが崩壊していた。いや、俺の感覚が変なんだろうか。
+　何秒経った？　五秒？　十秒？　六十分？
+　手足がおかしい。腕を振り回してもまともな触感がない。
+　俺はどうなった。どこにいるんだ。[p][cm]
+
+[backlay][layopt layer=message page=back visible=false][trans method=crossfade time=400][wt]
+[fadeoutbgm time=3000]
+[backlay][image storage="ev03" layer=2 page=back visible=true][trans method=crossfade time=1000][wt]
+[quake time=400]
+[playse buf=1 storage="se37" loop=true]
+[backlay][layopt layer=message page=back visible=true][trans method=crossfade time=400][wt]
+
+　身体の中を異様ななにかがうごめいた。
+「……う……う」
+　なんだこれ。
+　痛みでもなく熱でもない、これまで経験したことのないざわざわしたものが腹の中で生きている。
+　胃の中が気持ち悪いもので膨らんでいく。ひどい吐き気がする。
+「………あ……！」[p][cm]
+
+[backlay][image storage="black" layer=2 page=back visible=true][trans method=crossfade time=1000][wt]
+
+　つぶった瞼の向こうがわででたらめな光が点滅している。身体が狂ったみたいに苦しいのに、頭が冷たく冴えていて――。[p][cm]
+
+[stopse buf=1][stopse buf=0]
+[playse buf=0 storage="se14"]
+[backlay][image storage="white" layer=2 page=back visible=true][trans method=crossfade time=50][wt]
+[backlay][image storage="black" layer=2 page=back visible=true][trans method=crossfade time=50][wt]
+
+　ふいになにかがはじけた。脳の奥のほうで火花が散ったみたいだった。
+
+;;〒
+
+[backlay][layopt layer=message page=back visible=false][trans method=crossfade time=400][wt]
+[backlay][image storage="ev15" layer=2 page=back visible=true][trans method=crossfade time=2000][wt]
+
+　わたしの話をしようかと思う。
+　誰に？
+　うん。あー……誰にでもいいよね？　どうせどうでもいいし。
+　えーと。まず。わたし。わたしは洲原奈美。
+　
+　恋について話そうかなと。
+　
+　高校一年のときかな。
+　そいつと付き合うことにしたんだけど。
+　
+　いいやつだったよ。たぶんいまでもいいやつ。
+　
+　でもちょっと不安になった。
+　もしわたしじゃなくても、
+　わたしが特別だからなのかなって。
+　普通そうじゃん。特別だから付き合う。うん。正しい。自明なり。
+　でもねー。それがねー。なんかねー。違うんじゃないかと。
+　
+　そういうわけで、別れた。
+　……いま考えるとひどいことしたかも。ごめんねユウジくん。
+
+　でだ。そんなときに、ちょっとした事件が起こった。
+　同類がいそうな気がして入った科学部。
+　天体観測
+
+[backlay][layopt layer=message page=back visible=false][trans method=crossfade time=400][wt]
+;;◎イベント絵：屋上
+[backlay][layopt layer=message page=back visible=true][trans method=crossfade time=400][wt]
+
+　助けられた。
+　それだけ。
+
+　それだけ。だと思ってたんだけど、実際のところそれだけでもなかった。
+　
+　うーん。
+　
+　あいつ、くだんないことで落ち込んでるみたい。
+　そんなのあんたの責任じゃないでしょ！？
+
+　悪いのは、わたしなのかも。
+　結局、誰にとっての特別にもなれず。
+
+　電話はかけられない。かけたら、切られる。しつこいって嫌われる。
+　でも黙ってるのもいやで。
+　天体観測の日。
+　
+　蒼一の家にまで
+　
+
+[backlay][layopt layer=message page=back visible=false][trans method=crossfade time=400][wt]
+[clickskip enabled="false"]
+[playbgm storage="bgm14" loop=true]
+[backlay][image storage="black" layer=2 page=back visible=true][trans method=crossfade time=500][wt]
+[backlay][image storage="ev22" layer=2 page=back visible=true][trans method=crossfade time=1000][wt]
+[backlay][image storage="ev23" layer=2 page=back visible=true][trans method=crossfade time=1000][wt]
+[wait time=300]
+[backlay][layopt layer=2 page=back visible=false][trans method=crossfade time=10][wt]
+[wait time=400]
+[image layer=2 storage="ev23" page=fore visible=true]
+[wait time=100]
+[layopt layer=2  visible=false page=fore]
+[clickskip enabled="true"]
+[backlay][layopt layer=message page=back visible=true][trans method=crossfade time=400][wt]
+
+　……治まった。すべてが元通りだ。
+　あれ？　なにが起こった？
+　なんでかわからないが、とにかく楽になっている。腹の異物感がなくなって、さっきまでの苦痛がもう思いだせないほどだ。
+　手足の感覚がまだ痺れたままだが、そのうち元に戻るだろう。[p][cm]
+
+「……はあ、はあ……」
+　なんだったんだいまのは？
+　隕石が衝突して、俺は衝撃波に打たれて。
+　それからなにが起こったんだ？　あれは幻覚かなにかだったのか？[p][cm]
+
+　――ガリッ。
+　
+　妙な感触。
+　大きな砂物みたいなものが、いくつか口のなかに入っている。
+　岩のかけらが口に入ったんだろうか？
+　気持ち悪い。
+「うっ……」
+　ぺっ、と俺はそれらを吐きだした。[p][cm]
+
+[playse buf=1 storage="bgse09" loop=true]
+;;※ここの効果音は銃撃戦（音量小）／ループ
+
+「……？」
+　太鼓みたいな音が聞こえだした。なにかの曲を演奏するのじゃなく、勝手気ままに連打するだけの乱暴な音楽だ。三、四回ずつ連続して叩いてはやめる。それを何人かで繰り返してるみたいだ。近所迷惑だろうに、深夜に鳴りだしたのが不思議だ。
+　まあどうせ大したことじゃないだろうな。道路工事とか、車のエンジンとかだろう。
+　そんなことを思いながら俺は音のするほうに足を運んでいった。
+　気づいたときには。[p][cm]
+
+□シーン３－２／白い生き物
+
+[pausebgm]
+[playse buf=0 storage="se36"]
+[backlay][image storage="white" layer=base page=back visible=true][trans method=crossfade time=30][wt]
+[backlay][image storage="bg03" layer=base page=back visible=true][trans method=crossfade time=1000][wt]
+[playse buf=1 storage="bgse05" loop=true]
+[fadeinbgm storage="bgm17" loop=true time=3000]
+
+;;※ライフル弾の用語説明フラグ
+[eval exp="sf.cartridge = true"]
+
+　――俺は戦場を見ていた。
+　火薬の刺激臭がむっと鼻につく。
+　太鼓じゃない、銃声だ。
+　え……なんで……？
+　見慣れたはずの、片側二車線の広い公道。死んだ信号の下で行儀よく車がならんでいるが動きだす気配はなく、そもそも兵隊以外の人影が見あたらなかった。[p][cm]
+
+[backlay][layopt layer=message page=back visible=false][trans method=crossfade time=400][wt]
+[backlay][image storage="black" layer=2 page=back visible=true][trans method=crossfade time=1000][wt]
+[image storage="暗闇" layer=3 page=fore visible=true]
+[backlay][image storage="ev33" layer=2 page=back visible=true][trans method=crossfade time=1000][wt]
+[backlay][layopt layer=message page=back visible=true][trans method=crossfade time=400][wt]
+
+　兵隊。
+　五〇メートルほど遠くにいる連中のことだ。
+　迷彩服にヘルメット。ニュースに映る米軍兵士みたいに、腹まわりにいくつも装備が取りつけられ、複雑なシルエットになっている。
+　手にしているのは、ＦＰＳゲームで見たおぼえがある銃だった。プレイヤーの操作する米陸軍特殊部隊の主人公が使っていた、標準的なメインウェポン。
+　あれはたしか、ええと……[l]Ｍ４Ａ１カービン。[l]そういう名前の銃だ。
+
+;;※Ｍ４Ａ１の用語説明フラグ
+[eval exp="sf.m4a1 = true"]
+
+　自衛隊なのか？[p][cm]
+
+[playse buf=0 storage="se36"]
+[backlay][image storage="white" layer=4 page=back visible=true][trans method=crossfade time=30][wt]
+[backlay][layopt layer=4 page=back visible=false][trans method=crossfade time=1000][wt]
+
+「アルファワン！　こちらブラボースリー！　押し切られます！　保たないッ！」
+「くそったれがァ！」
+　張り裂けそうな怒声、そして三、四発ずつの発砲音が届いてくる。白い弾丸が頻繁に放たれ、そのたびに街路がまばゆく輝く。
+　そして彼らが弾丸を撃ちこんでいる相手は――よくわからない。[p][cm]
+
+　よく見えているし、その形もはっきりしている。
+　だけど、あれをなんて呼べばいいのかわからないんだ。
+　ヒトみたいに二本の足で歩いている、象みたいに大きな、見たことのない動物。
+　動物といっていいんだろうか？
+　少なくともつくりものには見えない。
+　……ありえない。[p][cm]
+
+[pausebgm]
+[playse buf=0 storage="se73"]
+[wait time=3000]
+
+
+　飛び交う弾丸をかわし、腕を振りあげ兵士に襲いかかる動物たちは口を開け、鉄をきしませたような音を夜空にまきちらした。
+　途方もない圧力に、いつのまにか身体が震えていた。
+　怖い。
+　わき上がる悪寒に、思考が固まる。
+　なんなんだよ、あれは。[p][cm]
+
+[backlay][layopt layer=message page=back visible=false][trans method=crossfade time=400][wt]
+[stopse buf=1][stopse buf=0]
+[image layer=base storage="black" page=fore]
+[backlay][layopt layer=2 page=back visible=false][trans method=crossfade time=1000][wt]
+[layopt layer=3 page=fore visible=false]
+[backlay][image storage="fgye01" layer=0 page=back visible=true pos=center][trans method=crossfade time=1000][wt]
+[playse buf=0 storage="se34"]
+[backlay][layopt layer=0 page=back visible=false pos=center][trans method=crossfade time=1000][wt]
+[backlay][image storage="fgwo" layer=0 page=back visible=true pos=center][trans method=crossfade time=1000][wt]
+[backlay][layopt layer=0 page=back visible=false pos=center][trans method=crossfade time=1000][wt]
+[backlay][image storage="fgry" layer=0 page=back visible=true pos=center][trans method=crossfade time=1000][wt]
+[fadeinbgm storage="bgm07" loop=true time=3000]
+[backlay][layopt layer=message page=back visible=true][trans method=crossfade time=400][wt]
+
+　普通の生き物とは明らかにちがう。宇宙から来たと言われても信じられそうな怪物だ。
+　それが三体、道路上で暴れまわっていた。
+　胴体の形は人間とそう変わらないのに、白い腕が不釣り合いに大きい。
+　銃で撃たれても動きを止めず、太く長いその両腕で頭を弾丸から守りながら意外なほど俊敏なフットワークを見せる。
+　そして兵隊の隙をついて強引に走り寄り、巨大な拳を振り下ろした。[p][cm]
+
+[playse buf=0 storage="se21"]
+[quake time=600]
+
+
+　ぐしゃん、と路面を砕く音とともに兵隊の肉体が潰れた。
+　
+「うあああああああっ！」
+「グレネード！　グレネードっ！」
+　
+　周囲の兵隊は叫び声をあげながらそれでも逃げず、銃口を怪物に向けなおした。
+　銃身の下にとりつけられた筒のトリガーに指がかかる。[p][cm]
+
+[playse buf=0 storage="se46"]
+
+　コルク抜きのような音が聞こえた。
+　弾け狂う銃声のなかで、そのどこか間の抜けた響きは耳に残った。
+　次の瞬間。[p][cm]
+
+[backlay][layopt layer=message page=back visible=false][trans method=crossfade time=400][wt]
+[playse buf=0 storage="se45"]
+[backlay][image storage="white" layer=2 page=back visible=true][trans method=crossfade time=30][wt]
+[layopt layer=0  visible=false page=fore pos=center]
+[backlay][layopt layer=message page=back visible=true][trans method=crossfade time=400][wt]
+
+　怪物の足元が爆発した。
+　グレネード――榴弾だ。ＦＰＳで使っていたのとおなじ。
+　半透明の白い煙があたりを充満し、それがだんだんと薄れていく。煙の奥に怪物が横たわっているのがうっすらと見えた。[p][cm]
+
+[backlay][layopt layer=message page=back visible=false][trans method=crossfade time=400][wt]
+[backlay][layopt layer=2 page=back visible=false][trans method=crossfade time=3000][wt]
+[backlay][layopt layer=message page=back visible=true][trans method=crossfade time=400][wt]
+
+「グレネード弾着を目視、だがタンゴハイフン[ruby text="マル"]０[ruby text="サン"]３の生死は確認できず！　これよりさらに射撃を加え、タンゴハイフン[ruby text="マル"]０[ruby text="サン"]３を完全に無力化する」
+
+[backlay][layopt layer=message page=back visible=false][trans method=crossfade time=400][wt]
+[playse buf=0 storage="se36"]
+[backlay][image storage="white" layer=2 page=back visible=true][trans method=crossfade time=30][wt]
+[backlay][layopt layer=2 page=back visible=false][trans method=crossfade time=1000][wt]
+[backlay][layopt layer=message page=back visible=true][trans method=crossfade time=400][wt]
+
+　発言通りに兵士たちは動物を取り囲み、至近距離からライフル弾を撃ちこむ。
+　マズルブレーキから火花が盛大に飛び散った。[p][cm]
+
+[backlay][layopt layer=message page=back visible=false][trans method=crossfade time=400][wt]
+[backlay][image storage="fgtc01f" layer=0 page=back visible=true pos=center][trans method=crossfade time=300][wt]
+[backlay][layopt layer=message page=back visible=true][trans method=crossfade time=400][wt]
+
+　兵士たちの発砲がいったんやむと、ひとりが手をあげて地面の怪物に近づいていく。
+　怪物は身動きしない。たぶんあれは……死んだんだ。
+「アルファワン、こちらブラボーワン。タンゴハイフン[ruby text="マル"]０[ruby text="サン"]３の死亡を確認。対応目標をタンゴハイフン[ruby text="マル"]０[ruby text="ニイ"]２に切り替え、応戦を継続する。送れ」
+
+[backlay][layopt layer=message page=back visible=false][trans method=crossfade time=400][wt]
+[backlay][layopt layer=0 page=back visible=false pos=center][trans method=crossfade time=300][wt]
+[backlay][layopt layer=message page=back visible=true][trans method=crossfade time=400][wt]
+
+　そいつが死んだことをたしかめた兵隊は、陣形を整えて別の怪物に銃口を向け直す。
+　夢の中みたいな光景だ。[p][cm]
+
+[backlay][image storage="bg03" layer=base page=back visible=true][trans method=universal rule="run" time=1000 vague=20][wt]
+[fadeinse buf=1 storage="bgse05" loop=true time=3000]
+
+　自衛隊がでっかい生き物と戦っている？
+　お、落ち着け、俺。こんなの嘘だ……そうだ、特撮だ。日曜朝に放送してるヒーロー番組の撮影とか、そういうやつだ。たぶん、いや絶対。
+　こんな、都会のまっただ中で、生き物が暴れまわってるなんてありえないだろ？[p][cm]
+
+　くそ、なにがなんだかわからない。
+　冷静になれ、俺。まずは呼吸を整えろ。
+　……すぅ……はぁ……。
+　よし、とりあえずは冷却完了。[p][cm]
+
+[backlay][layopt layer=message page=back visible=false][trans method=crossfade time=400][wt]
+[backlay][image storage="black" layer=2 page=back visible=true][trans method=crossfade time=600][wt]
+[image storage="暗闇" layer=3 page=fore visible=true]
+[backlay][image storage="ev33" layer=2 page=back visible=true][trans method=crossfade time=1000][wt]
+[backlay][layopt layer=message page=back visible=true][trans method=crossfade time=400][wt]
+
+　兵士たちは、黒い覆面をつけている。
+　それがいかにも残虐というか冷酷というか……危険な連中に思える。
+　テロリスト？[l]　……ではなさそうだ。服装や装備はちゃんとした正規軍のものに見える。俺にはあんまり軍事の知識はないけど、それくらいのちがいはわかる。
+　よくわからないがとにかく、あいつらはふつうの軍人じゃなさそうだ。[p][cm]
+
+　そういえば、覆面をつけた軍人の写真をネットやテレビで見たことがあった。
+　あれは……そうだ、対テロ部隊だ。
+　アメリカかイギリスか、そのあたりの対テロ特殊部隊の訓練をYouTubeで見たんだ。詳しい説明がのったニュースサイトも読んだおぼえがある。たぶん、WIRED VISIONだったと思う。[p][cm]
+
+　覆面をつけるのは素顔を公開されないためだ。特殊部隊の人間は恨まれるため、個人情報がばれるとテロリストに復讐されるおそれがある。
+　だから、特殊部隊員は顔を隠し、機密に守られる。軍でも警察でもそこはおなじだ。
+　――と、そんなことが書いてあった。[p][cm]
+
+[backlay][layopt layer=message page=back visible=false][trans method=crossfade time=400][wt]
+[backlay][image storage="ev34" layer=2 page=back visible=true][trans method=crossfade time=1000][wt]
+[backlay][layopt layer=message page=back visible=true][trans method=crossfade time=400][wt]
+
+　俺は兵士たちをじっと見た。
+　あいつらは特殊部隊。それはたしかだろう。
+　じゃあいったいなにしてるんだ？
+　映画の撮影。一番ありえそうな答えだ。
+　あいつらは本職の軍人じゃなくて、アクション俳優。
+　怪物退治に自衛隊出動なんて、フィクションのなかのできごとだと考えるのがふつうだろ？
+　説明はつく……と思う。[p][cm]
+
+　でもちがう。
+　リアルすぎる光景。カットも休憩もない戦闘。
+　映画の撮影だと思いこむのは無理だ。
+　常識に逃げこもうとしても目の前の現実があまりに本物で、俺のもといた生ぬるい世界が遠くに思えてくる。[p][cm]
+
+
+[backlay][layopt layer=message page=back visible=false][trans method=crossfade time=400][wt]
+[backlay][image storage="black" layer=2 page=back visible=true][trans method=crossfade time=600][wt]
+[layopt layer=3 page=fore visible=false]
+[backlay][layopt layer=2 page=back visible=false][trans method=crossfade time=1000][wt]
+[backlay][image storage="bg03" layer=base page=back visible=true][trans method=universal rule="run" time=1000 vague=20][wt]
+[backlay][layopt layer=message page=back visible=true][trans method=crossfade time=400][wt]
+
+　遠くのほうに目を向けた。
+　なんだあれ。
+
+[backlay][layopt layer=message page=back visible=false][trans method=crossfade time=400][wt]
+[backlay][image storage="black" layer=2 page=back visible=true][trans method=crossfade time=1000][wt]
+[image storage="暗闇" layer=3 page=fore visible=true]
+[image storage="暗闇" layer=3 page=back visible=true]
+[image storage="ev32" layer=2 page=back visible=true top=-200]
+[trans method=crossfade time=1000]
+[wt]
+[move layer=2 page=fore time=1000 path="(0,-200,255)(0,0,255)" accel="-3"]
+[wm]
+;;※ＵＨ－６０の用語説明フラグ
+[eval exp="sf.uh60 = true"]
+[backlay][layopt layer=message page=back visible=true][trans method=crossfade time=400][wt]
+
+　こげ茶色と深緑のまだら模様でカラーリングされた機械の塊。
+　ヘリコプター、だよな。
+　街なかでよく目にする細いシルエットのヘリじゃなく、軍用の野太い機体だ。“尾”の部分の側面に赤い丸が描かれている。
+　……自衛隊のマーク、かな。日の丸みたいな形だ。
+　三人の部隊員が、Ｍ４Ａ１とヘリにそなえつけられたマシンガンで応戦していた。よく見ると複座の操縦席に二人のパイロットが座っている。[p][cm]
+
+　あれが撮影の大道具のはずない。本物だ。ヘリも自衛隊も、そして巨大な動物も。
+　心臓がばくばくいっている。
+　口を開けて息を吸おうとしたとき、舌先が硬いものに触れた。[p][cm]
+
+[backlay][image storage="black" layer=2 page=back visible=true][trans method=crossfade time=1000][wt]
+[layopt layer=3 page=fore visible=false]
+[stopse buf=1][stopse buf=0]
+[pausebgm]
+
+　――ガリッ。
+　
+　この感触、さっきも触れて、吐きだしたやつだ。
+　変だな。外から飛びこんできたおぼえはないのに。まるで口のなかからでてきたみたいだ。
+　砂粒としては大きめの、そして硬く、鋭すぎる塊を、俺は舌で操り口の先まで持ってくる。
+　ほんの軽い気持ちで、口に含んだちいさな塊を白い手のひらに吐きだした。[p][cm]
+
+[fadeinbgm storage="bgm22" loop=true time=3000]
+
+　――歯？
+　鋭い根本の奥歯、犬歯、前歯。かすかに黄色く変色した永久歯が手のひらにのっていた。
+　人間の歯？　あれ？　口のなかなんで歯が？
+　あ、あ、あ。そ、それに。手。手！
+　手が、ど、どうなっちまったんだ？　変だ。[p][cm]
+
+　俺の手がおかしい。ただれたような、まるで皮膚病になったような。
+　指のふしがごつごつしている。骨のかたちが狂ったみたいだ。
+　とてつもない勢いで鼓動が速まる。早鐘が心臓を叩きつけているように体内で響く。[p][cm]
+
+　手だけじゃない。足も、腹も、背中も皮膚の感覚がふつうじゃない。
+　頭も？
+　手で顔を覆う。髪の毛に指が触れ……ない。
+　え？　え？
+　なんだ。硬い。硬いものが頭に“ある”。髪の毛がない。
+　ああああああ……俺はどうなったんだ？[p][cm]
+
+　――カーブミラー。
+　道路わきにカーブミラーがある。
+　あれに、俺を映して。自分の姿を見れば。
+　なにが起こっているのかわかるはずだ。
+　恐ろしい予感に足がすくむ。
+　だけど見ないと。自分にどんな変化が起こったのかたしかめないと。
+　くそ……！
+　
+　なにも起こっていなければよかったのに。[p][cm]
+
+[backlay][layopt layer=message page=back visible=false][trans method=crossfade time=400][wt]
+[pausebgm]
+[backlay][image storage="black" layer=2 page=back visible=true][trans method=crossfade time=1000][wt]
+[backlay][image storage="ev13" layer=2 page=back visible=true][trans method=crossfade time=1000][wt]
+[wait time=1000]
+[playbgm storage="bgm12" loop=true]
+[backlay][layopt layer=message page=back visible=true][trans method=crossfade time=400][wt]
+
+　そこに映っていたのはまぎれもなくあの動物。いまの自分の姿だった。
+「……なん……だよ」
+　体毛のない、滑らかな白い皮膚。肉厚で無骨な手足。服や靴は魔法みたいに消えていた。
+　抜けたものとはちがう、凶悪なまでの鋭利な形状の歯が口から覗いている。
+　たぶん、生え替わったんだ。
+　力なく垂らした腕の先から古い歯がばらばらと落ちてゆく。[p][cm]
+
+　これが現実なのか。さっきから続きっぱなしのありえない光景のなかでも、一番にありえないものだ。
+「俺は……人間じゃなくなってるのか？」
+　口にしてしまうと、いっそうの重さが腹の底に沈んだ。嫌だ。そんなのは……だめだ。ふざけるんじゃない。
+　夢か？　でも、こんなに意識がはっきりしている。
+　どうすればいいんだ、これから。
+「嫌だ……」
+　膨れあがった恐怖の波が押し寄せ、去ってゆくと、途端に頭が働かなくなった。[p][cm]

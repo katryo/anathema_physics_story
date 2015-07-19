@@ -1,0 +1,144 @@
+﻿*scene４－３|４－３
+[cm]
+
+[position top=420 height=170 margint=3][style size=22]
+[backlay][layopt layer=message page=back visible=true][trans method=crossfade time=400][wt]
+
+　――奈美。
+
+【奈美】「蒼一！？」
+
+【蒼一】「……よう」
+
+【奈美】「よう、じゃないわよっ……！」
+
+　奈美がかすれた声をだした。
+
+　そう、か。
+
+　俺には、倒れたとき、支えてくれるやつがいたんだ。
+
+　だんだんと気持ちが落ち着いてきた。戦いは終わった。俺はあのヤエザキを倒し、追い払った。俺たちは勝ったんだ。
+
+
+　ん、なんだこれ。
+
+　俺の顔のうえに、なまぬるい水みたいなものが落ちてきた。
+
+　……これは涙か。
+
+
+【蒼一】「おまえ、泣いてんのか」
+
+【奈美】「……悪い……！？」
+
+　顔をくしゃくしゃにして、嗚咽をもらす奈美。
+
+【奈美】「蒼一が死んじゃうかと思ったのよ……？　あんた、あいつに殴りつけられて、倒れたとき、もう……！」
+
+　流れる涙をぬぐおうともせず、鼻水まで垂らしてそいつは泣いていた。
+
+【蒼一】「ごめんな」
+
+【奈美】「ひぐっ……ひぐっ……」
+
+
+[backlay][image storage="ev28" layer=2 page=back visible=true][trans method=crossfade time=1000][wt]
+
+　むせび泣くそいつの頭を指先を置いた。いったんはびくりと身体を震わせたが、奈美は抗わなかった。
+
+【蒼一】「もう大丈夫だ。ヤエザキのやつは倒したよ。俺とおまえを傷つけるやつはいない」
+
+　そう言って、俺は奈美の頭を大きなアナテマの指で撫でてやった。
+
+【奈美】「うっ……うぇっ……ん……ん」
+
+　ちょっとは落ち着いたみたいだ。
+
+　撫でられるがまま大人しくなった奈美を見て、正直なところ――すごく可愛いと思った。
+
+　あー、こんな状況でなにを考えてんだろうな、俺は。
+
+　だけどまあ、いいか。
+
+　アナテマも特戦群もすぐにはやってこないだろう。もうちょっとのあいだ、こいつに触れていたい。
+
+;;｛
+;;◎イベント絵：black／フェード1000
+
+;;☆特殊命令：文字表示をもとに戻す
+[delay speed=user]
+[resetstyle]
+
+[backlay][layopt layer=message page=back visible=false][trans method=crossfade time=400][wt]
+;;☆ＡＤＶモード
+[backlay][image storage="ev41" layer=2 page=back visible=true][trans method=crossfade time=3000][wt]
+[backlay][layopt layer=message page=back visible=true][trans method=crossfade time=400][wt]
+
+【奈美】「……ねえ、これからどうする？」
+
+【蒼一】「そうだな……とりあえず、立ち上がろうか」
+
+【奈美】「うん……」
+
+【蒼一】「……と思ったんだが、しばらくこのままでいいか？」
+
+【奈美】「……なんで？」
+
+【蒼一】「珍しくおまえがかわいいから」
+
+【奈美】「……はあ？」
+
+
+[backlay][image storage="black" layer=2 page=back visible=true][trans method=crossfade time=100][wt]
+[quake time=500]
+
+【蒼一】「いたっ！」
+
+　奈美が俺の頭を地面に落としやがった。ざらついたアスファルトが冷たい。
+
+【蒼一】「ぐうぅ……おまえなあ！　ヤエザキの蹴りより痛かったぞ？」
+
+【奈美】「はいはい、早く起きあがる！」
+
+　奈美の大声が耳に刺さる。
+　やれやれ、やっぱりこいつがかわいいはずなかったな。
+
+　ため息をついて、俺はゆっくりと立ちあがった。
+
+;;｛
+;;♪ＢＧＭ止め／フェード3000
+;;☆ビジュアルノベルモード
+[jump storage="second.ks" target="*scene５－１"]
+
+
+*ending|エンディングの選択肢
+
+[backlay][layopt layer=message page=back visible=false][trans method=crossfade time=400][wt]
+[delay speed=nowait]
+[position top=30 margint=40 height=560][style size=26]
+[backlay][layopt layer=message page=back visible=true][trans method=crossfade time=400][wt]
+*option|はじめに戻るか終わるかの選択肢
+
+[cm]
+[style align=center]
+[r]
+[r]
+[r]
+[r]
+[r]
+[link target=*return enterse=button01]はじめに戻る[endlink][r]
+[link target=*end enterse=button01]終わる[endlink]
+[s]
+
+*return|はじめに戻る
+[cm]
+[gotostart ask=true]
+[jump storage=fifth.ks target=*option]
+[s]
+
+*end|終わる
+[cm]
+[close ask=true] 
+[jump storage=fifth.ks target=*option]
+[s]
