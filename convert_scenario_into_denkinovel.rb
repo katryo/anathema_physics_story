@@ -18,7 +18,7 @@ class Scenario
     @text.gsub!(/^□.*\n/, "")
     @text.gsub!(/^【.*】/, "")
     @text.gsub!(/(\[.*?\])/, "")
-    @text.gsub!(/;;＠\r\n/, "\n[page]")
+    @text.gsub!(/;;＠(\n|\r\n)/, "\n[page]")
     @text.gsub!(/\r\n\r\n/, "")
     @text.gsub!(/\n\n/, "")
     @text.gsub!(/\{(.*?)\}/, '[\1]')
