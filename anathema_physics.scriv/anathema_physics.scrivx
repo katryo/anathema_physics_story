@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<ScrivenerProject Version="1.0" Creator="SCRMAC-2.6-25480" Modified="2015-07-19 23:19:46 +0900">
+<ScrivenerProject Version="1.0" Creator="SCRMAC-2.6-25480" Modified="2015-07-21 01:22:02 +0900">
     <Binder>
         <BinderItem ID="12" Type="Text" Created="2015-07-19 23:02:34 +0900" Modified="2015-07-19 23:02:34 +0900">
             <Title>Novel Format</Title>
@@ -19,8 +19,32 @@
                 <PageBreakBefore>Yes</PageBreakBefore>
             </MetaData>
             <Children>
-                <BinderItem ID="25" Type="Folder" Created="2015-07-19 23:02:34 +0900" Modified="2015-07-19 23:02:34 +0900">
-                    <Title>Part</Title>
+                <BinderItem ID="4" Type="Folder" Created="2015-07-19 23:02:34 +0900" Modified="2015-07-19 23:07:35 +0900">
+                    <Title>プロローグ</Title>
+                    <MetaData>
+                        <LabelID>2</LabelID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem ID="26" Type="Text" Created="2015-07-19 23:02:34 +0900" Modified="2015-07-20 18:55:14 +0900">
+                            <Title>anathema_scenario1</Title>
+                            <MetaData>
+                                <LabelID>4</LabelID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>1179,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem ID="25" Type="Folder" Created="2015-07-19 23:02:34 +0900" Modified="2015-07-20 01:20:35 +0900">
+                    <Title>1章</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                         <NotesTextSelection>0,0</NotesTextSelection>
@@ -29,8 +53,8 @@
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                     <Children>
-                        <BinderItem ID="4" Type="Folder" Created="2015-07-19 23:02:34 +0900" Modified="2015-07-19 23:07:35 +0900">
-                            <Title>プロローグ</Title>
+                        <BinderItem ID="27" Type="Folder" Created="2015-07-19 23:02:34 +0900" Modified="2015-07-20 01:20:23 +0900">
+                            <Title>大学の話</Title>
                             <MetaData>
                                 <LabelID>2</LabelID>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -40,47 +64,23 @@
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
                             <Children>
-                                <BinderItem ID="26" Type="Text" Created="2015-07-19 23:02:34 +0900" Modified="2015-07-19 23:07:57 +0900">
-                                    <Title>anathema_scenario1</Title>
+                                <BinderItem ID="33" Type="Text" Created="2015-07-19 23:02:34 +0900" Modified="2015-07-20 22:27:16 +0900">
+                                    <Title>大学へ行く</Title>
                                     <MetaData>
                                         <LabelID>4</LabelID>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                         <NotesTextSelection>0,0</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>11439,0</TextSelection>
-                                    </TextSettings>
-                                </BinderItem>
-                            </Children>
-                        </BinderItem>
-                        <BinderItem ID="27" Type="Folder" Created="2015-07-19 23:02:34 +0900" Modified="2015-07-19 23:08:17 +0900">
-                            <Title>Chapter1</Title>
-                            <MetaData>
-                                <LabelID>2</LabelID>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                                <NotesTextSelection>0,0</NotesTextSelection>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>0,0</TextSelection>
-                            </TextSettings>
-                            <Children>
-                                <BinderItem ID="33" Type="Text" Created="2015-07-19 23:02:34 +0900" Modified="2015-07-19 23:08:27 +0900">
-                                    <Title>Scene</Title>
-                                    <MetaData>
-                                        <LabelID>4</LabelID>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                        <NotesTextSelection>0,0</NotesTextSelection>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>10645,0</TextSelection>
+                                        <TextSelection>2854,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                             </Children>
                         </BinderItem>
                     </Children>
                 </BinderItem>
-                <BinderItem ID="29" Type="Folder" Created="2015-07-19 23:02:34 +0900" Modified="2015-07-19 23:02:34 +0900">
-                    <Title>Part</Title>
+                <BinderItem ID="29" Type="Folder" Created="2015-07-19 23:02:34 +0900" Modified="2015-07-20 01:20:39 +0900">
+                    <Title>2章</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                         <NotesTextSelection>0,0</NotesTextSelection>
@@ -89,8 +89,8 @@
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                     <Children>
-                        <BinderItem ID="30" Type="Folder" Created="2015-07-19 23:02:34 +0900" Modified="2015-07-19 23:02:34 +0900">
-                            <Title>Chapter</Title>
+                        <BinderItem ID="30" Type="Folder" Created="2015-07-19 23:02:34 +0900" Modified="2015-07-20 01:21:02 +0900">
+                            <Title>無人の街</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <NotesTextSelection>0,0</NotesTextSelection>
@@ -99,8 +99,8 @@
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
                             <Children>
-                                <BinderItem ID="31" Type="Text" Created="2015-07-19 23:02:34 +0900" Modified="2015-07-19 23:02:34 +0900">
-                                    <Title>Scene</Title>
+                                <BinderItem ID="31" Type="Text" Created="2015-07-19 23:02:34 +0900" Modified="2015-07-20 01:21:08 +0900">
+                                    <Title>戦い</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                         <NotesTextSelection>0,0</NotesTextSelection>
@@ -126,6 +126,41 @@
                 <TextSelection>0,0</TextSelection>
             </TextSettings>
             <DefaultChildTemplateID>21</DefaultChildTemplateID>
+            <Children>
+                <BinderItem ID="56" Type="Text" Created="2015-07-20 14:04:27 +0900" Modified="2015-07-20 14:15:23 +0900">
+                    <Title>洲原奈美</Title>
+                    <MetaData>
+                        <LabelID>6</LabelID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                        <IconFileName>Characters (Character Sheet).tiff</IconFileName>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>133,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="57" Type="Text" Created="2015-07-20 14:18:19 +0900" Modified="2015-07-20 17:57:25 +0900">
+                    <Title>土岐野蒼一</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>771,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="60" Type="Text" Created="2015-07-20 14:43:25 +0900" Modified="2015-07-20 14:44:07 +0900">
+                    <Title>茜</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>43,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+            </Children>
         </BinderItem>
         <BinderItem ID="18" Type="Folder" Created="2015-07-19 23:02:34 +0900" Modified="2015-07-19 23:02:34 +0900">
             <Title>Places</Title>
@@ -350,6 +385,16 @@
                         <TextSelection>33,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
+                <BinderItem ID="59" Type="Text" Created="2015-07-20 14:43:02 +0900" Modified="2015-07-20 15:32:16 +0900">
+                    <Title>キャラクター設定</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,458</TextSelection>
+                    </TextSettings>
+                </BinderItem>
             </Children>
         </BinderItem>
         <BinderItem ID="2" Type="TrashFolder" Created="2015-07-19 23:02:34 +0900" Modified="2015-07-19 23:02:34 +0900">
@@ -400,6 +445,59 @@
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
+                <BinderItem ID="54" Type="Text" Created="2015-07-20 01:19:34 +0900" Modified="2015-07-20 01:19:34 +0900">
+                    <Title>Untitled</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="55" Type="Text" Created="2015-07-20 01:19:53 +0900" Modified="2015-07-20 01:19:53 +0900">
+                    <Title>Untitled</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="58" Type="Text" Created="2015-07-20 14:42:22 +0900" Modified="2015-07-20 14:42:22 +0900">
+                    <Title>Untitled</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="61" Type="Text" Created="2015-07-20 14:43:34 +0900" Modified="2015-07-20 14:43:34 +0900">
+                    <Title>Character Sketch</Title>
+                    <MetaData>
+                        <LabelID>6</LabelID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                        <IconFileName>Characters (Character Sheet).tiff</IconFileName>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>32,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="62" Type="Text" Created="2015-07-20 15:31:04 +0900" Modified="2015-07-20 15:31:16 +0900">
+                    <Title>キャラクター設定-1</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,301</TextSelection>
+                    </TextSettings>
+                </BinderItem>
             </Children>
         </BinderItem>
     </Binder>
@@ -439,7 +537,7 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2011-04-12 21:30:48 +0900" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" ResetType="Midnight" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="8823" Characters="22586" Date="2015-07-19 23:19:07 +0900"></PreviousSession>
+        <PreviousSession Words="0" Characters="0" Date="2015-07-21 01:21:43 +0900"></PreviousSession>
     </ProjectTargets>
     <TemplateFolderID>20</TemplateFolderID>
     <PrintSettings PaperSize="595.0,842.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="iso-a4" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>

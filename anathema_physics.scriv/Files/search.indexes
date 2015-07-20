@@ -2,7 +2,7 @@
 <SearchIndexes Version="1.0">
     <Documents>
         <Document ID="25">
-            <Title>Part</Title>
+            <Title>1章</Title>
         </Document>
         <Document ID="18">
             <Title>Places</Title>
@@ -11,7 +11,7 @@
             <Title>Paperback Novel</Title>
         </Document>
         <Document ID="33">
-            <Title>Scene</Title>
+            <Title>大学へ行く</Title>
             <Text>
 □シーン１－１／大学へ行く
 ;;｛
@@ -32,7 +32,7 @@
 　朝の八時。すでに暑い。太陽がまぶしい。
 　俺は自転車に乗って家をでた。高校の頃と変わらぬ実家からの出発。変化といえば、十字路の曲がる先が右から左になったくらい。
 　大学に入って一年とちょっと。もう、それだけの時間が過ぎている。
-　去年のことを思い出すと、不手際に恥ずかしささえ感じる。講義選択も、サークル選びも、勝手がよくわからずに気づいた頃には乗り遅れていた。;;@
+　去年のことを思い出すと、不手際に恥ずかしささえ感じる。講義選択も、サークル選びも、勝手がよくわからずに気づいた頃には乗り遅れていた。;;＠
 
 　——今年は？
 　そして、来年は。再来年は。後悔せずにいられるだろうか。
@@ -40,7 +40,8 @@
 　でも、そんなに遠い未来じゃない。言われるまでもなく、考えておいて損はない時期だ。
 　そうだ、未来の俺は、どんな人間になっている？;;＠
 
-　そこまで思いを巡らせて、腹に重たいものを感じる。ああ、いつものだ。;;＠
+　そこまで思いを巡らせて、腹に重たいものを感じる。もう慣れた痛みだ。耐えることに努力がいらないほど、毎日感じるようになったもの。
+　この感覚を覚えはじめたのも、一年くらい前だ。こいつがなかった頃、どんな気持ちで一日を過ごしていたのか思い出せない。;;＠
 
 ;;｛
 ;;◇背景：bg69／フェード1000
@@ -51,6 +52,8 @@
 　俺が高校を卒業してからもけっこう頻繁に顔をあわせる。
 　あいつは高三だから今年で受験生だ。
 　そして、奈美はたま～に言ってくるんだ。「勉強を教えてほしい」って。;;＠
+
+　なるほど、勉強か。俺があいつに対して持つ数少ない優位性だ。
 
 　なにかと断るのが苦手な俺は家庭教師みたいなことをやらされてる。
 　無給で。
@@ -1020,6 +1023,30 @@
 
 </Text>
         </Document>
+        <Document ID="56">
+            <Title>洲原奈美</Title>
+            <Text>洲原奈美
+
+	Role in Story:	導き手。ゴールへのヒント。
+	Occupation:	高校三年生
+ 	
+
+Physical Description:	
+
+	Personality:	自主自立。自己中心的。
+
+	Habits/Mannerisms:	
+ 	
+
+	Background:	物理学（理論）。
+
+	Internal Conflicts:	自分を理解してくれる者の不在。
+
+	External Conflicts:	 アナテマの実験に生き残ること。蒼一と自分、両方が生き残ることがルール上難しいこと
+ 	
+
+	Notes:	</Text>
+        </Document>
         <Document ID="11">
             <Title>Title Page</Title>
             <Synopsis>Title page to the manuscript.</Synopsis>
@@ -1258,7 +1285,54 @@ Quisque elit ligula, tempor laoreet sagittis quis, accumsan quis purus. Aliquam 
             <Notes>These tags get replaced with the information set in Project &gt; Meta-Data Settings… &gt; Project Properties. You can edit those settings or just replace this text altogether.</Notes>
         </Document>
         <Document ID="27">
-            <Title>Chapter1</Title>
+            <Title>大学の話</Title>
+        </Document>
+        <Document ID="57">
+            <Title>土岐野蒼一</Title>
+            <Text>氏名
+身長
+体重
+服装
+身体能力
+肌の色
+髪の色
+目の色
+外見の印象
+話すとわかる印象
+性格
+職業
+趣味
+専門分野
+外面的葛藤
+内面的葛藤
+恐れるもの
+悩んでいること
+精神的な自己の殻
+自己の殻に向き合うきっかけ
+自己の殻を壊すために取る行動
+自己の殻を壊した結果、変化したこと
+好きな本
+好きな音楽
+好きな映画
+好きな場所
+好きな食べ物
+好きな飲み物
+好きな科目
+苦手な本
+苦手な音楽
+苦手な映画
+苦手な場所
+苦手な食べ物
+苦手な飲み物
+苦手な科目
+幼年時のエピソード
+小学校のエピソード
+中学のエピソード
+高校のエピソード
+短期的目標
+中期的目標
+夢
+後悔していること</Text>
         </Document>
         <Document ID="12">
             <Title>Novel Format</Title>
@@ -1487,7 +1561,7 @@ Surname / TITLE / 6
 </Text>
         </Document>
         <Document ID="29">
-            <Title>Part</Title>
+            <Title>2章</Title>
         </Document>
         <Document ID="21">
             <Title>Character Sketch</Title>
@@ -1558,7 +1632,7 @@ Physical Description:
             <Title>Manuscript Format</Title>
         </Document>
         <Document ID="30">
-            <Title>Chapter</Title>
+            <Title>無人の街</Title>
         </Document>
         <Document ID="46">
             <Title>Dedication</Title>
@@ -1571,7 +1645,7 @@ Your dedication here.</Text>
             <Notes>Feel free to delete this document if you don’t need it.</Notes>
         </Document>
         <Document ID="31">
-            <Title>Scene</Title>
+            <Title>戦い</Title>
         </Document>
         <Document ID="17">
             <Title>Characters</Title>
