@@ -34,7 +34,7 @@
 ;;△立ち：fgnm01ahps／フェード1000
 ;;☆ウェイト：1000
 ;;△立ち消し／フェード1000
-{filter none}{bg fgnm07ahps.png}
+{filter none}{bg ap_nami_1.png}
 
 
 

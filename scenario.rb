@@ -5,7 +5,7 @@ class Scenario
     @file_number = file_number
   end
   def output(type)
-    output_file = open("stories/#{type}_denkinovel#{@file_number}.txt", "w")
+    output_file = open("stories/anathema_#{type}#{@file_number}.txt", "w")
     output_file.write(self.text)
     output_file.close
   end
