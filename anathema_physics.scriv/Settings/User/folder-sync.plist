@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>automaticallyCheckForChanges</key>
-	<false/>
+	<true/>
 	<key>collectionIdentAutosaveName</key>
 	<string>C3A6ED8E-179D-4FEB-986C-607820F19F4C</string>
 	<key>draftFileFormat</key>
@@ -11,7 +11,7 @@
 	<key>draftPlainTextExtension</key>
 	<string>txt</string>
 	<key>folderPath</key>
-	<string>/Users/katryo/Dropbox/アナテマ・フィジクス/scrivener</string>
+	<string>/Users/katryo/work/anathema_physics/scrivener_sync</string>
 	<key>importDestinationID</key>
 	<integer>1</integer>
 	<key>importShowsContainersOnly</key>
@@ -31,6 +31,6 @@
 	<key>takesSnapshots</key>
 	<true/>
 	<key>usesFileNumbering</key>
-	<false/>
+	<true/>
 </dict>
 </plist>

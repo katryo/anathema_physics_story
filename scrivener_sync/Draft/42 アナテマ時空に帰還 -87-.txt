@@ -1,0 +1,398 @@
+;;｛
+[clickskip enabled="false"]
+;;◎イベント絵：ev63d／フェード1000
+;;◎イベント絵：ev63e／フェード1000
+;;◎イベント絵：ev63f／フェード1000
+;;◎イベント絵：ev63g／フェード1000
+;;◎イベント絵：ev63h／フェード1000
+;;☆ウェイト：2000
+;;◎イベント絵：white／フェード1000
+;;♪ＢＧＭ止め／フェード3000
+;;◇背景：bg17b
+;;◎イベント絵消し／フェード3000
+;;◇背景：bg17c／デフォルトフェード3000
+;;☆ウェイト：2000
+;;◎イベント絵：ev53b／フェード1000
+;;♪ＢＧＭ：bgse76
+[clickskip enabled="true"]
+;;｝
+
+　目が開いた。
+　洲原奈美が足を撃たれていた。
+　橘茜は拳銃を手にしている。右手に持ったグリップから、マガジンがゆっくりすべり落ちる。地面に向かって吸い込まれ、硬い音をたてて跳ねる。
+　左手はパウチに伸びている。新しいマガジンが取りだされ、右手の拳銃にそれを差しこもうとしている。
+　そんな瞬間。
+　俺は戻っていた。奈美がいて、橘がいる、取り返しがつくぎりぎりの場所に。;;＠
+
+;;｛
+;;◎イベント絵：black／フェード1000
+;;｝
+
+　自分の右足が撃たれている。弾丸は肉の奥深くに食い込み、痛くて足を動かせない。アナテマの身体は言うことを聞かず、頭だけがとてつもなく冴えている。
+　奈美の呼吸と鼓動が聞こえる。橘の指の挙動が見える。
+　一秒を何百にも分割した時間のなかで、すべてをはっきり感じとれる。;;＠
+
+　立ち上がれない。足が動かない。筋肉が弾丸で断ち切られている。
+　橘がマガジンを拳銃に押しこむ。停滞なくなめらかにグリップの中にそれはおさまり、かちんという音が聞こえてくる。
+　動けない？
+　いや、そんなはずない。;;＠
+
+　俺は誰だ。哀れにも怪物にされ、自衛官に撃たれて身動きできずに奈美が殺されるのを黙って見ている弱っちい人間？
+　違うだろ。
+　俺は土岐野蒼一。哀れにも怪物にされ、自衛官に撃たれて身動きできずにいるが、奈美が殺されるのを黙って見ていられるはずのない、弱っちくても弱虫じゃない、普通の人間だ。
+　普通の人間がやることを、おまえにいま見せてやる。;;＠
+
+;;♪ＢＧＭ止め／フェード1000
+
+【蒼一】「う」
+　こんなところで、寝てられるか。
+【蒼一】「おお、あ」
+　橘が反応した。首を巡らし、俺の挙動に目を向けた。
+【蒼一】「がああああああああっ！」;;＠
+
+;;｛
+[clickskip enabled="false"]
+;;◎イベント絵：white／フェード300
+;;◎イベント絵：ev55b／フェード300
+;;◎イベント絵：white／フェード200
+;;◎イベント絵：ev55c／フェード300
+;;◎イベント絵：white／フェード200
+;;◎イベント絵：ev55d／フェード300
+;;◎イベント絵：white／フェード200
+;;◎イベント絵：ev55／フェード500
+;;◇背景：bg17
+;;☆揺らし：1000
+;;♭効果音：se34
+;;♪ＢＧＭ：bgm04
+[clickskip enabled="true"]
+;;☆ウェイト：1000
+;;｝
+
+　身体が走りだしていた。
+　足が動く。肩も、首も、肘も、重力が消えたように自由に躍動した。
+　もうアナテマじゃない。人間の土岐野蒼一だ。
+　橘が唖然とこちらに目を向ける。
+　奈美に向いていた銃口が外れ、こちらに照準をあわせた。
+　それより早く、俺の手が届く。;;＠
+
+;;｛
+;;◎イベント絵消し／フェード500
+;;｝
+
+【蒼一】「ああああああッ！」
+
+;;｛
+;;◎イベント絵：ev21／左下フェード100
+;;♭効果音：se30
+;;｝
+
+　左ロングフックを橘の腕に打ちつけた。その手にしていた拳銃が、はじかれて階段に落ちる。
+【橘】「ぐ……」
+【蒼一】「シッ！」
+
+;;｛
+;;◎イベント絵消し／フェード500
+;;♭効果音：se11
+;;｝
+
+　右ストレート。顎を狙った一撃は、橘のステップバックで空を切る。;;＠
+
+【橘】「……なんだお前は。人間なのか？」
+　橘もさすがに驚いた様子だった。
+　俺だって戸惑っている。アナテマの身体から飛び出せるとは思っていなかった。
+　たしかにあの肉体は傷つき、力を失って、あのままじゃ奈美を助けられなかった。いらない身体を投げ捨てて、自由な動きが取れる身体で戦いたかった。でも、まさか、実現するなんて。ただ奈美を救いたい、そう思っただけなのに。
+　それに、橘の問いかけ。俺の存在そのものを疑う質問。
+　俺は、人間なのか？
+　一瞬考え、はっと、考えることが馬鹿らしいと気づく。;;＠
+
+【蒼一】「そうだ」
+　そうに決まってるだろ？　人間じゃなかったらなんだっていうんだ。
+　アナテマ？　そうか。じゃあ、人間でアナテマだ。それでいいだろ。
+【橘】「なるほど、本当だったんだな、アナテマが人間というのは」
+　あっさり納得したようだ。緊張はまだ解けない。当然か。
+【蒼一】「これでもまだ戦うつもりか？」;;＠
+
+【橘】「当然だ。“アナテマの実験”に勝つにはおまえを殺す必要がある」
+　橘が動いた。
+　話す瞬間の間隙をついて、接近。
+
+;;♭効果音：se11
+
+　いきなりのストレート。バックステップでかわす。
+　そこに、来た。
+　左のロングフック。
+　妙にゆっくり見える。上半身を傾けながら、余裕を持って左腕でブロックしにゆく。
+　この流れは。;;＠
+
+;;※ヤエザキのフラッシュバック
+;;｛
+;;◇背景：black／デフォルトフェード300
+;;△立ち：fgye01／フェード300
+;;☆ウェイト：2000
+;;△立ち消し／フェード300
+;;◇背景：bg17／デフォルトフェード300
+;;｝
+
+　ローキック。
+　それは。もう見た。
+　ヤエザキがやった、対角線のコンビネーションだ。
+【蒼一】「――シャアッ！」
+　一気に前進。ローキックの届かない角度に飛びこむ。
+　ローキックの体勢に入りかけていた橘が目を見開く。
+　その顔に、右の拳を叩きつけた。;;＠
+
+;;｛
+;;◎イベント絵：ev20r／右下フェード100
+;;♭効果音：se30
+;;｝
+
+　入った。
+　顎に、ななめから。
+　橘の膝が揺れ、姿勢が崩れかける。
+
+;;｛
+;;◎イベント絵消し／フェード500
+;;｝
+
+【橘】「う……」
+【蒼一】「シッ！」
+
+;;♭効果音：se70
+
+　追撃のフックはスウェイバックでかわされた。
+　よろめくように橘は後退。;;＠
+
+　勝てる。
+【蒼一】「うおあああああ！」
+　大きく左足から飛び込んだ。
+
+;;♭効果音：se11
+
+　体重をぶちあてるような左フックを打つ。惜しいところでヘッドスリップで躱された。だがその身体は不安定に揺れ、もう一押しで倒れるだろう。
+
+;;｝
+;;◎イベント絵：ev19／下フェード100
+;;♭効果音：se70
+;;｝
+
+　至近距離から、右のショートアッパー。
+　拳が空を切った。;;＠
+
+;;｛
+;;♪ＢＧＭ止め
+;;♭効果音：se01
+;;◎イベント絵：black／フェード500
+;;◎イベント絵：ev56a／フェード2000
+;;◎イベント絵：red／フェード500
+;;｝
+
+　！？
+【蒼一】「ぐぁ」
+　あれ。
+
+;;｛
+[clickskip enabled="false"]
+;;◎イベント絵：ev56a／フェード500
+;;◎イベント絵：ev56b／フェード700
+;;◎イベント絵：ev56c／フェード400
+;;◎イベント絵：ev56d／フェード800
+;;◎イベント絵：ev56e／フェード1000
+;;♭効果音：se34
+[clickskip enabled="true"]
+;;｝
+
+【蒼一】「あ……」
+　腹から血が出ている。
+　息をすると電撃のような感覚が身体を走った。
+　激痛が消えない。;;＠
+
+;;｛
+;;◎イベント絵消し／フェード500
+;;｝
+
+【橘】「はあ……はあ……こんな、無様な戦い方……」
+　橘が眼前でつぶやいた。その手にはナイフが握られている。刀身からぬめりとした液体が流れて手首を伝い、地面に落ちる。;;＠
+
+;;♭効果音：se30
+
+【蒼一】「いッ」
+　橘の足が俺の脛に叩き込まれた。
+　新たに生まれた別種の痛みに、俺はさらに身をよじらせる。
+　そこに。;;＠
+
+;;｛
+;;♭効果音：se01
+;;◎イベント絵：black／フェード200
+;;｝
+
+　う。
+　うああ、あ。
+　が。;;＠
+
+　腹が突き破られた。
+　橘が俺の腹を蹴りこんでいた。ナイフでできた傷口を狙った前蹴り。
+　耐えられない。激痛だとかじゃない。もっと根源的な、命が壊れるような衝撃。
+　崩れ落ちる。;;＠
+
+;;♭効果音：se81b
+
+　上半身が前に転がり、そのまま横になる。
+　身体が動かない。絶対に起き上がれない。
+　ほとんど見えない視界のなかで、橘が拳銃を拾ったのがわかった。持ちあげた拳銃をまっすぐ俺に向けて。;;＠
+
+;;♭効果音：se07
+
+
+;;｛
+;;☆ウェイト：3000
+;;◎イベント絵：ev57a／フェード500
+;;｝
+
+
+　蒼一が撃たれた。
+　わたしはそれを見ていた。助けることはできなかった。
+　こんな場面、目にしたくなかった。あいつが刺されて、蹴られて、撃たれて。
+　いやだ。
+【奈美】「そう……いち……」
+　蒼一は、死んだ。;;＠
+
+
+;;｛
+;;◎イベント絵：ev57b／フェード500
+;;◎イベント絵：ev57c／フェード500
+;;｝
+
+　橘が消えてゆく。
+　水に溶ける墨みたいに、輪郭がなくなって、透けてゆく。
+　そうか。アナテマの実験は終わったんだ。特戦群が――ちがう、人間が勝って、怪物が負けた。だから人間の橘はもとの時空に帰還する。
+　当然、わたしも。人間だから、もうここに用はない。
+　手足がなくなるのがわかる。身体を構成する粒子が別の時空へ移行し、波動関数が収束する。わたしはここからいなくなり、別の、もといた、わたしを待っている世界へ戻る。;;＠
+
+;;｛
+[delay speed="30"]
+[clickskip enabled="false"]
+;;◎イベント絵：ev57d／フェード500
+;;◎イベント絵：white／フェード3000
+;;☆ウェイト：3000
+;;♪ＢＧＭ：bgm30
+;;☆ウェイト：3000
+;;※bgm30にはhttp://www.freesound.org/people/RutgerMuller/sounds/51246/
+;;◎イベント絵：ev58a1／フェード3000
+;;◎イベント絵：ev58a2／フェード3000
+;;◎イベント絵：ev58a3／フェード3000
+;;◎イベント絵：white／フェード3000
+;;◎イベント絵：ev58a4／フェード3000
+;;◎イベント絵：ev58a5／フェード3000
+;;◎イベント絵：ev58a6／フェード3000
+;;◎イベント絵：ev58a7／フェード3000
+;;◎イベント絵：ev58a8／フェード3000
+;;◎イベント絵：ev58a9／フェード3000
+;;◎イベント絵：ev58a10／フェード3000
+;;☆ウェイト：3000
+;;♪ＢＧＭ止め／フェード3000
+;;◎イベント絵：ev58a11／フェード3000
+;;◎イベント絵：ev58a12／フェード3000
+;;◎イベント絵：ev58b／フェード3000
+
+
+[backlay][image storage="ev58b" layer=2 page=back visible=true left=0][trans method=crossfade time=500][wt]
+[move layer=2 time=4000 path="(-420,0,255)" accel="-3"]
+[wm canskip=false]
+[position top=420 height=170 margint=3][style size=22]
+[backlay][layopt layer=message page=back visible=true][trans method=crossfade time=400][wt]
+
+奈美の声が聞こえた。[wait time=3000][cm]
+すぐそばにいるのがわかった。[wait time=3000][cm]
+
+
+[backlay][layopt layer=message page=back visible=false][trans method=crossfade time=400][wt]
+[backlay][image storage="ev58c" layer=2 page=back visible=true left=0][trans method=crossfade time=500][wt]
+[backlay][image storage="ev58d" layer=2 page=back visible=true][trans method=crossfade time=500][wt]
+[backlay][layopt layer=message page=back visible=true][trans method=crossfade time=400][wt]
+[fadeinbgm storage="song01" loop=false time=3000]
+
+【蒼一】[r]「――よう」[wait time=3000][cm]
+【奈美】[r]「蒼一？」[wait time=3000][cm]
+【奈美】[r]「生きてる？」[wait time=3000][cm]
+【蒼一】[r]「ああ、いちおう」[wait time=3000][cm]
+【奈美】[r]「…………う」[wait time=3000][cm]
+【蒼一】[r]「ん？」[wait time=3000][cm]
+【奈美】[r]「うっ……うん……」[wait time=3000][cm]
+【蒼一】[r]「おい、奈美？」[wait time=3000][cm]
+【奈美】[r]「よかった」[wait time=3000][cm]
+
+そうだな。よかった。[wait time=3000][cm]
+心のなかで呟いてみると、ようやく帰ってきた実感らしきものが湧いてきた。[wait time=3000][cm]
+腹を押さえてみると、傷はなくなっていた。あれだけ痛かったのに、まったくなにもなかったみたいに消えている。[wait time=3000][cm]
+そうだ、奈美は？[wait time=3000][cm]
+覗き込んでみると、奈美の指ももとどおりに治っていた。[wait time=3000][cm]
+そうか。[wait time=3000]……うん、よかった。[wait time=3000][cm]
+あの戦いで失ったものは、すべて取り戻した。[wait time=3000]たぶん命も。[wait time=3000][cm]
+俺は死んだはずだった。[wait time=3000]死んだ、といちどは思った。[wait time=3000]でも死んでない。[wait time=3000][cm]
+なんでかわからないけど、俺も奈美も生きている。[wait time=3000]もしかして、生き返った？[wait time=3000][cm]
+まさか、これもライコが見せた夢の続き？[wait time=3000]　……じゃなさそうだ。[wait time=3000][cm]
+俺は負けたはずなのに、なんで生き返ったんだ？[wait time=3000]　アナテマの実験では、負けたほうはみんな死んでしまうんじゃなかったのか。[wait time=3000][cm]
+ライコの言ったルールをよく考えてみる。[wait time=3000]人間と怪物、勝った陣営は全員が蘇る。引き分けのときは、そのままもとの時空へ。[wait time=3000]時間切れまではまだ間があったはずだし、俺は橘にやられて……。[wait time=3000][cm]
+もしかして。[wait time=3000]最後の瞬間、橘が俺を殺して、アナテマの実験が終わったのだとしたら。勝った陣営が生き返ったのだとしたら。[wait time=3000][cm]
+――なるほど、そうなのか。[wait time=3000][cm]
+
+【蒼一】[r]「ありがとな」[wait time=3000][cm]
+【奈美】[r]「え……？」[wait time=3000][cm]
+【蒼一】[r]「いろいろ、ありがとな」[wait time=3000][cm]
+
+全部話してしまうのは恥ずかしいから無理として。[wait time=3000]とりあえず、言ったほうがいいことは言うことにした。[wait time=3000][cm]
+こいつと。[wait time=3000][cm]
+これからは、ちょっとはまともに、相手をできるかな。[wait time=3000][cm]
+背中に感じる温かさが、頼りないようでいて、とても確かなものに思えた。[wait time=3000][cm]
+
+
+[clickskip enabled="false"]
+[backlay][layopt layer=message page=back visible=false][trans method=crossfade time=400][wt]
+[backlay][image storage="ev58e" layer=2 page=back visible=true top=-400][trans method=crossfade time=3000][wt]
+[wait time=2000]
+[move layer=2 time=4000 path="(0,0,255)" accel="-3"]
+[wm canskip=false]
+
+[image storage="ev58e2" layer=2 page=fore visible=true top=0]
+[backlay][image storage="ev58e4" layer=2 page=back visible=true][trans method=crossfade time=3000][wt]
+[wait time=3000]
+[backlay][image storage="ev58e2" layer=2 page=back visible=true][trans method=crossfade time=3000][wt]
+[backlay][image storage="ev58e6" layer=2 page=back visible=true][trans method=crossfade time=3000][wt]
+[wait time=3000]
+[backlay][image storage="ev58e2" layer=2 page=back visible=true][trans method=crossfade time=3000][wt]
+[backlay][image storage="ev58e7" layer=2 page=back visible=true][trans method=crossfade time=3000][wt]
+[wait time=3000]
+[backlay][image storage="ev58e2" layer=2 page=back visible=true][trans method=crossfade time=3000][wt]
+[backlay][image storage="ev58e8" layer=2 page=back visible=true][trans method=crossfade time=3000][wt]
+[wait time=3000]
+[backlay][image storage="ev58e2" layer=2 page=back visible=true][trans method=crossfade time=3000][wt]
+[backlay][image storage="ev58e9" layer=2 page=back visible=true][trans method=crossfade time=3000][wt]
+[wait time=3000]
+[backlay][image storage="ev58e2" layer=2 page=back visible=true][trans method=crossfade time=3000][wt]
+[backlay][image storage="ev58e10" layer=2 page=back visible=true][trans method=crossfade time=3000][wt]
+[wait time=3000]
+
+[backlay][image storage="black" layer=2 page=back visible=true][trans method=crossfade time=2000][wt]
+[backlay][image storage="ev58e11" layer=2 page=back visible=true][trans method=crossfade time=2000][wt]
+[wait time=4000]
+[backlay][image storage="black" layer=2 page=back visible=true][trans method=crossfade time=2000][wt]
+[backlay][image storage="ev58e12" layer=2 page=back visible=true][trans method=crossfade time=2000][wt]
+[wait time=4000]
+[backlay][image storage="black" layer=2 page=back visible=true][trans method=crossfade time=2000][wt]
+[backlay][image storage="ev58e13" layer=2 page=back visible=true][trans method=crossfade time=2000][wt]
+[wait time=4000]
+[backlay][image storage="black" layer=2 page=back visible=true][trans method=crossfade time=2000][wt]
+[backlay][image storage="ev58e14" layer=2 page=back visible=true][trans method=crossfade time=2000][wt]
+[wait time=4000]
+[backlay][image storage="black" layer=2 page=back visible=true][trans method=crossfade time=2000][wt]
+[backlay][image storage="ev58e15" layer=2 page=back visible=true][trans method=crossfade time=2000][wt]
+[wait time=4000]
+[backlay][image storage="black" layer=2 page=back visible=true][trans method=crossfade time=2000][wt]
+[backlay][image storage="ev58e16" layer=2 page=back visible=true][trans method=crossfade time=2000][wt]
+[wait time=4000]
+[backlay][image storage="black" layer=2 page=back visible=true][trans method=crossfade time=2000][wt]
+[delay speed=user]
+[resetstyle]
+[wait time=12000]
+
+;;※[jump storage="ending.ks" target="*ending"]

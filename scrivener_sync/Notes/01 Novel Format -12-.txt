@@ -1,0 +1,70 @@
+NOVEL WITH PARTS
+
+About This Template
+By default, when compiled (File > Compile), this project will generate a document in the standard manuscript format for novels. The necessary settings are also provided to make it easy to compile to a paperback-style PDF for self-publishing or an EPUB or Kindle e-book.
+
+How To Use This Template
+	•	Create a new folder for each part of your novel as direct subdocuments of the Manuscript folder. Two  folders have already been created at this level for you, with the placeholder title “Part”. You should rename these with the titles of the parts of your novel. For instance, Milan Kundera’s The Unbearable Lightness of Being’s first part is entitled “PART ONE: Lightness and Weight”. In that example, you would name the part, “Lightness and Weight” (the “Part One” will be added during Compile). You can choose not to include these titles during the Compile process.
+	•	Create a new folder for each chapter inside the relevant “Part” folder and title each folder with the name of the chapter. If you don’t intend to use chapter names, just use something descriptive that tells you what the chapter is about. (You do not need to title the folders “Chapter One” and so on, as chapter numbering will be taken care of automatically during the Compile process.) Some chapter folders have been created for you with the placeholder title “Chapter”.
+	•	Create a new text document for each scene inside the chapter folders. (Upon export, scenes will be separated with the “#” character for standard manuscript format, or with a blank line for other formats.)
+	•	Information about characters can be placed in the “Characters” folder, and information about locations can be placed in the “Places” folder. (These are just regular folders that have had custom icons assigned to them using the Documents > Change Icon feature.)
+	•	Character and setting sketch sheets have been provided which can be used for filling out information about the people and places in your novel. These are located in the “Template Sheets” folder. You should not edit the documents in the “Template Sheets” folder directly unless you wish to change the templates (which you are free to do - you may wish to customise the sketch sheets or get rid of them entirely). Instead, to create a new character sheet, click on the Characters folder (or wherever you want to create your new character sheet) and from the Project menu, select New From Template > Character Sketch. This creates a new character sketch document for you to edit and fill in with your character details. You can create setting sketch sheets in the same way. Alternatively, you can just click “Add”, or hit cmd-N, with the Characters or Places folders selected.
+
+Compiling
+	•	Title pages and front matter are all provided in the “Front Matter” folder (between the “Places” and “Research” folders). You will choose different front matter depending on the format to which you are compiling.
+	•	Scrivener remembers your compile settings, so you only need to follow the instructions below when you want to compile to a different format. After that, you can just go to File > Compile… and click the “Compile” button straight away.
+	•	Note that if you cannot find any of the presets mentioned below in the “Format As” menu in the Compile panel, please select “Manage Compile Format Presets…” from the bottom of the “Format As” menu. This will bring up a panel that allows you to add more formats to the menu.
+	•	Tip: You can open this document in a QuickReference panel and have it open alongside the Compile panel if you need to refer to these instructions while compiling.
+
+		To compile to standard manuscript format:
+	◦	Edit the “Title Page” document inside the Front Matter/Manuscript Format folder to ensure that it contains the correct information (note that it will have been filled in by default with information from Address Book).
+	◦	Go to File > Compile…
+	◦	Select “Standard Manuscript Format (with Parts)” from the “Format As” pop-up button if it is not already selected. (If “Novel (with Parts)” is selected, that’s fine too - that’s just the default format for this particular template, which is the same as standard manuscript format.)
+	◦	Ensure that the “Summary” tab is selected at the top of the Compile panel. (This isn’t strictly necessary—the below options can also be found in the “Contents” pane of the “All Options” tab.)
+	◦	Ensure that the “Add front matter” button is ticked and select the “Manuscript Format” folder from the pop-up button next to it (this is already selected by default).
+	◦	Click on “Compile”.
+
+		To compile to paperback PDF format:
+	◦	Edit the front matter pages contained inside the Front Matter/Paperback Novel folder.
+	◦	Go to File > Compile…
+	◦	Select “Paperback Novel (with Parts)” from the “Format As” pop-up button if it is not already selected.
+	◦	Ensure that the “Summary” tab is selected at the top of the Compile panel. (This isn’t strictly necessary—the below options can also be found in the “Contents” pane of the “All Options” tab.)
+	◦	Ensure that the “Add front matter” button is ticked and select the “Paperback Novel” folder from the pop-up button next to it if it is not already selected.
+	◦	Click on “Compile”.
+
+		To compile to e-book format:
+	◦	Edit or remove the dedication page contained inside the Front Matter/E-Book folder. Feel free to add any other front matter documents as required.
+	◦	Import a cover image (the recommended size is 600x800 pixels, preferably in JPG or PNG format). You can store this anywhere, but it makes sense to place it in the “E-Book” front matter folder. A placeholder cover image is already provided - you will want to delete that once you have imported your own.
+	◦	Go to File > Compile…
+	◦	Select “E-book (with Parts)” from the “Format As” pop-up button if it is not already selected.
+	◦	Ensure that the “Summary” tab is selected at the top of the Compile panel. (This isn’t strictly necessary—the below options can also be found in the “Contents”, “Cover” and “Layout” panes of the “All Options” tab.)
+	◦	If you have front matter documents other than the cover image, ensure that the “Add front matter” button is ticked and select the “E-Book” folder from the pop-up button next to it if it is not already selected. If you don’t have any front matter documents, you can un-tick “Add front matter”. (Un-ticking this does not affect the cover image.)
+	◦	If you have imported your own cover image, be sure to select it from the “Cover image” pop-up button.
+	◦	If you don’t want an HTML table of contents included, un-tick “Generate HTML table of contents”. This must be ticked when exporting to Kindle format but is less necessary when exporting to EPUB format, because most EPUB readers generate their own table of contents anyway.
+	◦	From the “Compile for” pop-up button, choose whether to export to EPUB or Kindle format.
+	◦	Click on “Compile”.
+
+Making Changes
+There are various minor changes you can make to the settings to tweak this template so that it better suits your needs, as follows:
+	•	Project and author name: The default book title and author name used in headers and elsewhere can be customised by going to Project > Meta-Data Settings… and choosing the “Project Properties” tab.
+	•	Part subtitles: If you don’t want to include the titles of your “Part” folders in your compiled manuscript, go to the “Formatting” pane in the Compile sheet and deselect “Title” for the “Level 1” folder item. Then click on “Section Layout…” and remove the colon and space at the end of the title prefix (“Part <$t:part>”).
+	•	Chapter subtitles: If you don’t want to include the names of your chapter folders below the chapter numbering text in the compiled document, go to the “Formatting” pane in the Compile sheet and deselect “Title” for the “Level 2+” folder item and the “Level 1” and “Level 2” text items. (Conversely, if you do want to include chapter titles for formats that don’t include them by default, tick these items.)
+	•	Page header and footer: You can edit the page header in the “Page Settings” pane of the Compile sheet (under “All Options”).
+	•	Page size: The “Paperback Novel (with Parts)” format is set to export to a page size of 5.06” x 7.81”, which is one of the formats you can use with CreateSpace. You can customise this by clicking on the “Page Setup…” button in the “Page Settings” pane of Compile.
+	•	Font: You can use “Quick Font Override” in Compile to change the font used throughout the final document (this is available from both the “Summary” and “All Options” tabs). Note that fonts are not included in e-books, however—e-readers choose their own fonts (and you would need to pay a hefty fee for a licence to embed a particular font in an e-book).
+	•	Making your own special folders: The “Characters” and “Places” folders are really just regular folders that have been set up in a particular way, and you are free to create other folders that work in a similar manner.
+	1.	To create a folder with a custom icon, add a new folder, place it where you want it, ensure it is selected, and then go to Documents > Change Icon to choose a different icon.
+	2.	To create your own template sheets, simply create a new document inside the “Template Sheets” folder and set it up however you want (whether by adding text, changing the title, setting default meta-data, or whatever). Now this document will be available as the basis of new documents from the New From Template menu. (You can add a custom icon to this if you so wish, too.)
+	3.	To set things up so that when the special folder created in (1) is selected and you hit “Add”, a new document based on the one you set up in (2) is created, select the folder and go to Documents > Default New Subdocument Type and select the special template document you created.
+	•	Working with chapters instead of scenes: By default, this project is set up so that you write each scene as a separate text document. If you don’t like to break things up quite that much and would prefer to write an entire chapter in each text document, make the following changes:
+	1.	Rename the “Scene” documents to use your chapter titles and move them so that they are contained directly inside the “Part” folders (that is, at the same level as the current “Chapter” folders).
+	2.	Move the chapter folders to the Trash.
+	3.	Create a new text document for each chapter.
+	4.	In the “Separators” pane of the Compile sheet, change the “Text separator” setting to “Page break”.
+	5.	If your scene separators are centred (for instance if you are using “#” as the scene separator) and you want them to appear centred in the compiled document, too, choose the “Formatting” pane of Compile, click on “Options…” and tick “Preserve alignment” and “Centered text only”.
+
+Sample Documents
+The “Sample Output” folder inside the Research folder contains examples of documents that have been created by compiling from this template. “Standard Manuscript” shows the results when compiling to “Standard Manuscript Format (with Parts)”; “Paperback Novel” shows the results when compiling to “Paperback Novel (with Parts)” format; and “iBooks E-book” shows the results when compiling to “E-book (with Parts)” format and opening the resulting EPUB file in iBooks on the iPad.
+
+Final Note
+Scrivener project templates are flexible and are not intended to restrict you to a particular workflow. You can change, delete or move the files and folders contained in the template, and you can create your own templates by setting up a skeletal project with the files, folders and settings you would like to use for new projects and using File > Save As Template.

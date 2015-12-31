@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<ScrivenerProject Version="1.5" Creator="SCRMAC-2.7-26106" Device="RYOKATO-no-MacBook-Pro" Modified="2015-12-31 15:17:34 +0900" ModID="01A534C5-A1A2-4B7C-88A2-66EB51EA26D2">
+<ScrivenerProject Version="1.5" Creator="SCRMAC-2.7-26106" Device="RYOKATO-no-MacBook-Pro" Modified="2015-12-31 17:09:20 +0900" ModID="9026DBAE-5045-42D8-B7DE-5FAAA624F38C">
     <Binder>
         <BinderItem ID="12" UUID="15A10C9D-234D-47EB-BB06-89DC7C74B95D" Type="Text" Created="2015-07-19 23:02:34 +0900" Modified="2015-07-19 23:02:34 +0900">
             <Title>Novel Format</Title>
@@ -105,7 +105,7 @@
                                         <NotesTextSelection>0,0</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>0,0</TextSelection>
+                                        <TextSelection>388,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                                 <BinderItem ID="74" UUID="B4A5E6B1-6AB3-44CE-A113-A793C760EBCB" Type="Text" Created="2015-07-25 18:01:48 +0900" Modified="2015-07-25 18:02:08 +0900">
@@ -130,14 +130,14 @@
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
                             <Children>
-                                <BinderItem ID="75" UUID="18D423D4-A3E6-4121-8E42-98E3C85B8A29" Type="Text" Created="2015-07-25 18:08:10 +0900" Modified="2015-07-25 18:08:51 +0900">
+                                <BinderItem ID="75" UUID="18D423D4-A3E6-4121-8E42-98E3C85B8A29" Type="Folder" Created="2015-07-25 18:08:10 +0900" Modified="2015-12-31 17:00:12 +0900">
                                     <Title>スパーリング</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                         <NotesTextSelection>0,0</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>0,0</TextSelection>
+                                        <TextSelection>314,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                                 <BinderItem ID="76" UUID="3272713F-7EF3-4963-B718-1D8BB7B9A1B0" Type="Text" Created="2015-07-25 18:09:12 +0900" Modified="2015-07-25 18:09:40 +0900">
@@ -900,7 +900,7 @@
         <Collection Type="Arbitrary" ID="C3A6ED8E-179D-4FEB-986C-607820F19F4C" Color="0.979777 0.712824 0.751659">
             <Title>New Collection</Title>
         </Collection>
-        <Collection Type="Binder" ID="48DE1CBF-217F-4B94-944D-6D8C97396DCF" Color="0.784753 0.815752 0.848702">
+        <Collection Type="Binder" ID="48DE1CBF-217F-4B94-944D-6D8C97396DCF" Color="0.962266 0.962266 0.962266">
             <Title>Binder</Title>
         </Collection>
     </Collections>
@@ -932,7 +932,7 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2011-04-12 21:30:48 +0900" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" ResetType="Midnight" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="0" Characters="0" Date="2015-12-31 15:16:25 +0900"></PreviousSession>
+        <PreviousSession Words="1390" Characters="3229" Date="2015-12-31 15:17:29 +0900"></PreviousSession>
     </ProjectTargets>
     <TemplateFolderUUID>5D5C534A-B824-4BF7-AF14-3F51BAF8990E</TemplateFolderUUID>
     <PrintSettings PaperSize="595.0,842.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="iso-a4" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
