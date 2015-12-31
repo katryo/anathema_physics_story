@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <Snapshots Version="1.0">
     <Snapshot>
-        <Title>Pre-Sync External File Version</Title>
-        <Date>2015-07-25 18:48:02 +0900</Date>
-    </Snapshot>
-    <Snapshot>
         <Title>Pre-External File Sync Overwrite</Title>
-        <Date>2015-12-31 17:15:26 +0900</Date>
+        <Date>2015-12-31 17:15:24 +0900</Date>
     </Snapshot>
 </Snapshots>
