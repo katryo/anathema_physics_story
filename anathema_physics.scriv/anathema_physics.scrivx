@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<ScrivenerProject Version="1.0" Creator="SCRMAC-2.6-25480" Modified="2015-07-26 18:37:13 +0900">
+<ScrivenerProject Version="1.5" Creator="SCRMAC-2.7-26106" Device="RYOKATO-no-MacBook-Pro" Modified="2015-12-31 15:17:34 +0900" ModID="01A534C5-A1A2-4B7C-88A2-66EB51EA26D2">
     <Binder>
-        <BinderItem ID="12" Type="Text" Created="2015-07-19 23:02:34 +0900" Modified="2015-07-19 23:02:34 +0900">
+        <BinderItem ID="12" UUID="15A10C9D-234D-47EB-BB06-89DC7C74B95D" Type="Text" Created="2015-07-19 23:02:34 +0900" Modified="2015-07-19 23:02:34 +0900">
             <Title>Novel Format</Title>
             <MetaData>
                 <LabelID>5</LabelID>
@@ -13,7 +13,7 @@
                 <TextSelection>496,0</TextSelection>
             </TextSettings>
         </BinderItem>
-        <BinderItem ID="0" Type="DraftFolder" Created="2015-07-19 23:02:34 +0900" Modified="2015-07-19 23:02:34 +0900">
+        <BinderItem ID="0" UUID="FE60F438-42F9-47AB-AE06-FA6D4CD87240" Type="DraftFolder" Created="2015-07-19 23:02:34 +0900" Modified="2015-07-19 23:02:34 +0900">
             <Title>Manuscript</Title>
             <MetaData>
                 <PageBreakBefore>Yes</PageBreakBefore>
@@ -22,7 +22,7 @@
                 <SelectedSubdocumentIDs>65</SelectedSubdocumentIDs>
             </CorkboardAndOutliner>
             <Children>
-                <BinderItem ID="4" Type="Folder" Created="2015-07-19 23:02:34 +0900" Modified="2015-07-19 23:07:35 +0900">
+                <BinderItem ID="4" UUID="DAD0D587-504D-43F1-A7AB-7D7881653FC3" Type="Folder" Created="2015-07-19 23:02:34 +0900" Modified="2015-07-19 23:07:35 +0900">
                     <Title>プロローグ</Title>
                     <MetaData>
                         <LabelID>2</LabelID>
@@ -33,7 +33,7 @@
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                     <Children>
-                        <BinderItem ID="26" Type="Text" Created="2015-07-19 23:02:34 +0900" Modified="2015-07-26 18:36:43 +0900">
+                        <BinderItem ID="26" UUID="927FF751-D4B1-4FE3-AC80-4AEC0AF5FC29" Type="Text" Created="2015-07-19 23:02:34 +0900" Modified="2015-07-26 18:36:43 +0900">
                             <Title>奈美と話し始める</Title>
                             <MetaData>
                                 <LabelID>4</LabelID>
@@ -44,7 +44,7 @@
                                 <TextSelection>903,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem ID="71" Type="Text" Created="2015-07-25 17:29:56 +0900" Modified="2015-07-26 15:55:16 +0900">
+                        <BinderItem ID="71" UUID="9139E066-4583-40E5-AF28-7CBA4F78E047" Type="Text" Created="2015-07-25 17:29:56 +0900" Modified="2015-07-26 15:55:16 +0900">
                             <Title>奈美と仲良くなる</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -56,7 +56,7 @@
                         </BinderItem>
                     </Children>
                 </BinderItem>
-                <BinderItem ID="25" Type="Folder" Created="2015-07-19 23:02:34 +0900" Modified="2015-07-25 14:53:11 +0900">
+                <BinderItem ID="25" UUID="D638D77C-4005-4E2A-B8D3-D09F8FA80507" Type="Folder" Created="2015-07-19 23:02:34 +0900" Modified="2015-07-25 14:53:11 +0900">
                     <Title>1章: アナテマ時空に行くまで</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -66,7 +66,7 @@
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                     <Children>
-                        <BinderItem ID="27" Type="Folder" Created="2015-07-19 23:02:34 +0900" Modified="2015-07-25 15:12:09 +0900">
+                        <BinderItem ID="27" UUID="E74989A9-88A0-41F7-BC49-1FECD7DDA3F8" Type="Folder" Created="2015-07-19 23:02:34 +0900" Modified="2015-07-25 15:12:09 +0900">
                             <Title>大学〜スパーまで</Title>
                             <MetaData>
                                 <LabelID>2</LabelID>
@@ -77,7 +77,7 @@
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
                             <Children>
-                                <BinderItem ID="33" Type="Text" Created="2015-07-19 23:02:34 +0900" Modified="2015-07-26 18:36:17 +0900">
+                                <BinderItem ID="33" UUID="F1329E47-73DE-4985-9B99-06CC0AEA5034" Type="Text" Created="2015-07-19 23:02:34 +0900" Modified="2015-07-26 22:10:17 +0900">
                                     <Title>奈美と話し、ライコと出会って大学へ行く</Title>
                                     <MetaData>
                                         <LabelID>4</LabelID>
@@ -85,20 +85,20 @@
                                         <NotesTextSelection>0,0</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>3168,0</TextSelection>
+                                        <TextSelection>7843,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem ID="72" Type="Text" Created="2015-07-25 17:56:10 +0900" Modified="2015-07-25 18:51:19 +0900">
-                                    <Title>大学の講義から荒村と出会うまで</Title>
+                                <BinderItem ID="72" UUID="3209C042-50C7-477A-B54D-082901F5DF9D" Type="Text" Created="2015-07-25 17:56:10 +0900" Modified="2015-08-02 20:55:22 +0900">
+                                    <Title>大学の講義から荒村と出会うまで</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                         <NotesTextSelection>0,0</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>209,0</TextSelection>
+                                        <TextSelection>3473,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem ID="73" Type="Text" Created="2015-07-25 18:00:47 +0900" Modified="2015-07-25 18:01:29 +0900">
+                                <BinderItem ID="73" UUID="4935EEB2-F396-4A78-B23F-B095B477684A" Type="Text" Created="2015-07-25 18:00:47 +0900" Modified="2015-07-25 18:01:29 +0900">
                                     <Title>ボクシング部で練習</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -108,7 +108,7 @@
                                         <TextSelection>0,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem ID="74" Type="Text" Created="2015-07-25 18:01:48 +0900" Modified="2015-07-25 18:02:08 +0900">
+                                <BinderItem ID="74" UUID="B4A5E6B1-6AB3-44CE-A113-A793C760EBCB" Type="Text" Created="2015-07-25 18:01:48 +0900" Modified="2015-07-25 18:02:08 +0900">
                                     <Title>奈美との勉強会</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -120,7 +120,7 @@
                                 </BinderItem>
                             </Children>
                         </BinderItem>
-                        <BinderItem ID="63" Type="Folder" Created="2015-07-25 14:54:02 +0900" Modified="2015-07-25 15:12:51 +0900">
+                        <BinderItem ID="63" UUID="E085BDAB-8A05-4C15-B13F-499404AD8AAF" Type="Folder" Created="2015-07-25 14:54:02 +0900" Modified="2015-07-25 15:12:51 +0900">
                             <Title>スパーからアナテマ時空に行くまで</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -130,7 +130,7 @@
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
                             <Children>
-                                <BinderItem ID="75" Type="Text" Created="2015-07-25 18:08:10 +0900" Modified="2015-07-25 18:08:51 +0900">
+                                <BinderItem ID="75" UUID="18D423D4-A3E6-4121-8E42-98E3C85B8A29" Type="Text" Created="2015-07-25 18:08:10 +0900" Modified="2015-07-25 18:08:51 +0900">
                                     <Title>スパーリング</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -140,7 +140,7 @@
                                         <TextSelection>0,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem ID="76" Type="Text" Created="2015-07-25 18:09:12 +0900" Modified="2015-07-25 18:09:40 +0900">
+                                <BinderItem ID="76" UUID="3272713F-7EF3-4963-B718-1D8BB7B9A1B0" Type="Text" Created="2015-07-25 18:09:12 +0900" Modified="2015-07-25 18:09:40 +0900">
                                     <Title>事故から、奈美とケンカするまで</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -150,7 +150,7 @@
                                         <TextSelection>0,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem ID="77" Type="Text" Created="2015-07-25 18:10:09 +0900" Modified="2015-07-25 18:13:20 +0900">
+                                <BinderItem ID="77" UUID="CF8D8DD2-1EF0-4099-A0F8-3453B2ACB740" Type="Text" Created="2015-07-25 18:10:09 +0900" Modified="2015-07-25 18:13:20 +0900">
                                     <Title>アナテマ時空に行く</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -164,7 +164,7 @@
                         </BinderItem>
                     </Children>
                 </BinderItem>
-                <BinderItem ID="29" Type="Folder" Created="2015-07-19 23:02:34 +0900" Modified="2015-07-25 18:19:29 +0900">
+                <BinderItem ID="29" UUID="0A7983CF-6E59-4903-AF01-898A2557CEDC" Type="Folder" Created="2015-07-19 23:02:34 +0900" Modified="2015-07-25 18:19:29 +0900">
                     <Title>2章: アナテマ時空でヤエザキを倒すまで</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -174,7 +174,7 @@
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                     <Children>
-                        <BinderItem ID="30" Type="Folder" Created="2015-07-19 23:02:34 +0900" Modified="2015-07-25 15:10:54 +0900">
+                        <BinderItem ID="30" UUID="D2A0B47D-7BAB-41FC-A1E3-ABDF16144F73" Type="Folder" Created="2015-07-19 23:02:34 +0900" Modified="2015-07-25 15:10:54 +0900">
                             <Title>無人の街で奈美を助けに走りだすまで</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -184,7 +184,7 @@
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
                             <Children>
-                                <BinderItem ID="78" Type="Text" Created="2015-07-25 18:13:26 +0900" Modified="2015-07-25 18:14:07 +0900">
+                                <BinderItem ID="78" UUID="6B4C1612-29ED-4F6B-AEAD-D9F2D51C300D" Type="Text" Created="2015-07-25 18:13:26 +0900" Modified="2015-07-25 18:14:07 +0900">
                                     <Title>戦場で右往左往する</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -194,7 +194,7 @@
                                         <TextSelection>0,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem ID="31" Type="Text" Created="2015-07-19 23:02:34 +0900" Modified="2015-07-25 18:15:46 +0900">
+                                <BinderItem ID="31" UUID="F43F2986-AAF0-4BEF-97EB-3B04957D3BEF" Type="Text" Created="2015-07-19 23:02:34 +0900" Modified="2015-07-25 18:15:46 +0900">
                                     <Title>撃たれて逃げる</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -204,7 +204,7 @@
                                         <TextSelection>0,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem ID="79" Type="Text" Created="2015-07-25 18:14:56 +0900" Modified="2015-07-25 18:15:50 +0900">
+                                <BinderItem ID="79" UUID="62238394-539C-4592-8D2F-656E0635EDEF" Type="Text" Created="2015-07-25 18:14:56 +0900" Modified="2015-07-25 18:15:50 +0900">
                                     <Title>奈美と再会する</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -214,7 +214,7 @@
                                         <TextSelection>0,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem ID="80" Type="Text" Created="2015-07-25 18:16:17 +0900" Modified="2015-07-25 18:19:40 +0900">
+                                <BinderItem ID="80" UUID="499AF82F-293E-444B-AFAD-8758C93F1B2E" Type="Text" Created="2015-07-25 18:16:17 +0900" Modified="2015-07-25 18:19:40 +0900">
                                     <Title>ヤエザキと出会う</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -226,7 +226,7 @@
                                 </BinderItem>
                             </Children>
                         </BinderItem>
-                        <BinderItem ID="64" Type="Folder" Created="2015-07-25 14:56:13 +0900" Modified="2015-07-25 18:19:45 +0900">
+                        <BinderItem ID="64" UUID="C0989736-FBD5-4705-B8AE-886B837C83F3" Type="Folder" Created="2015-07-25 14:56:13 +0900" Modified="2015-07-25 18:19:45 +0900">
                             <Title>ヤエザキとの戦い</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -236,7 +236,7 @@
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
                             <Children>
-                                <BinderItem ID="81" Type="Text" Created="2015-07-25 18:17:21 +0900" Modified="2015-07-25 18:19:50 +0900">
+                                <BinderItem ID="81" UUID="F50A8010-8CC5-4778-B2E5-33825CDEAD43" Type="Text" Created="2015-07-25 18:17:21 +0900" Modified="2015-07-25 18:19:50 +0900">
                                     <Title>ヤエザキとの戦闘。奈美が後ろから狙い撃つまで</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -246,7 +246,7 @@
                                         <TextSelection>0,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem ID="82" Type="Text" Created="2015-07-25 18:18:06 +0900" Modified="2015-07-25 18:21:37 +0900">
+                                <BinderItem ID="82" UUID="7D5E639C-C550-454F-A011-D21915DADFEA" Type="Text" Created="2015-07-25 18:18:06 +0900" Modified="2015-07-25 18:21:37 +0900">
                                     <Title>フラッシュ・バン</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -256,7 +256,7 @@
                                         <TextSelection>0,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem ID="83" Type="Text" Created="2015-07-25 18:21:42 +0900" Modified="2015-07-25 18:21:49 +0900">
+                                <BinderItem ID="83" UUID="BE76304F-4D10-43E0-90C0-36D53D278FB0" Type="Text" Created="2015-07-25 18:21:42 +0900" Modified="2015-07-25 18:21:49 +0900">
                                     <Title>ヤエザキを倒す</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -266,7 +266,7 @@
                                         <TextSelection>178,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem ID="84" Type="Text" Created="2015-07-25 18:23:58 +0900" Modified="2015-07-25 18:24:24 +0900">
+                                <BinderItem ID="84" UUID="2CD2710F-A4C1-4D09-A5FF-92F00896B29C" Type="Text" Created="2015-07-25 18:23:58 +0900" Modified="2015-07-25 18:24:24 +0900">
                                     <Title>前半終わり</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -280,7 +280,7 @@
                         </BinderItem>
                     </Children>
                 </BinderItem>
-                <BinderItem ID="65" Type="Folder" Created="2015-07-25 14:56:36 +0900" Modified="2015-07-25 14:57:31 +0900">
+                <BinderItem ID="65" UUID="AB98E742-C6BD-4C1E-948B-315EB961ABB8" Type="Folder" Created="2015-07-25 14:56:36 +0900" Modified="2015-07-25 14:57:31 +0900">
                     <Title>3章: 茜がアナテマを倒すところから、奈美が連れ去られるところまで</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -290,7 +290,7 @@
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                     <Children>
-                        <BinderItem ID="67" Type="Folder" Created="2015-07-25 15:00:22 +0900" Modified="2015-07-25 15:10:25 +0900">
+                        <BinderItem ID="67" UUID="9B8CDD16-DEF0-44F8-BDA3-E957A577440D" Type="Folder" Created="2015-07-25 15:00:22 +0900" Modified="2015-07-25 15:10:25 +0900">
                             <Title>茜がアナテマを倒して、奈美・蒼一・ライコが集結</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -300,7 +300,7 @@
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
                             <Children>
-                                <BinderItem ID="85" Type="Text" Created="2015-07-25 18:24:57 +0900" Modified="2015-07-25 18:49:08 +0900">
+                                <BinderItem ID="85" UUID="37930CE4-267B-401E-BC54-71A025EFF0CA" Type="Text" Created="2015-07-25 18:24:57 +0900" Modified="2015-07-25 18:49:08 +0900">
                                     <Title>茜が女アナテマを倒す</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -310,7 +310,7 @@
                                         <TextSelection>9892,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem ID="98" Type="Text" Created="2015-07-25 18:46:18 +0900" Modified="2015-07-25 18:46:47 +0900">
+                                <BinderItem ID="98" UUID="F999B06E-D6B4-46AB-9DF8-B9D28E96826A" Type="Text" Created="2015-07-25 18:46:18 +0900" Modified="2015-07-25 18:46:47 +0900">
                                     <Title>奈美の家で休息</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -320,7 +320,7 @@
                                         <TextSelection>6510,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem ID="97" Type="Text" Created="2015-07-25 18:45:24 +0900" Modified="2015-07-25 18:45:30 +0900">
+                                <BinderItem ID="97" UUID="82A25C36-B1CA-421A-9837-854E2F20B409" Type="Text" Created="2015-07-25 18:45:24 +0900" Modified="2015-07-25 18:45:30 +0900">
                                     <Title>ライコ登場</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -330,7 +330,7 @@
                                         <TextSelection>7659,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem ID="96" Type="Text" Created="2015-07-25 18:43:53 +0900" Modified="2015-07-25 18:44:00 +0900">
+                                <BinderItem ID="96" UUID="EF9D80D5-82DF-426D-BAC8-5BDA46928AFF" Type="Text" Created="2015-07-25 18:43:53 +0900" Modified="2015-07-25 18:44:00 +0900">
                                     <Title>料理と食事</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -340,7 +340,7 @@
                                         <TextSelection>5580,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem ID="95" Type="Text" Created="2015-07-25 18:42:28 +0900" Modified="2015-07-25 18:42:36 +0900">
+                                <BinderItem ID="95" UUID="B169A5CC-FC54-499B-9298-79FAE1712793" Type="Text" Created="2015-07-25 18:42:28 +0900" Modified="2015-07-25 18:42:36 +0900">
                                     <Title>最後の平穏な時間</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -352,7 +352,7 @@
                                 </BinderItem>
                             </Children>
                         </BinderItem>
-                        <BinderItem ID="68" Type="Folder" Created="2015-07-25 15:01:06 +0900" Modified="2015-07-25 15:09:55 +0900">
+                        <BinderItem ID="68" UUID="A4124116-FEF2-42E3-89AE-FA4EEEA62443" Type="Folder" Created="2015-07-25 15:01:06 +0900" Modified="2015-07-25 15:09:55 +0900">
                             <Title>つかのまの平穏が崩れ、奈美が拉致される</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -362,7 +362,7 @@
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
                             <Children>
-                                <BinderItem ID="94" Type="Text" Created="2015-07-25 18:41:00 +0900" Modified="2015-07-25 18:41:14 +0900">
+                                <BinderItem ID="94" UUID="349BC853-1932-4792-931F-BE6C1D61959E" Type="Text" Created="2015-07-25 18:41:00 +0900" Modified="2015-07-25 18:41:14 +0900">
                                     <Title>特戦群の急襲</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -372,7 +372,7 @@
                                         <TextSelection>9236,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem ID="93" Type="Text" Created="2015-07-25 18:38:51 +0900" Modified="2015-07-25 18:39:03 +0900">
+                                <BinderItem ID="93" UUID="416B6D45-BA30-4B84-A571-981BAAA5EDB8" Type="Text" Created="2015-07-25 18:38:51 +0900" Modified="2015-07-25 18:39:03 +0900">
                                     <Title>ライコの正体が明らかになる</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -386,7 +386,7 @@
                         </BinderItem>
                     </Children>
                 </BinderItem>
-                <BinderItem ID="66" Type="Folder" Created="2015-07-25 14:57:37 +0900" Modified="2015-07-25 14:58:15 +0900">
+                <BinderItem ID="66" UUID="23448367-7849-4840-8BA9-9B8D9EBF487D" Type="Folder" Created="2015-07-25 14:57:37 +0900" Modified="2015-07-25 14:58:15 +0900">
                     <Title>4章: 最後の戦いに臨むところから、エンディングまで</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -396,7 +396,7 @@
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                     <Children>
-                        <BinderItem ID="69" Type="Folder" Created="2015-07-25 15:01:43 +0900" Modified="2015-07-25 15:13:27 +0900">
+                        <BinderItem ID="69" UUID="9A282E14-E7C3-462E-8C07-8D8E1597E5A0" Type="Folder" Created="2015-07-25 15:01:43 +0900" Modified="2015-07-25 15:13:27 +0900">
                             <Title>無人の駅にて最後の戦いが始まる</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -406,7 +406,7 @@
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
                             <Children>
-                                <BinderItem ID="92" Type="Text" Created="2015-07-25 18:37:16 +0900" Modified="2015-07-25 18:37:25 +0900">
+                                <BinderItem ID="92" UUID="CE8B8E05-7B20-4624-A29A-10E49D21FFB8" Type="Text" Created="2015-07-25 18:37:16 +0900" Modified="2015-07-25 18:37:25 +0900">
                                     <Title>ヘリとの戦い</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -416,7 +416,7 @@
                                         <TextSelection>9297,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem ID="91" Type="Text" Created="2015-07-25 18:36:03 +0900" Modified="2015-07-25 18:36:14 +0900">
+                                <BinderItem ID="91" UUID="A4497290-53CE-4014-9CC7-5932054BAEE2" Type="Text" Created="2015-07-25 18:36:03 +0900" Modified="2015-07-25 18:36:14 +0900">
                                     <Title>茜との決戦</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -428,7 +428,7 @@
                                 </BinderItem>
                             </Children>
                         </BinderItem>
-                        <BinderItem ID="88" Type="Folder" Created="2015-07-25 18:29:20 +0900" Modified="2015-07-25 18:29:49 +0900">
+                        <BinderItem ID="88" UUID="8DE7CA5A-0CF4-4ED5-81C0-C6ADEF09902C" Type="Folder" Created="2015-07-25 18:29:20 +0900" Modified="2015-07-25 18:29:49 +0900">
                             <Title>後悔する出来事がなかった架空の世界</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -438,7 +438,7 @@
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
                             <Children>
-                                <BinderItem ID="89" Type="Text" Created="2015-07-25 18:31:01 +0900" Modified="2015-07-25 18:33:43 +0900">
+                                <BinderItem ID="89" UUID="8B1FA940-F2BB-438F-A518-C6CE6FB44080" Type="Text" Created="2015-07-25 18:31:01 +0900" Modified="2015-07-25 18:33:43 +0900">
                                     <Title>よく似た世界</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -448,7 +448,7 @@
                                         <TextSelection>7018,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem ID="90" Type="Text" Created="2015-07-25 18:33:48 +0900" Modified="2015-07-25 18:34:10 +0900">
+                                <BinderItem ID="90" UUID="EA5F7941-22AF-4E2A-9036-B144866B100E" Type="Text" Created="2015-07-25 18:33:48 +0900" Modified="2015-07-25 18:34:10 +0900">
                                     <Title>後悔を思い出す</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -458,7 +458,7 @@
                                         <TextSelection>6793,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem ID="87" Type="Text" Created="2015-07-25 18:26:50 +0900" Modified="2015-07-25 18:27:05 +0900">
+                                <BinderItem ID="87" UUID="62A59EE8-F4E2-44D1-8EAE-30E3412188D1" Type="Text" Created="2015-07-25 18:26:50 +0900" Modified="2015-07-25 18:27:05 +0900">
                                     <Title>アナテマ時空に帰還</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -468,7 +468,7 @@
                                         <TextSelection>10394,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem ID="86" Type="Text" Created="2015-07-25 18:25:41 +0900" Modified="2015-07-25 18:25:49 +0900">
+                                <BinderItem ID="86" UUID="8D71F2D7-9788-402E-8C25-008E7D279A0E" Type="Text" Created="2015-07-25 18:25:41 +0900" Modified="2015-07-25 18:25:49 +0900">
                                     <Title>エピローグ</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -484,7 +484,7 @@
                 </BinderItem>
             </Children>
         </BinderItem>
-        <BinderItem ID="17" Type="Folder" Created="2015-07-19 23:02:34 +0900" Modified="2015-07-19 23:02:34 +0900">
+        <BinderItem ID="17" UUID="003AAA51-3FF8-4EB4-A782-56D113E97798" Type="Folder" Created="2015-07-19 23:02:34 +0900" Modified="2015-07-19 23:02:34 +0900">
             <Title>Characters</Title>
             <MetaData>
                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -496,7 +496,7 @@
             </TextSettings>
             <DefaultChildTemplateID>21</DefaultChildTemplateID>
             <Children>
-                <BinderItem ID="56" Type="Text" Created="2015-07-20 14:04:27 +0900" Modified="2015-07-22 23:07:43 +0900">
+                <BinderItem ID="56" UUID="4D483C27-3F35-4BA0-A922-9BAE8B72EFA5" Type="Text" Created="2015-07-20 14:04:27 +0900" Modified="2015-07-22 23:07:43 +0900">
                     <Title>洲原奈美</Title>
                     <MetaData>
                         <LabelID>6</LabelID>
@@ -509,7 +509,7 @@
                         <TextSelection>133,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem ID="57" Type="Text" Created="2015-07-20 14:18:19 +0900" Modified="2015-07-20 17:57:25 +0900">
+                <BinderItem ID="57" UUID="FB068BDC-7801-4757-9973-5907A3740DD6" Type="Text" Created="2015-07-20 14:18:19 +0900" Modified="2015-07-20 17:57:25 +0900">
                     <Title>土岐野蒼一</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -519,7 +519,7 @@
                         <TextSelection>771,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem ID="60" Type="Text" Created="2015-07-20 14:43:25 +0900" Modified="2015-07-20 14:44:07 +0900">
+                <BinderItem ID="60" UUID="59133539-642A-4F2F-8106-50F4D2C082E7" Type="Text" Created="2015-07-20 14:43:25 +0900" Modified="2015-07-20 14:44:07 +0900">
                     <Title>茜</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -531,7 +531,7 @@
                 </BinderItem>
             </Children>
         </BinderItem>
-        <BinderItem ID="18" Type="Folder" Created="2015-07-19 23:02:34 +0900" Modified="2015-07-19 23:02:34 +0900">
+        <BinderItem ID="18" UUID="5D0C17C6-8A7D-42C1-9767-E6FE605776B4" Type="Folder" Created="2015-07-19 23:02:34 +0900" Modified="2015-07-19 23:02:34 +0900">
             <Title>Places</Title>
             <MetaData>
                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -543,7 +543,7 @@
             </TextSettings>
             <DefaultChildTemplateID>22</DefaultChildTemplateID>
         </BinderItem>
-        <BinderItem ID="37" Type="Folder" Created="2015-07-19 23:02:34 +0900" Modified="2015-07-19 23:02:34 +0900">
+        <BinderItem ID="37" UUID="D3B54951-393F-4E73-A68D-63D3EC7CDB91" Type="Folder" Created="2015-07-19 23:02:34 +0900" Modified="2015-07-19 23:02:34 +0900">
             <Title>Front Matter</Title>
             <MetaData>
                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -554,7 +554,7 @@
                 <TextSelection>0,0</TextSelection>
             </TextSettings>
             <Children>
-                <BinderItem ID="38" Type="Folder" Created="2015-07-19 23:02:34 +0900" Modified="2015-07-19 23:02:34 +0900">
+                <BinderItem ID="38" UUID="67E66A99-8B58-4E29-9D67-63CB41B42F84" Type="Folder" Created="2015-07-19 23:02:34 +0900" Modified="2015-07-19 23:02:34 +0900">
                     <Title>Manuscript Format</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -564,7 +564,7 @@
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                     <Children>
-                        <BinderItem ID="11" Type="Text" Created="2015-07-19 23:02:34 +0900" Modified="2015-07-19 23:02:34 +0900">
+                        <BinderItem ID="11" UUID="F177B13D-7350-4591-91F8-CCD8CE35733A" Type="Text" Created="2015-07-19 23:02:34 +0900" Modified="2015-07-19 23:02:34 +0900">
                             <Title>Title Page</Title>
                             <MetaData>
                                 <StatusID>6</StatusID>
@@ -578,7 +578,7 @@
                         </BinderItem>
                     </Children>
                 </BinderItem>
-                <BinderItem ID="40" Type="Folder" Created="2015-07-19 23:02:34 +0900" Modified="2015-07-19 23:02:34 +0900">
+                <BinderItem ID="40" UUID="D0DEB34A-F7F8-4AC7-865B-D3956587DEF0" Type="Folder" Created="2015-07-19 23:02:34 +0900" Modified="2015-07-19 23:02:34 +0900">
                     <Title>Paperback Novel</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -588,7 +588,7 @@
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                     <Children>
-                        <BinderItem ID="41" Type="Text" Created="2015-07-19 23:02:34 +0900" Modified="2015-07-19 23:02:34 +0900">
+                        <BinderItem ID="41" UUID="595EA4C2-7739-43F3-9DFB-5BC1472CE458" Type="Text" Created="2015-07-19 23:02:34 +0900" Modified="2015-07-19 23:02:34 +0900">
                             <Title>Title Page</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -599,7 +599,7 @@
                                 <TextSelection>23,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem ID="42" Type="Text" Created="2015-07-19 23:02:34 +0900" Modified="2015-07-19 23:02:34 +0900">
+                        <BinderItem ID="42" UUID="BE35A203-2EB2-4D5A-83D9-FEA96E1380D5" Type="Text" Created="2015-07-19 23:02:34 +0900" Modified="2015-07-19 23:02:34 +0900">
                             <Title>Copyright</Title>
                             <MetaData>
                                 <PageBreakBefore>Yes</PageBreakBefore>
@@ -611,7 +611,7 @@
                                 <TextSelection>9,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem ID="43" Type="Text" Created="2015-07-19 23:02:34 +0900" Modified="2015-07-19 23:02:34 +0900">
+                        <BinderItem ID="43" UUID="8D4F1A29-089F-46E5-BCFA-25A0B0BB39F2" Type="Text" Created="2015-07-19 23:02:34 +0900" Modified="2015-07-19 23:02:34 +0900">
                             <Title>Dedication</Title>
                             <MetaData>
                                 <PageBreakBefore>Yes</PageBreakBefore>
@@ -625,7 +625,7 @@
                         </BinderItem>
                     </Children>
                 </BinderItem>
-                <BinderItem ID="44" Type="Folder" Created="2015-07-19 23:02:34 +0900" Modified="2015-07-19 23:02:34 +0900">
+                <BinderItem ID="44" UUID="1A0AAF47-88B9-4D81-B201-2ADC501565CA" Type="Folder" Created="2015-07-19 23:02:34 +0900" Modified="2015-07-19 23:02:34 +0900">
                     <Title>E-Book</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -635,7 +635,7 @@
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                     <Children>
-                        <BinderItem ID="45" Type="Image" Created="2015-07-19 23:02:34 +0900" Modified="2015-07-19 23:02:34 +0900">
+                        <BinderItem ID="45" UUID="3545CE59-A4BE-4680-B26A-A27A12A5C988" Type="Image" Created="2015-07-19 23:02:34 +0900" Modified="2015-07-19 23:02:34 +0900">
                             <Title>Cover</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -649,7 +649,7 @@
                                 <ImageScalesProportionally>No</ImageScalesProportionally>
                             </MediaSettings>
                         </BinderItem>
-                        <BinderItem ID="46" Type="Text" Created="2015-07-19 23:02:34 +0900" Modified="2015-07-19 23:02:34 +0900">
+                        <BinderItem ID="46" UUID="4106064D-A0A8-4AD0-8EA9-432EC8A76FE1" Type="Text" Created="2015-07-19 23:02:34 +0900" Modified="2015-07-19 23:02:34 +0900">
                             <Title>Dedication</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -664,13 +664,13 @@
                 </BinderItem>
             </Children>
         </BinderItem>
-        <BinderItem ID="1" Type="ResearchFolder" Created="2015-07-19 23:02:34 +0900" Modified="2015-07-19 23:02:34 +0900">
+        <BinderItem ID="1" UUID="7632109C-4083-4371-AB23-C820B772AEF3" Type="ResearchFolder" Created="2015-07-19 23:02:34 +0900" Modified="2015-07-19 23:02:34 +0900">
             <Title>Research</Title>
             <MetaData>
                 <PageBreakBefore>Yes</PageBreakBefore>
             </MetaData>
             <Children>
-                <BinderItem ID="50" Type="Folder" Created="2015-07-19 23:02:34 +0900" Modified="2015-07-19 23:02:34 +0900">
+                <BinderItem ID="50" UUID="6E8ADFAE-0A64-4CB7-A5E8-443E16E4947B" Type="Folder" Created="2015-07-19 23:02:34 +0900" Modified="2015-07-19 23:02:34 +0900">
                     <Title>Sample Output</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -680,7 +680,7 @@
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                     <Children>
-                        <BinderItem ID="36" Type="PDF" Created="2015-07-19 23:02:34 +0900" Modified="2015-07-19 23:02:34 +0900">
+                        <BinderItem ID="36" UUID="55AA6477-E652-4E38-A73B-BA3B9430A76B" Type="PDF" Created="2015-07-19 23:02:34 +0900" Modified="2015-07-19 23:02:34 +0900">
                             <Title>Standard Manuscript</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -691,7 +691,7 @@
                                 <CurrentPDFPage>0</CurrentPDFPage>
                             </MediaSettings>
                         </BinderItem>
-                        <BinderItem ID="49" Type="PDF" Created="2015-07-19 23:02:34 +0900" Modified="2015-07-19 23:02:34 +0900">
+                        <BinderItem ID="49" UUID="4E4B48F7-D999-4C1D-9470-964B01EF9BE1" Type="PDF" Created="2015-07-19 23:02:34 +0900" Modified="2015-07-19 23:02:34 +0900">
                             <Title>Paperback Novel</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -702,7 +702,7 @@
                                 <CurrentPDFPage>27</CurrentPDFPage>
                             </MediaSettings>
                         </BinderItem>
-                        <BinderItem ID="48" Type="Image" Created="2015-07-19 23:02:34 +0900" Modified="2015-07-19 23:02:34 +0900">
+                        <BinderItem ID="48" UUID="170A519E-82D1-4FE6-A64A-D9A801CE7BFB" Type="Image" Created="2015-07-19 23:02:34 +0900" Modified="2015-07-19 23:02:34 +0900">
                             <Title>iBooks E-book</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -720,7 +720,7 @@
                 </BinderItem>
             </Children>
         </BinderItem>
-        <BinderItem ID="20" Type="Folder" Created="2015-07-19 23:02:34 +0900" Modified="2015-07-19 23:02:34 +0900">
+        <BinderItem ID="20" UUID="5D5C534A-B824-4BF7-AF14-3F51BAF8990E" Type="Folder" Created="2015-07-19 23:02:34 +0900" Modified="2015-07-19 23:02:34 +0900">
             <Title>Template Sheets</Title>
             <MetaData>
                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -730,7 +730,7 @@
                 <TextSelection>0,0</TextSelection>
             </TextSettings>
             <Children>
-                <BinderItem ID="21" Type="Text" Created="2015-07-19 23:02:34 +0900" Modified="2015-07-22 23:07:43 +0900">
+                <BinderItem ID="21" UUID="24FA533A-05A5-456A-81C9-F616D853E5AA" Type="Text" Created="2015-07-19 23:02:34 +0900" Modified="2015-07-22 23:07:43 +0900">
                     <Title>Character Sketch</Title>
                     <MetaData>
                         <LabelID>6</LabelID>
@@ -743,7 +743,7 @@
                         <TextSelection>32,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem ID="22" Type="Text" Created="2015-07-19 23:02:34 +0900" Modified="2015-07-19 23:02:34 +0900">
+                <BinderItem ID="22" UUID="D454758E-7919-49DC-A185-9A5F5E6D3BC8" Type="Text" Created="2015-07-19 23:02:34 +0900" Modified="2015-07-19 23:02:34 +0900">
                     <Title>Setting Sketch</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -754,7 +754,7 @@
                         <TextSelection>33,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem ID="59" Type="Text" Created="2015-07-20 14:43:02 +0900" Modified="2015-07-20 15:32:16 +0900">
+                <BinderItem ID="59" UUID="A92EEA86-21BA-479E-B7DF-3836751C925F" Type="Text" Created="2015-07-20 14:43:02 +0900" Modified="2015-07-20 15:32:16 +0900">
                     <Title>キャラクター設定</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -766,13 +766,13 @@
                 </BinderItem>
             </Children>
         </BinderItem>
-        <BinderItem ID="2" Type="TrashFolder" Created="2015-07-19 23:02:34 +0900" Modified="2015-07-19 23:02:34 +0900">
+        <BinderItem ID="2" UUID="EA4F8628-F618-441D-A672-3895F315CE65" Type="TrashFolder" Created="2015-07-19 23:02:34 +0900" Modified="2015-07-19 23:02:34 +0900">
             <Title>Trash</Title>
             <MetaData>
                 <PageBreakBefore>Yes</PageBreakBefore>
             </MetaData>
             <Children>
-                <BinderItem ID="52" Type="Text" Created="2015-07-19 23:07:52 +0900" Modified="2015-07-19 23:07:52 +0900">
+                <BinderItem ID="52" UUID="FFEC6115-3B1E-4FA0-9495-71676FDD390C" Type="Text" Created="2015-07-19 23:07:52 +0900" Modified="2015-07-19 23:07:52 +0900">
                     <Title>Untitled</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -782,7 +782,7 @@
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem ID="51" Type="Text" Created="2015-07-19 23:03:49 +0900" Modified="2015-07-19 23:03:52 +0900">
+                <BinderItem ID="51" UUID="283895B8-B932-44B3-ADF9-B086230E3794" Type="Text" Created="2015-07-19 23:03:49 +0900" Modified="2015-07-19 23:03:52 +0900">
                     <Title>s</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -792,7 +792,7 @@
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem ID="6" Type="Text" Created="2015-07-19 23:02:34 +0900" Modified="2015-07-19 23:02:49 +0900">
+                <BinderItem ID="6" UUID="F61DBF29-377E-41AD-BA19-22C0ADD598E7" Type="Text" Created="2015-07-19 23:02:34 +0900" Modified="2015-07-19 23:02:49 +0900">
                     <Title>Scene</Title>
                     <MetaData>
                         <LabelID>4</LabelID>
@@ -804,7 +804,7 @@
                         <TextSelection>5,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem ID="53" Type="Text" Created="2015-07-19 23:08:09 +0900" Modified="2015-07-19 23:08:09 +0900">
+                <BinderItem ID="53" UUID="4AC59F2C-6618-4805-86D2-82F52A829E44" Type="Text" Created="2015-07-19 23:08:09 +0900" Modified="2015-07-19 23:08:09 +0900">
                     <Title>Untitled</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -814,7 +814,7 @@
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem ID="54" Type="Text" Created="2015-07-20 01:19:34 +0900" Modified="2015-07-20 01:19:34 +0900">
+                <BinderItem ID="54" UUID="BB1E13AB-D4B0-4A5F-8D57-9CF47B9085DE" Type="Text" Created="2015-07-20 01:19:34 +0900" Modified="2015-07-20 01:19:34 +0900">
                     <Title>Untitled</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -824,7 +824,7 @@
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem ID="55" Type="Text" Created="2015-07-20 01:19:53 +0900" Modified="2015-07-20 01:19:53 +0900">
+                <BinderItem ID="55" UUID="E3F91DC8-094B-4E46-8A62-272D7F62614F" Type="Text" Created="2015-07-20 01:19:53 +0900" Modified="2015-07-20 01:19:53 +0900">
                     <Title>Untitled</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -834,7 +834,7 @@
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem ID="58" Type="Text" Created="2015-07-20 14:42:22 +0900" Modified="2015-07-20 14:42:22 +0900">
+                <BinderItem ID="58" UUID="51C27B11-FFDC-48F8-9045-215F5F96EBB9" Type="Text" Created="2015-07-20 14:42:22 +0900" Modified="2015-07-20 14:42:22 +0900">
                     <Title>Untitled</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -844,7 +844,7 @@
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem ID="61" Type="Text" Created="2015-07-20 14:43:34 +0900" Modified="2015-07-20 14:43:34 +0900">
+                <BinderItem ID="61" UUID="40451148-B009-4E71-B09D-BD0BBA1966A5" Type="Text" Created="2015-07-20 14:43:34 +0900" Modified="2015-07-20 14:43:34 +0900">
                     <Title>Character Sketch</Title>
                     <MetaData>
                         <LabelID>6</LabelID>
@@ -857,7 +857,7 @@
                         <TextSelection>32,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem ID="62" Type="Text" Created="2015-07-20 15:31:04 +0900" Modified="2015-07-20 15:31:16 +0900">
+                <BinderItem ID="62" UUID="BA23FE44-29FA-4D19-BDC0-47982E14B0B4" Type="Text" Created="2015-07-20 15:31:04 +0900" Modified="2015-07-20 15:31:16 +0900">
                     <Title>キャラクター設定-1</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -867,7 +867,7 @@
                         <TextSelection>0,301</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem ID="70" Type="Text" Created="2015-07-25 15:40:59 +0900" Modified="2015-07-25 15:41:04 +0900">
+                <BinderItem ID="70" UUID="4AC49F9B-3AA7-440A-BFFE-AE6814CB6B11" Type="Text" Created="2015-07-25 15:40:59 +0900" Modified="2015-07-25 15:41:04 +0900">
                     <Title>anathema_scenario1-1</Title>
                     <MetaData>
                         <LabelID>4</LabelID>
@@ -932,8 +932,8 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2011-04-12 21:30:48 +0900" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" ResetType="Midnight" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="223" Characters="487" Date="2015-07-26 12:21:55 +0900"></PreviousSession>
+        <PreviousSession Words="0" Characters="0" Date="2015-12-31 15:16:25 +0900"></PreviousSession>
     </ProjectTargets>
-    <TemplateFolderID>20</TemplateFolderID>
+    <TemplateFolderUUID>5D5C534A-B824-4BF7-AF14-3F51BAF8990E</TemplateFolderUUID>
     <PrintSettings PaperSize="595.0,842.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="iso-a4" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
 </ScrivenerProject>

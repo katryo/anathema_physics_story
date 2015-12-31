@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>email</key>
+	<string>katoryo55+simplenote@gmail.com</string>
+	<key>exportAddsExtraNewlines</key>
+	<true/>
+	<key>importAssignsNotesToProject</key>
+	<false/>
+	<key>importDestinationGroupID</key>
+	<integer>1</integer>
+	<key>importPopUpShowsContainersOnly</key>
+	<true/>
+	<key>importRemovesExtraNewlines</key>
+	<false/>
+	<key>importTrimsUnyncedMarkedFiles</key>
+	<false/>
+	<key>projectKeyword</key>
+	<string>Anathema Physics</string>
+	<key>savePasswordInKeychain</key>
+	<true/>
+	<key>syncSelectedDocumentsOnly</key>
+	<false/>
+	<key>takesSnapshots</key>
+	<true/>
+	<key>trimUnsyncedProjectFiles</key>
+	<true/>
+</dict>
+</plist>

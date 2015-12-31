@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>automaticallyCheckForChanges</key>
+	<false/>
+	<key>collectionIdentAutosaveName</key>
+	<string>C3A6ED8E-179D-4FEB-986C-607820F19F4C</string>
+	<key>draftFileFormat</key>
+	<integer>0</integer>
+	<key>draftPlainTextExtension</key>
+	<string>txt</string>
+	<key>folderPath</key>
+	<string>/Users/katryo/Dropbox/アナテマ・フィジクス/scrivener</string>
+	<key>importDestinationID</key>
+	<integer>1</integer>
+	<key>importShowsContainersOnly</key>
+	<true/>
+	<key>otherFileFormat</key>
+	<integer>0</integer>
+	<key>otherPlainTextExtension</key>
+	<string>txt</string>
+	<key>plainTextAddsParagraphPadding</key>
+	<false/>
+	<key>syncsDraftFolder</key>
+	<true/>
+	<key>syncsOnlyDocumentsInCollection</key>
+	<false/>
+	<key>syncsOtherTextFiles</key>
+	<true/>
+	<key>takesSnapshots</key>
+	<true/>
+	<key>usesFileNumbering</key>
+	<false/>
+</dict>
+</plist>
