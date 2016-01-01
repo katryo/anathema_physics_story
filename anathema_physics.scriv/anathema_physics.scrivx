@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<ScrivenerProject Version="1.5" Creator="SCRMAC-2.7-26106" Device="RYOKATO-no-MacBook-Pro" Modified="2015-12-31 17:49:07 +0900" ModID="2593A673-02DD-490A-88B1-EB1A882D7100">
+<ScrivenerProject Version="1.5" Creator="SCRMAC-2.7-26106" Device="RYOKATO-no-MacBook-Pro" Modified="2016-01-01 18:17:07 +0900" ModID="5D8EBE5B-F51C-4F7C-B7E3-39E74DBDFC65">
     <Binder>
         <BinderItem ID="12" UUID="15A10C9D-234D-47EB-BB06-89DC7C74B95D" Type="Text" Created="2015-07-19 23:02:34 +0900" Modified="2015-07-19 23:02:34 +0900">
             <Title>Novel Format</Title>
@@ -130,14 +130,14 @@
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
                             <Children>
-                                <BinderItem ID="100" UUID="4E0D50A4-814C-4D6E-8712-88C105A1623C" Type="Text" Created="2015-12-31 17:16:02 +0900" Modified="2015-12-31 17:49:07 +0900">
+                                <BinderItem ID="100" UUID="4E0D50A4-814C-4D6E-8712-88C105A1623C" Type="Text" Created="2015-12-31 17:16:02 +0900" Modified="2016-01-01 18:14:10 +0900">
                                     <Title>スパーリング</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                         <NotesTextSelection>0,0</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>1598,0</TextSelection>
+                                        <TextSelection>1271,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                                 <BinderItem ID="101" UUID="41216984-8F08-4268-9B62-AA7E06CA4585" Type="Text" Created="2015-12-31 17:18:11 +0900" Modified="2015-12-31 17:18:22 +0900">
@@ -917,34 +917,6 @@
         </Collection>
         <Collection Type="Arbitrary" ID="021DFCA1-5F8B-4A79-A927-6FB906B70B64" Color="0.992 0.973 0.769">
             <Title>Updated Documents</Title>
-            <BinderIDs>
-                <BinderID>4</BinderID>
-                <BinderID>25</BinderID>
-                <BinderID>27</BinderID>
-                <BinderID>73</BinderID>
-                <BinderID>63</BinderID>
-                <BinderID>75</BinderID>
-                <BinderID>76</BinderID>
-                <BinderID>29</BinderID>
-                <BinderID>30</BinderID>
-                <BinderID>78</BinderID>
-                <BinderID>31</BinderID>
-                <BinderID>80</BinderID>
-                <BinderID>64</BinderID>
-                <BinderID>81</BinderID>
-                <BinderID>82</BinderID>
-                <BinderID>83</BinderID>
-                <BinderID>65</BinderID>
-                <BinderID>67</BinderID>
-                <BinderID>85</BinderID>
-                <BinderID>98</BinderID>
-                <BinderID>68</BinderID>
-                <BinderID>93</BinderID>
-                <BinderID>66</BinderID>
-                <BinderID>69</BinderID>
-                <BinderID>88</BinderID>
-                <BinderID>86</BinderID>
-            </BinderIDs>
         </Collection>
         <Collection Type="Arbitrary" ID="42791397-FBCD-408B-ACD7-87F1A146199F" Color="0.948969 0.969105 0.810531">
             <Title>New Collection</Title>
@@ -990,7 +962,7 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2011-04-12 21:30:48 +0900" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" ResetType="Midnight" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="9074" Characters="22472" Date="2015-12-31 17:15:13 +0900"></PreviousSession>
+        <PreviousSession Words="0" Characters="0" Date="2016-01-01 17:59:54 +0900"></PreviousSession>
     </ProjectTargets>
     <TemplateFolderUUID>5D5C534A-B824-4BF7-AF14-3F51BAF8990E</TemplateFolderUUID>
     <PrintSettings PaperSize="595.0,842.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="iso-a4" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
