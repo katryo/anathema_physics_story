@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<ScrivenerProject Version="1.5" Creator="SCRMAC-2.7-26106" Device="RYOKATO-no-MacBook-Pro" Modified="2016-01-01 18:17:07 +0900" ModID="5D8EBE5B-F51C-4F7C-B7E3-39E74DBDFC65">
+<ScrivenerProject Version="1.5" Creator="SCRMAC-2.7-26106" Device="RYOKATO-no-MacBook-Pro" Modified="2016-01-01 23:25:42 +0900" ModID="8C8F243F-CC5B-465B-B272-375DCF4F617D">
     <Binder>
         <BinderItem ID="12" UUID="15A10C9D-234D-47EB-BB06-89DC7C74B95D" Type="Text" Created="2015-07-19 23:02:34 +0900" Modified="2015-07-19 23:02:34 +0900">
             <Title>Novel Format</Title>
@@ -130,14 +130,14 @@
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
                             <Children>
-                                <BinderItem ID="100" UUID="4E0D50A4-814C-4D6E-8712-88C105A1623C" Type="Text" Created="2015-12-31 17:16:02 +0900" Modified="2016-01-01 18:14:10 +0900">
+                                <BinderItem ID="100" UUID="4E0D50A4-814C-4D6E-8712-88C105A1623C" Type="Text" Created="2015-12-31 17:16:02 +0900" Modified="2016-01-01 23:24:17 +0900">
                                     <Title>スパーリング</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                         <NotesTextSelection>0,0</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>1271,0</TextSelection>
+                                        <TextSelection>8414,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                                 <BinderItem ID="101" UUID="41216984-8F08-4268-9B62-AA7E06CA4585" Type="Text" Created="2015-12-31 17:18:11 +0900" Modified="2015-12-31 17:18:22 +0900">
@@ -157,7 +157,7 @@
                                         <NotesTextSelection>0,0</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>0,0</TextSelection>
+                                        <TextSelection>316,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                                 <BinderItem ID="77" UUID="CF8D8DD2-1EF0-4099-A0F8-3453B2ACB740" Type="Text" Created="2015-07-25 18:10:09 +0900" Modified="2015-07-25 18:13:20 +0900">
@@ -253,7 +253,7 @@
                                         <NotesTextSelection>0,0</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>0,0</TextSelection>
+                                        <TextSelection>246,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                                 <BinderItem ID="82" UUID="7D5E639C-C550-454F-A011-D21915DADFEA" Type="Text" Created="2015-07-25 18:18:06 +0900" Modified="2015-12-31 17:15:28 +0900">
@@ -962,7 +962,7 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2011-04-12 21:30:48 +0900" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" ResetType="Midnight" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="0" Characters="0" Date="2016-01-01 17:59:54 +0900"></PreviousSession>
+        <PreviousSession Words="1" Characters="3" Date="2016-01-01 17:59:54 +0900"></PreviousSession>
     </ProjectTargets>
     <TemplateFolderUUID>5D5C534A-B824-4BF7-AF14-3F51BAF8990E</TemplateFolderUUID>
     <PrintSettings PaperSize="595.0,842.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="iso-a4" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
